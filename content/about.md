@@ -32,5 +32,5 @@ My hobbies include:
     - movies: Spiderman: Across the Spiderverse, 500 Days of Summer
 
 Check out my friends:
-www.pkosierb.com
-www.tfren99.github.io
+- pkosierb.com
+- www.tfren99.github.io

@@ -31,3 +31,6 @@ My hobbies include:
     - books: Ender's Game, A man called Ove, Berserk
     - movies: Spiderman: Across the Spiderverse, 500 Days of Summer
 
+Check out my friends:
+www.pkosierb.com
+www.tfren99.github.io

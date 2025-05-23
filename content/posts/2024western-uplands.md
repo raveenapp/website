@@ -3,7 +3,7 @@ title: "2024 Western Uplands Hike"
 date: 2025-05-21T20:22:50-04:00
 slug: 2025-05-21-2024western-uplands
 type: posts
-draft: true
+draft: false
 categories:
   - trips
 tags:

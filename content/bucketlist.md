@@ -8,12 +8,12 @@ I saw this on another website years ago and I like the idea of keeping a list bu
 
 ## fitness
 - [ ] run a half marathon
-- [ ] do 10 consective pushups
+- [ ] do 20 consective pushups
+- [ ] do a muscle up
 
 ## professional
 - [ ] complete my masters
-- [ ] figure out where to take my career
-
+- [ ] get a job
 ## fun
 - [ ] go sky diving
 - [ ] get a full sleeve tattoo

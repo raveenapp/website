@@ -13,7 +13,14 @@ Last Updated: 2025-05-23
 
 5 Friend and I hiked through 40ish km of the Western Uplands hike in August of 2024! This was my first time planning a hiking trip and I wanted to document my experience.
 # Route
-**insert image of route**
+{{< figure
+  src="/images/western-uplands-post/map.png"
+  alt="Map of western uplands route with colours for each leg"
+  caption="This was the route we followed. Each colour is a different day"
+  class="ma0 w-75"
+  width=50%
+>}}  
+
 We stayed at the following campsites:
 - Islet 2
 - Tern 2
@@ -87,17 +94,18 @@ I liked the gear I brought, I felt like I used everything I had, or it was good 
 # Food
 Food meal plan:
 - Breakfast
-	- Instant Coffee + Oatmeal
+	- Instant coffee + oatmeal
 - Lunch
-	- Tortilla + Canned Tuna + Baby Carrots
-	- Tortilla + cured meats + Baby Carrots
+	- Tortilla + canned tuna + baby carrots
+	- Tortilla + cured meats + baby carrots
 - Dinner
-	- Knorr's Side Kicks
-	- Shin Ramen
+	- Knorr's sidekicks
+	- Shin ramen
 - Snacks
-	- Sour Patch Kids
-	- Trail Mix
-	- Dried Mangos
+	- Sour patch kids
+	- Trail mix
+	- Dried mangos
+  - Electrolyte packs
 
 {{< figure
   src="/images/western-uplands-post/IMG_5137.jpg"
@@ -159,7 +167,7 @@ Day 2 was good. Algonquin is mostly flat with one or two steep hills. Not a prob
 
 ## Day 3
 
-Day 3 was interesting! A lot mixed terrain from forests to lakes and marshes. We would have to travese some deep mud spots using some makeshift bridges that were laid out for us. Like I mentioned above, though this campsite was large, water access wasn't optimal. You can even see my clothes hanging on the tree after I fell in to the bog. 
+Day 3 was interesting! A lot mixed terrain from forests to lakes and marshes. We had to travese some deep mud spots using some makeshift bridges that were laid out for us. Like I mentioned above, this campsite (Ishkuday 1) was large, but water access wasn't optimal. You can even see my clothes hanging on the tree after I fell in to the bog in one of the pictures. 
   
   {{< figure
   src="/images/western-uplands-post/IMG_5346.jpg"

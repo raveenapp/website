@@ -15,7 +15,10 @@ This is a personal collection of things I've watched and read since I started tr
 ### TV Shows
 - Succession
 - Delicious in Dungeon
-- Invincible Season 3 (NW)
+- Invincible Season 3
+- Lazarus
+- Sakamoto Days
+- Solo Leveling Season 2
 ### Movies
 - The Heat
 - The Brutalist
@@ -23,6 +26,7 @@ This is a personal collection of things I've watched and read since I started tr
 - She's the Man
 - Only the Brave
 - Green Book
+- Howl's Moving Castle
 
 ## 2024
 ### Novels

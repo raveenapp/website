@@ -1,6 +1,6 @@
 baseURL = 'https://raveen.pages.dev/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Raveen.ca'
 theme = 'smol'
 
 # Parameters

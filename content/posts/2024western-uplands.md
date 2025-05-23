@@ -42,15 +42,15 @@ I like this route! Since we had a few new backpackers on the trip, I didn't want
 # Gear
 This is the gear I packed:
 - Clothes
-	- Shorts - standard gym shorts
-	- Shirts - standard polyester gym shirts
-	- Underwear - I usually pack 3-4 pairs (polyster cause cotton makes me chafing)
-	- Socks - I have a couple smart wool socks I use for camping
-	- Sweater - Patagonia Synchilla Snap-T® Fleece Pullover 
-	- Rain Jacket - Colombia rain jacket ** link**
-	- Rain Pants - MEC hiking pants **link**
-	- Hiking Boots - 
-	- Hat - random baseball hat I have
+	- Shorts 
+	- Shirts 
+	- Underwear 
+	- Socks 
+	- Sweater 
+	- Rain Jacket 
+	- Rain Pants 
+	- Hiking Boots
+	- Hat
 	- Sunglasses
 - Hygiene - (I don't think specifics are necessary for these)
 	- Toothbrush/Toothpaste
@@ -61,20 +61,20 @@ This is the gear I packed:
 	- Wet wipes
 	- Bug spray
 - Equipment 
-	- Tent - I currently use an old coleman tent from Canadian tire - due for an upgrade
-	- Sleeping Bag - MEC 
-	- Sleeping Pad - klymet 
-	- Headlamp - link
-	- Stove - Jetboil Minimo link
-	- Fuel - link
-	- Spork - TOAKS spork 
-	- Camp soap - Camp suds
-	- Rope - 50 ft of rope from Canadian Tire
-	- Dry Bag - I usually have a couple for food and clothes
-  - Compression Sack - Sea to Summit - link
+	- Tent
+	- Sleeping Bag 
+	- Sleeping Pad
+	- Headlamp
+	- Stove
+	- Fuel
+	- Spork
+	- Camp soap
+	- Rope
+	- Dry Bag
+  - Compression Sack
   - First Aid Kit
-  - Water filter - Playtypus Quickdraw - !L
-  - Water bottles - I carried a 2.5L camelpack and 2 1L naglene waterbottles, I know this is excessive but I'm a little water anxious so I keep 1L as a reserve emergency bottle
+  - Water filter
+  - Water bottles
   - Multitool
 	- Electronics (battery bank, phone, etc)
 

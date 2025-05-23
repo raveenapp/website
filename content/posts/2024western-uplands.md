@@ -9,6 +9,8 @@ categories:
 tags:
   - backpacking
 ---
+Last Updated: 2025-05-23
+
 5 Friend and I hiked through 40ish km of the Western Uplands hike in August of 2024! This was my first time planning a hiking trip and I wanted to document my experience.
 # Route
 **insert image of route**
@@ -35,9 +37,9 @@ This is the gear I packed:
 - Clothes
 	- Shorts - standard gym shorts
 	- Shirts - standard polyester gym shirts
-	- Underwear - I usually pack 3-4 pairs (polyster cause cotton makes me **cafphe**)
+	- Underwear - I usually pack 3-4 pairs (polyster cause cotton makes me chafing)
 	- Socks - I have a couple smart wool socks I use for camping
-	- Sweater - Fleece - I have the **link patagonia**
+	- Sweater - Patagonia Synchilla Snap-T® Fleece Pullover 
 	- Rain Jacket - Colombia rain jacket ** link**
 	- Rain Pants - MEC hiking pants **link**
 	- Hiking Boots - 

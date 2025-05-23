@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Trips on My New Hugo Site</title>
+    <link>http://localhost:1313/categories/trips/</link>
+    <description>Recent content in Trips on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 21 May 2025 20:22:50 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/trips/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2024 Western Uplands Hike</title>
+      <link>http://localhost:1313/posts/2025-05-21-2024western-uplands/</link>
+      <pubDate>Wed, 21 May 2025 20:22:50 -0400</pubDate>
+      <guid>http://localhost:1313/posts/2025-05-21-2024western-uplands/</guid>
+      <description>&lt;p&gt;5 Friend and I hiked through 40ish km of the Western Uplands hike in August of 2024! This was my first time planning a hiking trip and I wanted to document my experience.&lt;/p&gt;&#xA;&lt;h1 id=&#34;route&#34;&gt;Route&lt;/h1&gt;&#xA;&lt;p&gt;&lt;strong&gt;insert image of route&lt;/strong&gt;&#xA;We stayed at the following campsites:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Islet 2&lt;/li&gt;&#xA;&lt;li&gt;Tern 2&lt;/li&gt;&#xA;&lt;li&gt;Ishkuday 1&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Overall, the route was good! Most of the campsites were fine, but I wouldn&amp;rsquo;t recommend Ishkuday 1. The other campsites had easy water access but at Ishkuday, it was past a bog. There were some planks to stand on but its not very secure and I fell in! Eventually, I just stripped and then made many trips in and out of the bog. As funny as a story as it was, I wouldn&amp;rsquo;t stay at that one again.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

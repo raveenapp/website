@@ -15,7 +15,6 @@ title = 'About'
 Hey! I'm Raveen. 
 
 A little about me:
-- Grew up in Canada and proud of it!
 - I did my undergrad and currently doing my masters in mechanical engineering
 - I am a licensed glider pilot and glider instructor with the air cadet program
 - If you are interested in the [stuff I use]({{< relref "stuff.md" >}})

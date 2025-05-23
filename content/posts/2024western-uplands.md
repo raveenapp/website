@@ -144,7 +144,7 @@ Day 2 was good. Algonquin is mostly flat with one or two steep hills. Not a prob
   {{< figure
   src="/images/western-uplands-post/IMG_5282.jpg"
   alt="A man standing next to an fallen over tree"
-  caption="Me next to a giant tree that had fallen over"
+  caption="Me next to a giant fallen tree"
   class="ma0 w-75"
   width=50%
   >}}

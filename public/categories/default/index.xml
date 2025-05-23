@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Default on My New Hugo Site</title>
+    <title>Default on Raveen.ca</title>
     <link>http://localhost:1313/categories/default/</link>
-    <description>Recent content in Default on My New Hugo Site</description>
+    <description>Recent content in Default on Raveen.ca</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 21 May 2025 17:26:47 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 23 May 2025 17:36:09 -0400</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/default/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My First Post</title>
-      <link>http://localhost:1313/posts/2025-05-21-my-first-post/</link>
-      <pubDate>Wed, 21 May 2025 17:26:47 -0400</pubDate>
-      <guid>http://localhost:1313/posts/2025-05-21-my-first-post/</guid>
-      <description>&lt;p&gt;This is my first post.&lt;/p&gt;&#xA;&lt;figure class=&#34;ma0 w-75&#34;&gt;&lt;img src=&#34;http://localhost:1313/images/western-uplands-post/IMG_5097.jpg&#34;&#xA;    alt=&#34;A photograph of Zion National Park&#34; width=&#34;50%&#34;&gt;&lt;figcaption&gt;&#xA;      &lt;p&gt;Zion National Park&lt;/p&gt;&#xA;    &lt;/figcaption&gt;&#xA;&lt;/figure&gt;</description>
+      <title>2025homelab</title>
+      <link>http://localhost:1313/posts/2025-05-23-2025homelab/</link>
+      <pubDate>Fri, 23 May 2025 17:36:09 -0400</pubDate>
+      <guid>http://localhost:1313/posts/2025-05-23-2025homelab/</guid>
+      <description>&lt;h1 id=&#34;important-stuff&#34;&gt;important stuff&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Specs:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;CPU: INTEL i7-6700K&lt;/li&gt;&#xA;&lt;li&gt;COOLER: Cooler Master Hyper 212 Black Edition&lt;/li&gt;&#xA;&lt;li&gt;RAM: Vengenance LPX DDR4 2400 MHz (8 GB x 2)&lt;/li&gt;&#xA;&lt;li&gt;MOBO: ASUS Z170-A&lt;/li&gt;&#xA;&lt;li&gt;PSU: Corsair RM 550x&lt;/li&gt;&#xA;&lt;li&gt;CASE: Cooler Master N400&lt;/li&gt;&#xA;&lt;li&gt;STORAGE: WD Black NVMe 1TB SSD + 5x 4TB WD Red + 2x 10TB WD Red Pro&lt;/li&gt;&#xA;&lt;li&gt;GPU: Intel ARC A310&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;OS:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;TrueNas Scale - Electric Eel&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Services:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Calibre - Ebook management&lt;/li&gt;&#xA;&lt;li&gt;Kavita - Webbased ereader&lt;/li&gt;&#xA;&lt;li&gt;Immich - Photo backup&lt;/li&gt;&#xA;&lt;li&gt;Jellyfin - Media Server&lt;/li&gt;&#xA;&lt;li&gt;TailScale - VPN&lt;/li&gt;&#xA;&lt;li&gt;qBittorrent - Torrent client with Gluetun vpn client&lt;/li&gt;&#xA;&lt;li&gt;Paperless-ngx - document manager&lt;/li&gt;&#xA;&lt;li&gt;Nginx proxy manager - reverse proxy manager&lt;/li&gt;&#xA;&lt;li&gt;Homepage - dashboard&lt;/li&gt;&#xA;&lt;li&gt;Watchtower - docker container updater&lt;/li&gt;&#xA;&lt;li&gt;Audiobookshelf - audiobook client&lt;/li&gt;&#xA;&lt;li&gt;Sonarr - Show indexer/PVR&lt;/li&gt;&#xA;&lt;li&gt;Radarr - movie indexer/PVR&lt;/li&gt;&#xA;&lt;li&gt;Prowler - indexer&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;the-story&#34;&gt;the story&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;during covid, youtube recommended a video about home servers to me and I instantly i was hooked&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

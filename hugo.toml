@@ -1,11 +1,11 @@
-baseURL = 'https://raveen.pages.dev/'
+baseURL = 'https://www.raveen.ca/'
 languageCode = 'en-us'
 title = 'Raveen.ca'
 theme = 'smol'
 
 # Parameters
 [params]
-    subtitle = "Your blog subtitle goes here!"
+    subtitle = "My piece of the internet!"
     dateFmt = "02.01.2006 15:04"
 
 # Header

@@ -78,7 +78,7 @@ This is the gear I packed:
   - Multitool
 	- Electronics (battery bank, phone, etc)
 
-  Luckily, someone else in our group had the Garmin inReach Mini 2 so we had a satalite GPS as well.
+Someone else in our group had the Garmin inReach Mini 2 so we had a satalite GPS as well, which I recommend if you can borrow/get one. Between the 5 of us, we carried 2 stoves (I carried one of them) and 2 tents, 1 two-person and 1 three-person. I split the three-person one between 3 of us! We all carried our own food, water and garbage.
 
 {{< figure
   src="/images/western-uplands-post/IMG_5097.jpg"

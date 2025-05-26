@@ -21,7 +21,7 @@ In May of 2024, 3 friends and I hiked the Presidential Traverse in New Hampshire
   width=50%
   >}}
 
-This route is slightly off, instead of this start point, we started at the Mount Webster Trailhead and added Mount Jackson to our hike! 
+This route is slightly off. We started at the Mount Webster Trailhead and added Mount Jackson to our hike! 
 
 ## Mileage
 
@@ -64,11 +64,11 @@ This is the gear I packed:
   - Multitool
   - Electronics (battery bank, phone, etc)
 
-We carried 2 tents for the 4 of us (1 two-person and 1 four-person), but we had an issue with the two-person one, so everyone added up sleeping in the four-person one, so we had to get cozy! We all had to carry our own food and water. We only had 1 garbage back so we rotated carrying the bag. We also had a Garmin inReach mini 2 with us as a GPS and satalite beacon. 
+We carried 2 tents for the 4 of us (1 two-person and 1 four-person), but we had an issue with the two-person one, so everyone added up sleeping in the four-person one. We had to get cozy! We all carried our own food and water.  We also had a Garmin inReach mini 2 with us as a GPS and satalite beacon. My one gear regret was also packing my khakhi hiking pants. I've liked them in the past for their durability but it was a wet start to the trip, and the pants got soaked quickly. They don't dry very quickly I ended up putting them in a bag and keeping them in bottom of my pack as deadweight for the rest of the hike. Next time, the rain pants, baselayers and shorts would be enough.
 
   ## Food
 
-One of the guys on the trip is a big fan of the mountain house foods so we 
+One of the guys on the trip is a big fan of the mountain house foods so we used those for breakfast, lunch and dinner. I'm usually a savoury fan but surprisingly my favourite meal out of all of them was the granola with milk and blueberries! It was so good!
 
 ## Day 1
   {{< figure

@@ -26,6 +26,7 @@ This is a personal collection of things I've watched and read since I started tr
 - She's the Man
 - Only the Brave
 - Green Book
+- Mickey 17
 - Howl's Moving Castle
 
 ## 2024

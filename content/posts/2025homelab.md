@@ -8,10 +8,9 @@ categories:
   - projects
 tags:
   - homelab
-  - server
 ---
 
-# important stuff
+# The Important Stuff
 - Specs:
 	- CPU: INTEL i7-6700K
 	- COOLER: Cooler Master Hyper 212 Black Edition
@@ -41,8 +40,9 @@ tags:
 	- Radarr - movie indexer/PVR
 	- Prowler - indexer
 
-	
-# the story
+- Stats: 
+	- Average Power: 94 W
+# The Background
 I first learned about homelabs during covid when youtube recommended a video about home servers to me. At that point, it was just about media servers but instantly I was hooked. I've always been a privacy focused guy when it comes to the internet and its always been a struggle to balance the conviniences of internet and keep my data private. Using a home server for media and file storage seemed like natural progression of that. So when my friend was upgrading his computer, I was able to snag some cheap components off him to start the build. I had to buy the case, storage and cooler! I started with 4 4Tb drives for the setup.
 
 I had no idea where to actually start so went down a major youtube university rabbit hole and found this walkthrough that I liked by Hardware Haven.
@@ -67,4 +67,4 @@ This is the new setup!
 **insert image of new setup**
 
 
-I will probably make some posts outlines how I set up some of the services I am running cause I found the documentation for those to be insufficent.
+I will probably make some posts outlines how I set up some of the services I am running cause I found the documentation for those to be insufficent. You can click on the homelab to see more!

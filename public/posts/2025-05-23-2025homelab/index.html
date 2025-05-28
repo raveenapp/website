@@ -54,12 +54,13 @@
 <ul>
 <li>CPU: INTEL i7-6700K</li>
 <li>COOLER: Cooler Master Hyper 212 Black Edition</li>
-<li>RAM: Vengenance LPX DDR4 2400 MHz (8 GB x 2)</li>
+<li>RAM: 32 GB Vengenance LPX DDR4 2400 MHz (8 GB x 4)</li>
 <li>MOBO: ASUS Z170-A</li>
 <li>PSU: Corsair RM 550x</li>
 <li>CASE: Cooler Master N400</li>
 <li>STORAGE: WD Black NVMe 1TB SSD + 5x 4TB WD Red + 2x 10TB WD Red Pro</li>
 <li>GPU: Intel ARC A310</li>
+<li>HBA: LSI 9207-8i</li>
 </ul>
 </li>
 <li>
@@ -89,67 +90,22 @@
 </li>
 </ul>
 <h1 id="the-story">the story</h1>
-<ul>
-<li>
-<p>during covid, youtube recommended a video about home servers to me and I instantly i was hooked</p>
-</li>
-<li>
-<p>I&rsquo;ve always been a privacy focused guy and loved the idea of having control of the media i used</p>
-<ul>
-<li>the home server became the next evolution of that</li>
-</ul>
-</li>
-<li>
-<p>my friend was upgrading his computer so I was able to get some cheap components to start</p>
-</li>
-<li>
-<p>I had to buy the case, power supply, storage and cooler</p>
-</li>
-<li>
-<p>know literally nothing, I started by following hardware haven&rsquo;s tutorials (link)</p>
-<ul>
-<li>set up with proxmox and truenas core</li>
-<li>used it for mainly media content and backing up photos manually on the file system using photosync</li>
-<li><strong>insert og photo</strong></li>
-</ul>
-</li>
-<li>
-<p>I moved back to my university city after moving I was getting a bios error, getting busy with school and let the computer sit for about a year and half</p>
-</li>
-<li>
-<p>i decided enough time had passed and i would try to get it running again</p>
-<ul>
-<li>literally all I needed to do was update the bios - took 30 mins to do</li>
-</ul>
-</li>
-<li>
-<p>with starting it back up, I thought it would be nice to revamp it</p>
-<ul>
-<li>things I wanted to change:
-<ul>
-<li>change from proxmox + truenas core to just truenas scale
-<ul>
-<li>rational - the vms are unnecessary cause i can run all the services i need through truenas scale</li>
-</ul>
-</li>
-<li>add an hba</li>
-</ul>
-</li>
-</ul>
-</li>
-<li>
-<p>I got the LSI 9207-8i, installed truenas scale</p>
-</li>
-<li>
-<p>I had about 2 weeks of trial and error setting up the services butt i got somewhere functional and happy</p>
-</li>
-<li>
-<p>ive replaced the gpu for intel arc a310</p>
-</li>
-<li>
-<p><strong>insert new photo</strong></p>
-</li>
-</ul>
+<p>I first learned about homelabs during covid when youtube recommended a video about home servers to me. At that point, it was just about media servers but instantly I was hooked. I&rsquo;ve always been a privacy focused guy when it comes to the internet and its always been a struggle to balance the conviniences of internet and keep my data private. Using a home server for media and file storage seemed like natural progression of that. So when my friend was upgrading his computer, I was able to snag some cheap components off him to start the build. I had to buy the case, storage and cooler! I started with 4 4Tb drives for the setup.</p>
+<p>I had no idea where to actually start so went down a major youtube university rabbit hole and found this walkthrough that I liked by Hardware Haven.</p>
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+      <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/kbbnAQ0AQw2FUjAl?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video"></iframe>
+    </div>
+
+<p>Following the video, I build my first server using Proxmox and TrueNAS Core. I ran a vm of Windows 10 that ran my services like Jellyfin and I used PhotoSync to backup my photos on to the server.</p>
+<p><strong>insert og photo</strong></p>
+<p>This worked fine but after a little while of use I realized it wasn&rsquo;t ideal. The Windows VM would crash often cause it would run out of ram so I&rsquo;d constantly login in to Proxmox to restart it. But it would good enough and that was enough for me at that point. As the lockdowns were ramping down, I moved back to my university city. I took the server with me but I kept getting a startup error that I didn&rsquo;t recognize. I got busy with school and didn&rsquo;t make the time to try to troubleshoot the error so I let the system sit for a while.</p>
+<p>About 8 months ago, I thought enough time had passed and I should dedicate a day to fixing the server. After browsing some forums, it was just a BIOS error and all I needed was 30 mins to update the BIOS. After starting it up again, I went to through the same hurdles I went through before, so I thought it would be nice to revamp it!</p>
+<p>I started researching some more, I decided that TrueNAS Scale would be a better OS than running Proxmox + TrueNAS Core for my usecase. I figured that the vm is unnecessary cause I can run all of the services I want via Docker through TrueNAS Scale anyway. I also wanted to order an HBA cause I was thinking of expanding my storage anyway and I was running out of SATA ports in my motherboard. I ordered the LSI 9207-8i from ArtofAServer on Ebay and in the meantime, I offloaded all of my data to a couple external harddrives I had lying around.</p>
+<p>Once the HBA came in, I installed it and TrueNAS Scale on baremetal, and remade my pool in RAIDZ1 and imported my data. After about 2 weeks of playing around with the services, I got back to where I was in the old server. While I was playing around with everything, I looked into the other apps that the TrueNAS Scale community catalogue had to offer and I was so impressed with what was available.</p>
+<p>I ended up upgrading my storage cause I didn&rsquo;t like the amount of redundancy I had, so now I have 2 pools. I have 5x 4TB of RAIDZ2 for all of my important files and then I have 2x 10 TB of MIRROR for all of my media. There is probably some ineffiencies in this set up but thats okay, it was something I wanted to experiment with. I also got an Intel ARC A310 for Jellyfin hardware encoding.</p>
+<p>This is the new setup!
+<strong>insert image of new setup</strong></p>
+<p>I will probably make some posts outlines how I set up some of the services I am running cause I found the documentation for those to be insufficent.</p>
 
 			</div>
 		</article>
@@ -161,6 +117,8 @@
 		</div>
 		<div>
 			<ul>
+				
+				<li><a href="/posts/2025-05-26-volunteerism-internet/">Volunteerism &amp; Internet</a></li>
 				
 				<li><a href="/posts/2025-05-25-altered-carbon/">Altered Carbon</a></li>
 				

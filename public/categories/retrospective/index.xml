@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Retrospective on Raveen.ca</title>
+    <link>http://localhost:1313/categories/retrospective/</link>
+    <description>Recent content in Retrospective on Raveen.ca</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 25 May 2025 00:06:26 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/retrospective/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Altered Carbon Retrospective</title>
+      <link>http://localhost:1313/posts/2025-05-25-altered-carbon/</link>
+      <pubDate>Sun, 25 May 2025 00:06:26 -0400</pubDate>
+      <guid>http://localhost:1313/posts/2025-05-25-altered-carbon/</guid>
+      <description>&lt;p&gt;The guys in the lab and I started a book club together and the first book we read was Altered Carbon by Richard K. Morgan.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -36,12 +36,5 @@
       <guid>http://localhost:1313/tags/homelab/</guid>
       <description></description>
     </item>
-    <item>
-      <title>Server</title>
-      <link>http://localhost:1313/tags/server/</link>
-      <pubDate>Fri, 23 May 2025 17:36:09 -0400</pubDate>
-      <guid>http://localhost:1313/tags/server/</guid>
-      <description></description>
-    </item>
   </channel>
 </rss>

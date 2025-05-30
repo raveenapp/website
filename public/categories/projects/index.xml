@@ -6,8 +6,15 @@
     <description>Recent content in Projects on Raveen.ca</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 23 May 2025 17:36:09 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 29 May 2025 07:51:59 -0400</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How I set up qBittorrent with Gluetun on TrueNAS Scale</title>
+      <link>http://localhost:1313/posts/2025-05-29-qbit-gluetun/</link>
+      <pubDate>Thu, 29 May 2025 07:51:59 -0400</pubDate>
+      <guid>http://localhost:1313/posts/2025-05-29-qbit-gluetun/</guid>
+      <description>&lt;p&gt;One thing that cause me a lot of trouble setting up was running qBittorent with a VPN on TrueNAS Scale. This is cause the community application of qBittorrent doesn&amp;rsquo;t give you the option to edit the install file, so you will manually have to install it instead.&lt;/p&gt;&#xA;&lt;h1 id=&#34;overview&#34;&gt;Overview&lt;/h1&gt;&#xA;&lt;p&gt;Regardless of what you want to torrent, its probably a good idea to run it through a VPN. It masks your IP address so that way it shouldn&amp;rsquo;t be linked back to your usage. Typically, if you were torrenting on your computer, just turning on the VPN app and running it would be fine. But with servers that may run in the background, it is a little more complicated. Especially on something like TrueNAS which doesn&amp;rsquo;t do the typical &amp;ldquo;installing applications&amp;rdquo; like on a computer.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>2025 Homelab</title>
       <link>http://localhost:1313/posts/2025-05-23-2025homelab/</link>

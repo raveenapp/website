@@ -6,13 +6,20 @@
     <description>Recent content in Default on Raveen.ca</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 25 May 2025 00:06:26 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 29 May 2025 07:52:22 -0400</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/default/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Altered Carbon</title>
-      <link>http://localhost:1313/posts/2025-05-25-altered-carbon/</link>
-      <pubDate>Sun, 25 May 2025 00:06:26 -0400</pubDate>
-      <guid>http://localhost:1313/posts/2025-05-25-altered-carbon/</guid>
+      <title>Hardwareacceleration Jellyfin</title>
+      <link>http://localhost:1313/posts/2025-05-29-hardwareacceleration-jellyfin/</link>
+      <pubDate>Thu, 29 May 2025 07:52:22 -0400</pubDate>
+      <guid>http://localhost:1313/posts/2025-05-29-hardwareacceleration-jellyfin/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Nginx Truenas</title>
+      <link>http://localhost:1313/posts/2025-05-29-nginx-truenas/</link>
+      <pubDate>Thu, 29 May 2025 07:51:11 -0400</pubDate>
+      <guid>http://localhost:1313/posts/2025-05-29-nginx-truenas/</guid>
       <description></description>
     </item>
   </channel>

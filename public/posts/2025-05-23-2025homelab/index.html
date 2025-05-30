@@ -90,6 +90,7 @@
 <p>Stats:</p>
 <ul>
 <li>Average Power: 94 W</li>
+<li>Total storage: Pool 1 - &ldquo;vault&rdquo; - 10.64TiB, Pool 2 - &ldquo;tank&rdquo; - 9.01TiB</li>
 </ul>
 </li>
 </ul>
@@ -101,14 +102,24 @@
     </div>
 
 <p>Following the video, I build my first server using Proxmox and TrueNAS Core. I ran a vm of Windows 10 that ran my services like Jellyfin and I used PhotoSync to backup my photos on to the server.</p>
-<p><strong>insert og photo</strong></p>
+<figure class="ma0 w-75"><img src="/images/homelab-post/og-homelab.jpeg"
+    alt="Picture of inside a computer" width="50%"><figcaption>
+      <p>This was the original setup, I tried using a 1070 for hardware acceleration, but I never got it to work</p>
+    </figcaption>
+</figure>
+
 <p>This worked fine but after a little while of use I realized it wasn&rsquo;t ideal. The Windows VM would crash often cause it would run out of ram so I&rsquo;d constantly login in to Proxmox to restart it. But it would good enough and that was enough for me at that point. As the lockdowns were ramping down, I moved back to my university city. I took the server with me but I kept getting a startup error that I didn&rsquo;t recognize. I got busy with school and didn&rsquo;t make the time to try to troubleshoot the error so I let the system sit for a while.</p>
 <p>About 8 months ago, I thought enough time had passed and I should dedicate a day to fixing the server. After browsing some forums, it was just a BIOS error and all I needed was 30 mins to update the BIOS. After starting it up again, I went to through the same hurdles I went through before, so I thought it would be nice to revamp it!</p>
 <p>I started researching some more, I decided that TrueNAS Scale would be a better OS than running Proxmox + TrueNAS Core for my usecase. I figured that the vm is unnecessary cause I can run all of the services I want via Docker through TrueNAS Scale anyway. I also wanted to order an HBA cause I was thinking of expanding my storage anyway and I was running out of SATA ports in my motherboard. I ordered the LSI 9207-8i from ArtofAServer on Ebay and in the meantime, I offloaded all of my data to a couple external harddrives I had lying around.</p>
 <p>Once the HBA came in, I installed it and TrueNAS Scale on baremetal, and remade my pool in RAIDZ1 and imported my data. After about 2 weeks of playing around with the services, I got back to where I was in the old server. While I was playing around with everything, I looked into the other apps that the TrueNAS Scale community catalogue had to offer and I was so impressed with what was available.</p>
 <p>I ended up upgrading my storage cause I didn&rsquo;t like the amount of redundancy I had, so now I have 2 pools. I have 5x 4TB of RAIDZ2 for all of my important files and then I have 2x 10 TB of MIRROR for all of my media. There is probably some ineffiencies in this set up but thats okay, it was something I wanted to experiment with. I also got an Intel ARC A310 for Jellyfin hardware encoding.</p>
 <p>This is the new setup!
-<strong>insert image of new setup</strong></p>
+<figure class="ma0 w-75"><img src="/images/homelab-post/homelabv2.jpeg"
+    alt="Picture of inside a computer" width="50%"><figcaption>
+      <p>This is the new setup!</p>
+    </figcaption>
+</figure>
+</p>
 <p>I will probably make some posts outlines how I set up some of the services I am running cause I found the documentation for those to be insufficent. You can click on the homelab to see more!</p>
 
 			</div>
@@ -128,9 +139,9 @@
 				
 				<li><a href="/posts/2025-05-29-nginx-truenas/">Nginx Truenas</a></li>
 				
-				<li><a href="/posts/2025-05-28-altered-carbon/">Altered Carbon Retrospective</a></li>
-				
 				<li><a href="/posts/2025-05-26-volunteerism-internet/">Volunteerism &amp; Internet</a></li>
+				
+				<li><a href="/posts/2025-05-24-2024presidential-traverse/">2024 Presidential Traverse</a></li>
 				
 			</ul>
 		</div>

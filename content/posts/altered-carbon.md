@@ -2,8 +2,8 @@
 title: "Altered Carbon Retrospective"
 date: 2025-05-28T00:06:26-04:00
 slug: 2025-05-28-altered-carbon
-type: false
-draft: true
+type: posts
+draft: false
 categories:
   - retrospective
 tags:

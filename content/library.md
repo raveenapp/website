@@ -27,6 +27,8 @@ This is a personal collection of things I've watched and read since I started tr
 - Only the Brave
 - Green Book
 - Mickey 17
+- Deadpool and Wolverine
+- Minecraft Movie
 - Howl's Moving Castle
 
 ## 2024

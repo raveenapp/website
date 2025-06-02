@@ -11,17 +11,17 @@ tags:
   - homelab
 ---
 
-One thing that cause me a lot of trouble setting up was running qBittorent with a VPN on TrueNAS Scale. This is cause the community application of qBittorrent doesn't give you the option to edit the install file, so you will manually have to install it instead. 
+One thing took me a while to get running was qBittorent with a VPN on TrueNAS Scale. The community application of qBittorrent doesn't have that functionality, so the solution is to  manually install it instead. This is how I did that!
 
 # Overview
-Regardless of what you want to torrent, its probably a good idea to run it through a VPN. It masks your IP address so that way it shouldn't be linked back to your usage. Typically, if you were torrenting on your computer, just turning on the VPN app and running it would be fine. But with servers that may run in the background, it is a little more complicated. Especially on something like TrueNAS which doesn't do the typical "installing applications" like on a computer. 
+Regardless of what you want to torrent, its probably a good idea to run it through a VPN. It masks your IP address so that way it shouldn't be linked back to your usage. Typically, if you were torrenting on your computer, you can turn on your VPN app and start the torrent. But with servers that may run in the background, it is a little more complicated. Especially on something like TrueNAS which doesn't do the typical "installing applications" like on a computer. 
 
-That is where Gluetun comes in. Gluetun is a VPN client that you can connect your docker containers to so traffic will pass through the VPN instead. There is two ways to connect to gluetun:
+That is where Gluetun comes in [(Link to Gluetun github repo)](https://github.com/qdm12/gluetun). Gluetun is a VPN client that you can connect your docker containers to so traffic will pass through the VPN instead. There is two ways to connect to gluetun:
 - First, running gluetun in its own stack. When you want to install an external container that feeds into gluetun, you'd add the following to that container:
   ``` yaml
     --network=container:gluetun
   ```
-- Second, and what I did here is run Gluetun in the same docker-compose.yaml file as the other container:
+- Second, and what I did for my install is run Gluetun in the same docker-compose.yaml file as the other container. In the second container, you would add the following:
   ``` yaml
     network_mode: "container:gluetun"
   ```
@@ -30,7 +30,7 @@ That is where Gluetun comes in. Gluetun is a VPN client that you can connect you
   - You can install via the TrueNAS GUI
   - Use a docker manager like Dockge or Portainer
 
-In this tutorial, I will be installing Gluetun the same docker-compose.yaml and installing via Dockge, but the install method is transferable. 
+I installed my container using Dockge, but the yaml file is transferrable. 
 
 [Link to Gluetun github repo](https://github.com/qdm12/gluetun)
 

@@ -1,4 +1,5 @@
 {{ define "main" }}
+Welcome to my website! You can start with my about page or see my most recent blog posts below!
 	<main>
 		{{ $paginator := .Paginate (where .Site.RegularPages "Type" "in" .Site.Params.mainSections) }}
 		{{ range $paginator.Pages }}

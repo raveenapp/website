@@ -16,12 +16,11 @@ Hey! I'm Raveen.
 
 A little about me:
 - I did my undergrad and currently doing my masters in mechanical engineering
-- I am a licensed glider pilot and glider instructor with the air cadet program
+- I am a licensed glider pilot and glider instructor
 - If you are interested in the [stuff I use]({{< relref "stuff.md" >}})
 - If you wanna see what's on my [bucket list]({{< relref "bucketlist.md" >}})
 
-My hobbies include:
-- Reading 
+My hobbies include: 
 - Playing Pokemon Go - I've really gotten into it in the past year and a half
 - Retro Tech - I find technology from the 60s to 90s so fascinating 
 - Starting projects (hardly ever finishing them) - I love the research and ideation phase but putting them into action is the hard part
@@ -30,6 +29,11 @@ Favourites - check out more in my [library]({{< relref "library.md" >}})
 - Shows: Full Metal Alchemist Brotherhood, Frieren: Beyond Journey's End, Tengen Toppa Gurren Lagann, Bojack Horseman, Mad Men
 - Books: Ender's Game, A man called Ove, Berserk
 - Movies: Spiderman: Across the Spiderverse, 500 Days of Summer
+
+Heres what I'm currently on:
+- Reading: No Country for Old Men
+- Watching: Sakamoto Days, Lazarus
+- Playing: Minecraft, Pokemon Go, Legend of Zelda: A Link To the Past
 
 Check out my friends:
 - [pkosierb.com](https://pkosierb.com)

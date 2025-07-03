@@ -4,44 +4,79 @@
     <title>Posts on Raveen.ca</title>
     <link>http://localhost:1313/posts/</link>
     <description>Recent content in Posts on Raveen.ca</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 29 May 2025 07:51:59 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 02 Jul 2025 21:33:42 -0400</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2025frontenac</title>
+      <link>http://localhost:1313/posts/2025-07-02-2025frontenac/</link>
+      <pubDate>Wed, 02 Jul 2025 21:33:42 -0400</pubDate>
+      <guid>http://localhost:1313/posts/2025-07-02-2025frontenac/</guid>
+      <description>Route Here is a map of our route. It was a total distance of 49.3 km. This was the route we followed with the campsites we stayed at&#xA;We stayed at the following campsites:&#xA;1a North Buck Lake 10b Devil Lake 7c Birch Lake Mileage Here is how our mileage looked over the trip. The time includes lunch and snack breaks, so though we probably walked quicker, stops needed to be factored in.</description>
+    </item>
+    <item>
+      <title>Test</title>
+      <link>http://localhost:1313/posts/2025-06-03-test/</link>
+      <pubDate>Tue, 03 Jun 2025 09:52:21 -0400</pubDate>
+      <guid>http://localhost:1313/posts/2025-06-03-test/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hardwareacceleration Jellyfin</title>
+      <link>http://localhost:1313/posts/2025-05-29-hardwareacceleration-jellyfin/</link>
+      <pubDate>Thu, 29 May 2025 07:52:22 -0400</pubDate>
+      <guid>http://localhost:1313/posts/2025-05-29-hardwareacceleration-jellyfin/</guid>
+      <description></description>
+    </item>
     <item>
       <title>How I set up qBittorrent with Gluetun on TrueNAS Scale</title>
       <link>http://localhost:1313/posts/2025-05-29-qbit-gluetun/</link>
       <pubDate>Thu, 29 May 2025 07:51:59 -0400</pubDate>
       <guid>http://localhost:1313/posts/2025-05-29-qbit-gluetun/</guid>
-      <description>&lt;p&gt;One thing took me a while to get running was qBittorent with a VPN on TrueNAS Scale. The community application of qBittorrent doesn&amp;rsquo;t have that functionality, so the solution is to  manually install it instead. This is how I did that!&lt;/p&gt;&#xA;&lt;h1 id=&#34;overview&#34;&gt;Overview&lt;/h1&gt;&#xA;&lt;p&gt;Regardless of what you want to torrent, its probably a good idea to run it through a VPN. It masks your IP address so that way it shouldn&amp;rsquo;t be linked back to your usage. Typically, if you were torrenting on your computer, you can turn on your VPN app and start the torrent. But with servers that may run in the background, it is a little more complicated. Especially on something like TrueNAS which doesn&amp;rsquo;t do the typical &amp;ldquo;installing applications&amp;rdquo; like on a computer.&lt;/p&gt;</description>
+      <description>One thing took me a while to get running was qBittorent with a VPN on TrueNAS Scale. The community application of qBittorrent doesn&amp;rsquo;t have that functionality, so the solution is to manually install it instead. This is how I did that!&#xA;Overview Regardless of what you want to torrent, its probably a good idea to run it through a VPN. It masks your IP address so that way it shouldn&amp;rsquo;t be linked back to your usage.</description>
+    </item>
+    <item>
+      <title>Nginx Truenas</title>
+      <link>http://localhost:1313/posts/2025-05-29-nginx-truenas/</link>
+      <pubDate>Thu, 29 May 2025 07:51:11 -0400</pubDate>
+      <guid>http://localhost:1313/posts/2025-05-29-nginx-truenas/</guid>
+      <description></description>
     </item>
     <item>
       <title>Altered Carbon Retrospective</title>
       <link>http://localhost:1313/posts/2025-05-28-altered-carbon/</link>
       <pubDate>Wed, 28 May 2025 00:06:26 -0400</pubDate>
       <guid>http://localhost:1313/posts/2025-05-28-altered-carbon/</guid>
-      <description>&lt;p&gt;The guys in the lab and I started a book club together and the first book we read was Altered Carbon by Richard K. Morgan.&lt;/p&gt;&#xA;&lt;figure class=&#34;ma0 w-75&#34;&gt;&lt;img src=&#34;http://localhost:1313/images/altered-carbon-post/cover.jpg&#34;&#xA;    alt=&#34;Cover of book&#34; width=&#34;20%&#34;&gt;&lt;figcaption&gt;&#xA;      &lt;p&gt;Here&amp;rsquo;s the cover from &lt;a href=&#34;https://en.wikipedia.org/wiki/Altered_Carbon&#34;&gt;Wikipedia&lt;/a&gt;&lt;/p&gt;&#xA;    &lt;/figcaption&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;h1 id=&#34;summary&#34;&gt;Summary&lt;/h1&gt;&#xA;&lt;p&gt;The story follows Takeshi Kovacs, an ex-private military, now-turned-investigator hired to solve the mystery behind someone&amp;rsquo;s suicide (or murder?). It takes place in the future, where humans have the ability to upload our consciousness to chips called stacks. Since the mind can be separated from the body, bodies are referred to as sleeves. This system of switching sleeves and putting your stack in storage are key parts of this world, used in the criminal system, for fashion and as backup plans. As the story unfolds, we learn more about the world, about Takeshi and about the mysteries of the crime.&lt;/p&gt;</description>
+      <description>The guys in the lab and I started a book club together and the first book we read was Altered Carbon by Richard K. Morgan.&#xA;Here&amp;rsquo;s the cover from Wikipedia&#xA;Summary The story follows Takeshi Kovacs, an ex-private military, now-turned-investigator hired to solve the mystery behind someone&amp;rsquo;s suicide (or murder?). It takes place in the future, where humans have the ability to upload our consciousness to chips called stacks. Since the mind can be separated from the body, bodies are referred to as sleeves.</description>
     </item>
     <item>
       <title>Volunteerism &amp; Internet</title>
       <link>http://localhost:1313/posts/2025-05-26-volunteerism-internet/</link>
       <pubDate>Mon, 26 May 2025 00:07:02 -0400</pubDate>
       <guid>http://localhost:1313/posts/2025-05-26-volunteerism-internet/</guid>
-      <description>&lt;p&gt;I was at dinner with my girlfriend and she picked the restaurant based on a TikTok video. We couldn&amp;rsquo;t decide what we wanted from the menu, so we looked at the reviews on Google to see what dishes other people recommended. After we picked our food, I started to think about how much volunteerism there is on the internet. A lot of the participation on the internet is thankless and without reward. This participation can take the form of a rating, review, reddit post or a comment. Of course, some people are paid to promote, or make content, but that participation by us the viewers isn&amp;rsquo;t necessary. In the grand scheme, there is no benefit to this additional involvement, one&amp;rsquo;s life may not improve at all for leaving that message or comment. However, if I hadn&amp;rsquo;t seen all the reviews raving about chicken wings at that restaurant, I wouldn&amp;rsquo;t have skipped out on some of the best chicken wings I&amp;rsquo;ve had. There have been many times I found the comments as entertaining as the videos themselves or learned something cool from a random Reddit post someone made. I think that aspect of the internet is super cool.&lt;/p&gt;</description>
+      <description>I was at dinner with my girlfriend and she picked the restaurant based on a TikTok video. We couldn&amp;rsquo;t decide what we wanted from the menu, so we looked at the reviews on Google to see what dishes other people recommended. After we picked our food, I started to think about how much volunteerism there is on the internet. A lot of the participation on the internet is thankless and without reward.</description>
     </item>
     <item>
       <title>2024 Presidential Traverse</title>
       <link>http://localhost:1313/posts/2025-05-24-2024presidential-traverse/</link>
       <pubDate>Sat, 24 May 2025 23:12:09 -0400</pubDate>
       <guid>http://localhost:1313/posts/2025-05-24-2024presidential-traverse/</guid>
-      <description>&lt;p&gt;In May of 2024, 3 friends and I hiked the Presidential Traverse in New Hampshire!&lt;/p&gt;&#xA;&lt;h1 id=&#34;route&#34;&gt;Route&lt;/h1&gt;&#xA;&lt;figure class=&#34;ma0 w-75&#34;&gt;&lt;img src=&#34;http://localhost:1313/images/presidential-traverse-post/map.png&#34;&#xA;      alt=&#34;A map of the trail taken during the hike&#34; width=&#34;50%&#34;&gt;&lt;figcaption&gt;&#xA;        &lt;p&gt;Our route!&lt;/p&gt;&#xA;      &lt;/figcaption&gt;&#xA;  &lt;/figure&gt;&#xA;&#xA;&lt;p&gt;This route is slightly off. We started at the Mount Webster Trailhead and added Mount Jackson to our hike! We hiked somewhere between 7-15kms a day!&lt;/p&gt;&#xA;&lt;h1 id=&#34;gear&#34;&gt;Gear&lt;/h1&gt;&#xA;&lt;p&gt;This is the gear I packed:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Clothes&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Shorts&lt;/li&gt;&#xA;&lt;li&gt;Shirts&lt;/li&gt;&#xA;&lt;li&gt;Underwear&lt;/li&gt;&#xA;&lt;li&gt;Socks&lt;/li&gt;&#xA;&lt;li&gt;Sweater&lt;/li&gt;&#xA;&lt;li&gt;Rain Jacket&lt;/li&gt;&#xA;&lt;li&gt;Rain Pants&lt;/li&gt;&#xA;&lt;li&gt;Hiking Boots&lt;/li&gt;&#xA;&lt;li&gt;Hat&lt;/li&gt;&#xA;&lt;li&gt;Sunglasses&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Hygiene - (I don&amp;rsquo;t think specifics are necessary for these)&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Toothbrush/Toothpaste&lt;/li&gt;&#xA;&lt;li&gt;Deodorant&lt;/li&gt;&#xA;&lt;li&gt;Hand Sanitizer&lt;/li&gt;&#xA;&lt;li&gt;Sunscreen&lt;/li&gt;&#xA;&lt;li&gt;Toilet Paper&lt;/li&gt;&#xA;&lt;li&gt;Wet wipes&lt;/li&gt;&#xA;&lt;li&gt;Bug spray&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Equipment&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Tent&lt;/li&gt;&#xA;&lt;li&gt;Sleeping Bag&lt;/li&gt;&#xA;&lt;li&gt;Sleeping Pad&lt;/li&gt;&#xA;&lt;li&gt;Headlamp&lt;/li&gt;&#xA;&lt;li&gt;Stove&lt;/li&gt;&#xA;&lt;li&gt;Fuel&lt;/li&gt;&#xA;&lt;li&gt;Spork&lt;/li&gt;&#xA;&lt;li&gt;Camp soap&lt;/li&gt;&#xA;&lt;li&gt;Rope&lt;/li&gt;&#xA;&lt;li&gt;Dry Bag&lt;/li&gt;&#xA;&lt;li&gt;Compression Sack&lt;/li&gt;&#xA;&lt;li&gt;First Aid Kit&lt;/li&gt;&#xA;&lt;li&gt;Water filter&lt;/li&gt;&#xA;&lt;li&gt;Water bottles&lt;/li&gt;&#xA;&lt;li&gt;Multitool&lt;/li&gt;&#xA;&lt;li&gt;Electronics (battery bank, phone, etc)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;We carried 2 tents for the 4 of us (1 two-person and 1 four-person), but we had an issue with the two-person one, so everyone added up sleeping in the four-person one. We had to get cozy! We all carried our own food and water. We also had a Garmin inReach mini 2 with us as a GPS and satalite beacon. My one gear regret was packing my cotton hiking pants. I&amp;rsquo;ve liked them in the past for their durability but it was a wet start to the trip, and the pants got soaked quickly. I forgot one of the key rules&amp;hellip; avoid cotton. They don&amp;rsquo;t dry at all,  so I ended up putting them in a bag and keeping them in bottom of my pack as deadweight for the rest of the hike. Next time, the rain pants, baselayers and shorts would be enough.&lt;/p&gt;</description>
+      <description>In May of 2024, 3 friends and I hiked the Presidential Traverse in New Hampshire!&#xA;Route Our route!&#xA;This route is slightly off. We started at the Mount Webster Trailhead and added Mount Jackson to our hike! We hiked somewhere between 7-15kms a day!&#xA;Gear This is the gear I packed:&#xA;Clothes Shorts Shirts Underwear Socks Sweater Rain Jacket Rain Pants Hiking Boots Hat Sunglasses Hygiene - (I don&amp;rsquo;t think specifics are necessary for these) Toothbrush/Toothpaste Deodorant Hand Sanitizer Sunscreen Toilet Paper Wet wipes Bug spray Equipment Tent Sleeping Bag Sleeping Pad Headlamp Stove Fuel Spork Camp soap Rope Dry Bag Compression Sack First Aid Kit Water filter Water bottles Multitool Electronics (battery bank, phone, etc) We carried 2 tents for the 4 of us (1 two-person and 1 four-person), but we had an issue with the two-person one, so everyone added up sleeping in the four-person one.</description>
+    </item>
+    <item>
+      <title>2025 Homelab</title>
+      <link>http://localhost:1313/posts/2025-05-23-2025homelab/</link>
+      <pubDate>Fri, 23 May 2025 17:36:09 -0400</pubDate>
+      <guid>http://localhost:1313/posts/2025-05-23-2025homelab/</guid>
+      <description>The Important Stuff Specs:&#xA;CPU: INTEL i7-6700K COOLER: Cooler Master Hyper 212 Black Edition RAM: 32 GB Vengenance LPX DDR4 2400 MHz (8 GB x 4) MOBO: ASUS Z170-A PSU: Corsair RM 550x CASE: Cooler Master N400 STORAGE: WD Black NVMe 1TB SSD + 5x 4TB WD Red + 2x 10TB WD Red Pro GPU: Intel ARC A310 HBA: LSI 9207-8i OS:&#xA;TrueNas Scale - Electric Eel Services:&#xA;Calibre - Ebook management Kavita - Webbased ereader Immich - Photo backup Jellyfin - Media Server TailScale - VPN qBittorrent - Torrent client with Gluetun vpn client Paperless-ngx - document manager Nginx proxy manager - reverse proxy manager Homepage - dashboard Watchtower - docker container updater Audiobookshelf - audiobook client Sonarr - Show indexer/PVR Radarr - movie indexer/PVR Prowler - indexer Stats:</description>
     </item>
     <item>
       <title>2024 Western Uplands Hike</title>
       <link>http://localhost:1313/posts/2025-05-21-2024western-uplands/</link>
       <pubDate>Wed, 21 May 2025 20:22:50 -0400</pubDate>
       <guid>http://localhost:1313/posts/2025-05-21-2024western-uplands/</guid>
-      <description>&lt;p&gt;Last Updated: 2025-05-23&lt;/p&gt;&#xA;&lt;p&gt;5 Friend and I hiked through 40ish km of the Western Uplands hike in August of 2024! This was my first time planning a hiking trip and I wanted to document my experience.&lt;/p&gt;&#xA;&lt;h1 id=&#34;route&#34;&gt;Route&lt;/h1&gt;&#xA;&lt;figure class=&#34;ma0 w-75&#34;&gt;&lt;img src=&#34;http://localhost:1313/images/western-uplands-post/map.png&#34;&#xA;    alt=&#34;Map of western uplands route with colours for each leg&#34; width=&#34;50%&#34;&gt;&lt;figcaption&gt;&#xA;      &lt;p&gt;This was the route we followed. Each colour is a different day&lt;/p&gt;&#xA;    &lt;/figcaption&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;p&gt;We stayed at the following campsites:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Islet 2&lt;/li&gt;&#xA;&lt;li&gt;Tern 2&lt;/li&gt;&#xA;&lt;li&gt;Ishkuday 1&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Overall, the route was good! Most of the campsites were fine, but I wouldn&amp;rsquo;t recommend Ishkuday 1. The other campsites had easy water access but at Ishkuday, it was past a bog. There were some planks to stand on but its not very secure and I fell in! Eventually, I just stripped and then made many trips in and out of the bog. As funny as a story as it was, I wouldn&amp;rsquo;t stay at that one again.&lt;/p&gt;</description>
+      <description>Last Updated: 2025-05-23&#xA;5 Friend and I hiked through 40ish km of the Western Uplands hike in August of 2024! This was my first time planning a hiking trip and I wanted to document my experience.&#xA;Route This was the route we followed. Each colour is a different day&#xA;We stayed at the following campsites:&#xA;Islet 2 Tern 2 Ishkuday 1 Overall, the route was good! Most of the campsites were fine, but I wouldn&amp;rsquo;t recommend Ishkuday 1.</description>
     </item>
   </channel>
 </rss>

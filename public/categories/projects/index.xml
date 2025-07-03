@@ -4,7 +4,7 @@
     <title>Projects on Raveen.ca</title>
     <link>http://localhost:1313/categories/projects/</link>
     <description>Recent content in Projects on Raveen.ca</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 29 May 2025 07:51:59 -0400</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/projects/index.xml" rel="self" type="application/rss+xml" />
@@ -13,7 +13,14 @@
       <link>http://localhost:1313/posts/2025-05-29-qbit-gluetun/</link>
       <pubDate>Thu, 29 May 2025 07:51:59 -0400</pubDate>
       <guid>http://localhost:1313/posts/2025-05-29-qbit-gluetun/</guid>
-      <description>&lt;p&gt;One thing took me a while to get running was qBittorent with a VPN on TrueNAS Scale. The community application of qBittorrent doesn&amp;rsquo;t have that functionality, so the solution is to  manually install it instead. This is how I did that!&lt;/p&gt;&#xA;&lt;h1 id=&#34;overview&#34;&gt;Overview&lt;/h1&gt;&#xA;&lt;p&gt;Regardless of what you want to torrent, its probably a good idea to run it through a VPN. It masks your IP address so that way it shouldn&amp;rsquo;t be linked back to your usage. Typically, if you were torrenting on your computer, you can turn on your VPN app and start the torrent. But with servers that may run in the background, it is a little more complicated. Especially on something like TrueNAS which doesn&amp;rsquo;t do the typical &amp;ldquo;installing applications&amp;rdquo; like on a computer.&lt;/p&gt;</description>
+      <description>One thing took me a while to get running was qBittorent with a VPN on TrueNAS Scale. The community application of qBittorrent doesn&amp;rsquo;t have that functionality, so the solution is to manually install it instead. This is how I did that!&#xA;Overview Regardless of what you want to torrent, its probably a good idea to run it through a VPN. It masks your IP address so that way it shouldn&amp;rsquo;t be linked back to your usage.</description>
+    </item>
+    <item>
+      <title>2025 Homelab</title>
+      <link>http://localhost:1313/posts/2025-05-23-2025homelab/</link>
+      <pubDate>Fri, 23 May 2025 17:36:09 -0400</pubDate>
+      <guid>http://localhost:1313/posts/2025-05-23-2025homelab/</guid>
+      <description>The Important Stuff Specs:&#xA;CPU: INTEL i7-6700K COOLER: Cooler Master Hyper 212 Black Edition RAM: 32 GB Vengenance LPX DDR4 2400 MHz (8 GB x 4) MOBO: ASUS Z170-A PSU: Corsair RM 550x CASE: Cooler Master N400 STORAGE: WD Black NVMe 1TB SSD + 5x 4TB WD Red + 2x 10TB WD Red Pro GPU: Intel ARC A310 HBA: LSI 9207-8i OS:&#xA;TrueNas Scale - Electric Eel Services:&#xA;Calibre - Ebook management Kavita - Webbased ereader Immich - Photo backup Jellyfin - Media Server TailScale - VPN qBittorrent - Torrent client with Gluetun vpn client Paperless-ngx - document manager Nginx proxy manager - reverse proxy manager Homepage - dashboard Watchtower - docker container updater Audiobookshelf - audiobook client Sonarr - Show indexer/PVR Radarr - movie indexer/PVR Prowler - indexer Stats:</description>
     </item>
   </channel>
 </rss>

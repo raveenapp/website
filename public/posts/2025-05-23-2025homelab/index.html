@@ -97,15 +97,16 @@
 <h1 id="the-background">The Background</h1>
 <p>I first learned about homelabs during covid when youtube recommended a video about home servers to me. At that point, it was just about media servers but instantly I was hooked. I&rsquo;ve always been a privacy focused guy when it comes to the internet and its always been a struggle to balance the conviniences of internet and keep my data private. Using a home server for media and file storage seemed like natural progression of that. So when my friend was upgrading his computer, I was able to snag some cheap components off him to start the build. I had to buy the case, storage and cooler! I started with 4 4Tb drives for the setup.</p>
 <p>I had no idea where to actually start so went down a major youtube university rabbit hole and found this walkthrough that I liked by Hardware Haven.</p>
+
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-      <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/kbbnAQ0AQw2FUjAl?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video"></iframe>
-    </div>
+  <iframe src="https://www.youtube.com/embed/kbbnAQ0AQw2FUjAl" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
+</div>
 
 <p>Following the video, I build my first server using Proxmox and TrueNAS Core. I ran a vm of Windows 10 that ran my services like Jellyfin and I used PhotoSync to backup my photos on to the server.</p>
 <figure class="ma0 w-75"><img src="/images/homelab-post/og-homelab.jpeg"
-    alt="Picture of inside a computer" width="50%"><figcaption>
-      <p>This was the original setup, I tried using a 1070 for hardware acceleration, but I never got it to work</p>
-    </figcaption>
+         alt="Picture of inside a computer" width="50%"/><figcaption>
+            <p>This was the original setup, I tried using a 1070 for hardware acceleration, but I never got it to work</p>
+        </figcaption>
 </figure>
 
 <p>This worked fine but after a little while of use I realized it wasn&rsquo;t ideal. The Windows VM would crash often cause it would run out of ram so I&rsquo;d constantly login in to Proxmox to restart it. But it would good enough and that was enough for me at that point. As the lockdowns were ramping down, I moved back to my university city. I took the server with me but I kept getting a startup error that I didn&rsquo;t recognize. I got busy with school and didn&rsquo;t make the time to try to troubleshoot the error so I let the system sit for a while.</p>
@@ -115,9 +116,9 @@
 <p>I ended up upgrading my storage cause I didn&rsquo;t like the amount of redundancy I had, so now I have 2 pools. I have 5x 4TB of RAIDZ2 for all of my important files and then I have 2x 10 TB of MIRROR for all of my media. There is probably some ineffiencies in this set up but thats okay, it was something I wanted to experiment with. I also got an Intel ARC A310 for Jellyfin hardware encoding.</p>
 <p>This is the new setup!
 <figure class="ma0 w-75"><img src="/images/homelab-post/homelabv2.jpeg"
-    alt="Picture of inside a computer" width="50%"><figcaption>
-      <p>This is the new setup!</p>
-    </figcaption>
+         alt="Picture of inside a computer" width="50%"/><figcaption>
+            <p>This is the new setup!</p>
+        </figcaption>
 </figure>
 </p>
 <p>I will probably make some posts outlines how I set up some of the services I am running cause I found the documentation for those to be insufficent. You can click on the homelab to see more!</p>
@@ -133,15 +134,15 @@
 		<div>
 			<ul>
 				
+				<li><a href="/posts/2025-07-02-2025frontenac/">2025frontenac</a></li>
+				
+				<li><a href="/posts/2025-06-03-test/">Test</a></li>
+				
 				<li><a href="/posts/2025-05-29-hardwareacceleration-jellyfin/">Hardwareacceleration Jellyfin</a></li>
 				
 				<li><a href="/posts/2025-05-29-qbit-gluetun/">How I set up qBittorrent with Gluetun on TrueNAS Scale</a></li>
 				
 				<li><a href="/posts/2025-05-29-nginx-truenas/">Nginx Truenas</a></li>
-				
-				<li><a href="/posts/2025-05-28-altered-carbon/">Altered Carbon Retrospective</a></li>
-				
-				<li><a href="/posts/2025-05-26-volunteerism-internet/">Volunteerism &amp; Internet</a></li>
 				
 			</ul>
 		</div>

@@ -9,6 +9,7 @@ categories:
 tags:
   - backpacking
 ---
+This year the guys and I decided to hike the perimeter of Frontenac Provincial Park! This was our trip.
 
 # Route
 Here is a map of our route. It was a total distance of 46.6 km.     
@@ -101,32 +102,32 @@ This is the gear I packed:
 # Day 1
 {{< figure
   src="/images/frontenac-post/IMG_9425.jpg"
-  alt=""
-  caption=""
+  alt="6 guys standing infront of a sign"
+  caption="Us at the start of the hike!"
   class="ma0 w-75"
   width=50%
 >}}  
 
 {{< figure
   src="/images/frontenac-post/IMG_9460.jpg"
-  alt=""
-  caption=""
+  alt="A guy standing at the top of a hill"
+  caption="Me at the top of flagpole hill"
   class="ma0 w-75"
   width=50%
 >}}  
 
 {{< figure
   src="/images/frontenac-post/IMG_9496.jpg"
-  alt=""
-  caption=""
+  alt="A picture of a lake"
+  caption="Fronetac had so many amazing lakes!"
   class="ma0 w-75"
   width=50%
 >}}  
 
 {{< figure
   src="/images/frontenac-post/IMG_9523.jpg"
-  alt=""
-  caption=""
+  alt="A picture of a guy climbing a hill"
+  caption="This shot feels like something out of a Ghibli movie"
   class="ma0 w-75"
   width=50%
 >}}  
@@ -136,31 +137,31 @@ This is the gear I packed:
 
 {{< figure
   src="/images/frontenac-post/IMG_9658.jpg"
-  alt=""
-  caption=""
+  alt="A picture of a beaver damn"
+  caption="We passed a lot of beaver dams"
   class="ma0 w-75"
   width=50%
 >}}  
 
 {{< figure
   src="/images/frontenac-post/IMG_9659.jpg"
-  alt=""
-  caption=""
+  alt="A picture of a lake"
+  caption="Another lake!"
   class="ma0 w-75"
   width=50%
 >}}  
 
 {{< figure
   src="/images/frontenac-post/IMG_9663.jpg"
-  alt=""
-  caption=""
+  alt="A picture of a lake"
+  caption="The portage beach we stopped at for lunch"
   class="ma0 w-75"
   width=50%
 >}}  
 
 {{< figure
   src="/images/frontenac-post/IMG_9682.jpg"
-  alt=""
+  alt="A wooden plank bridge over a pond covered in algae"
   caption=""
   class="ma0 w-75"
   width=50%
@@ -168,32 +169,32 @@ This is the gear I packed:
 
 {{< figure
   src="/images/frontenac-post/IMG_9695.jpg"
-  alt=""
-  caption=""
+  alt="A sunset overlooking a lake"
+  caption="Sunset at camp 2!"
   class="ma0 w-75"
   width=50%
 >}}  
 # Day 3
 {{< figure
   src="/images/frontenac-post/IMG_9709.jpg"
-  alt=""
-  caption=""
+  alt="Dead trees in a marsh"
+  caption="A ghost forest we passed on our route!"
   class="ma0 w-75"
   width=50%
 >}}  
 
 {{< figure
   src="/images/frontenac-post/IMG_9743.jpg"
-  alt=""
-  caption=""
+  alt="A picture of a wooden bridge in a forest with a blue sky in the background"
+  caption="On route to campsite 3!"
   class="ma0 w-75"
   width=50%
 >}}  
 
 {{< figure
   src="/images/frontenac-post/IMG_9764.jpg"
-  alt=""
-  caption=""
+  alt="A picture of a lake"
+  caption="Cooling off our feet at Birch Lake"
   class="ma0 w-75"
   width=50%
 >}}  
@@ -201,32 +202,32 @@ This is the gear I packed:
 # Day 4 
 {{< figure
   src="/images/frontenac-post/IMG_9811.jpg"
-  alt=""
-  caption=""
+  alt="A picture of a lake"
+  caption="The water is so still in the morning"
   class="ma0 w-75"
   width=50%
 >}}  
 
 {{< figure
   src="/images/frontenac-post/IMG_9815.jpg"
-  alt=""
-  caption=""
+  alt="A picture of a marshy opening in the forest"
+  caption="Home stretch back to the car!"
   class="ma0 w-75"
   width=50%
 >}}  
 
 {{< figure
   src="/images/frontenac-post/IMG_9833.jpg"
-  alt=""
-  caption=""
+  alt="A picture of lake with the trees reflection on the surface"
+  caption="The last lake picture, I promise"
   class="ma0 w-75"
   width=50%
 >}}  
 
 {{< figure
   src="/images/frontenac-post/IMG_9844.jpg"
-  alt=""
-  caption=""
+  alt="A picture of 6 guys"
+  caption="The 6 of us at the end of the hike!"
   class="ma0 w-75"
   width=50%
 >}}  

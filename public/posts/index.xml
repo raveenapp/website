@@ -9,25 +9,11 @@
     <lastBuildDate>Wed, 02 Jul 2025 21:33:42 -0400</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>2025frontenac</title>
+      <title>2025 Frontenac Perimeter Hike</title>
       <link>http://localhost:1313/posts/2025-07-02-2025frontenac/</link>
       <pubDate>Wed, 02 Jul 2025 21:33:42 -0400</pubDate>
       <guid>http://localhost:1313/posts/2025-07-02-2025frontenac/</guid>
-      <description>Route Here is a map of our route. It was a total distance of 49.3 km. This was the route we followed with the campsites we stayed at&#xA;We stayed at the following campsites:&#xA;1a North Buck Lake 10b Devil Lake 7c Birch Lake Mileage Here is how our mileage looked over the trip. The time includes lunch and snack breaks, so though we probably walked quicker, stops needed to be factored in.</description>
-    </item>
-    <item>
-      <title>Test</title>
-      <link>http://localhost:1313/posts/2025-06-03-test/</link>
-      <pubDate>Tue, 03 Jun 2025 09:52:21 -0400</pubDate>
-      <guid>http://localhost:1313/posts/2025-06-03-test/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Hardwareacceleration Jellyfin</title>
-      <link>http://localhost:1313/posts/2025-05-29-hardwareacceleration-jellyfin/</link>
-      <pubDate>Thu, 29 May 2025 07:52:22 -0400</pubDate>
-      <guid>http://localhost:1313/posts/2025-05-29-hardwareacceleration-jellyfin/</guid>
-      <description></description>
+      <description>This year the guys and I decided to hike the perimeter of Frontenac Provincial Park! This was our trip.&#xA;Route Here is a map of our route. It was a total distance of 46.6 km. This was the route we followed with the campsites we stayed at&#xA;We stayed at the following campsites:&#xA;1a North Buck Lake 10b Devil Lake 7c Birch Lake The nice thing about Frontenac is that all the campsites had a firepit, picnic benches, bear boxes and dedicated areas for tents.</description>
     </item>
     <item>
       <title>How I set up qBittorrent with Gluetun on TrueNAS Scale</title>
@@ -35,13 +21,6 @@
       <pubDate>Thu, 29 May 2025 07:51:59 -0400</pubDate>
       <guid>http://localhost:1313/posts/2025-05-29-qbit-gluetun/</guid>
       <description>One thing took me a while to get running was qBittorent with a VPN on TrueNAS Scale. The community application of qBittorrent doesn&amp;rsquo;t have that functionality, so the solution is to manually install it instead. This is how I did that!&#xA;Overview Regardless of what you want to torrent, its probably a good idea to run it through a VPN. It masks your IP address so that way it shouldn&amp;rsquo;t be linked back to your usage.</description>
-    </item>
-    <item>
-      <title>Nginx Truenas</title>
-      <link>http://localhost:1313/posts/2025-05-29-nginx-truenas/</link>
-      <pubDate>Thu, 29 May 2025 07:51:11 -0400</pubDate>
-      <guid>http://localhost:1313/posts/2025-05-29-nginx-truenas/</guid>
-      <description></description>
     </item>
     <item>
       <title>Altered Carbon Retrospective</title>
@@ -63,13 +42,6 @@
       <pubDate>Sat, 24 May 2025 23:12:09 -0400</pubDate>
       <guid>http://localhost:1313/posts/2025-05-24-2024presidential-traverse/</guid>
       <description>In May of 2024, 3 friends and I hiked the Presidential Traverse in New Hampshire!&#xA;Route Our route!&#xA;This route is slightly off. We started at the Mount Webster Trailhead and added Mount Jackson to our hike! We hiked somewhere between 7-15kms a day!&#xA;Gear This is the gear I packed:&#xA;Clothes Shorts Shirts Underwear Socks Sweater Rain Jacket Rain Pants Hiking Boots Hat Sunglasses Hygiene - (I don&amp;rsquo;t think specifics are necessary for these) Toothbrush/Toothpaste Deodorant Hand Sanitizer Sunscreen Toilet Paper Wet wipes Bug spray Equipment Tent Sleeping Bag Sleeping Pad Headlamp Stove Fuel Spork Camp soap Rope Dry Bag Compression Sack First Aid Kit Water filter Water bottles Multitool Electronics (battery bank, phone, etc) We carried 2 tents for the 4 of us (1 two-person and 1 four-person), but we had an issue with the two-person one, so everyone added up sleeping in the four-person one.</description>
-    </item>
-    <item>
-      <title>2025 Homelab</title>
-      <link>http://localhost:1313/posts/2025-05-23-2025homelab/</link>
-      <pubDate>Fri, 23 May 2025 17:36:09 -0400</pubDate>
-      <guid>http://localhost:1313/posts/2025-05-23-2025homelab/</guid>
-      <description>The Important Stuff Specs:&#xA;CPU: INTEL i7-6700K COOLER: Cooler Master Hyper 212 Black Edition RAM: 32 GB Vengenance LPX DDR4 2400 MHz (8 GB x 4) MOBO: ASUS Z170-A PSU: Corsair RM 550x CASE: Cooler Master N400 STORAGE: WD Black NVMe 1TB SSD + 5x 4TB WD Red + 2x 10TB WD Red Pro GPU: Intel ARC A310 HBA: LSI 9207-8i OS:&#xA;TrueNas Scale - Electric Eel Services:&#xA;Calibre - Ebook management Kavita - Webbased ereader Immich - Photo backup Jellyfin - Media Server TailScale - VPN qBittorrent - Torrent client with Gluetun vpn client Paperless-ngx - document manager Nginx proxy manager - reverse proxy manager Homepage - dashboard Watchtower - docker container updater Audiobookshelf - audiobook client Sonarr - Show indexer/PVR Radarr - movie indexer/PVR Prowler - indexer Stats:</description>
     </item>
     <item>
       <title>2024 Western Uplands Hike</title>

@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects on Raveen.ca</title>
+    <title>Projects] on Raveen.ca</title>
     <link>http://localhost:1313/categories/projects/</link>
-    <description>Recent content in Projects on Raveen.ca</description>
+    <description>Recent content in Projects] on Raveen.ca</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 29 May 2025 07:51:59 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 17 Jul 2025 21:23:12 -0400</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>How I set up qBittorrent with Gluetun on TrueNAS Scale</title>
-      <link>http://localhost:1313/posts/2025-05-29-qbit-gluetun/</link>
-      <pubDate>Thu, 29 May 2025 07:51:59 -0400</pubDate>
-      <guid>http://localhost:1313/posts/2025-05-29-qbit-gluetun/</guid>
-      <description>One thing took me a while to get running was qBittorent with a VPN on TrueNAS Scale. The community application of qBittorrent doesn&amp;rsquo;t have that functionality, so the solution is to manually install it instead. This is how I did that!&#xA;Overview Regardless of what you want to torrent, its probably a good idea to run it through a VPN. It masks your IP address so that way it shouldn&amp;rsquo;t be linked back to your usage.</description>
+      <title>Setting up your own music server</title>
+      <link>http://localhost:1313/posts/2025-07-17-music-server/</link>
+      <pubDate>Thu, 17 Jul 2025 21:23:12 -0400</pubDate>
+      <guid>http://localhost:1313/posts/2025-07-17-music-server/</guid>
+      <description>Overview We live in an age of software as a service (SaaS). For a monthly fee, these software give their users access to the conveniences of their product. Services like Netflix and Spotify give their users access to petabytes of content without the struggle of hosting or carrying that content themselves. The convenience is undeniable, but not without their concerns. Focusing on Spotify, their revenue stream for their artists isn&amp;rsquo;t small artist friendly, mainly benefitting labels and popular artists.</description>
     </item>
   </channel>
 </rss>

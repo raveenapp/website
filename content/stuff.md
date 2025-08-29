@@ -8,7 +8,7 @@ Here is my go to EDC rn!
 
 - Phone: iPhone 13 Pro
 - Laptop: Lenovo Thinkpad T470s
-- Tablet: iPad Air (10th Gen)
+- Tablet: iPad Air (5th Gen)
     - Enzo Aramid Case
     - Magic Keyboard
     - Apple Pencil

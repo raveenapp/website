@@ -3,24 +3,33 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2025-07-17T21:23:12-04:00</lastmod>
+    <lastmod>2025-09-06T20:11:59-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/homelab/</loc>
-    <lastmod>2025-07-17T21:23:12-04:00</lastmod>
+    <loc>http://localhost:1313/tags/music/</loc>
+    <lastmod>2025-09-06T20:11:59-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2025-09-06T20:11:59-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/rambles/</loc>
+    <lastmod>2025-09-06T20:11:59-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2025-09-06T20:11:59-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/2025-09-06-deleting-music-collection/</loc>
+    <lastmod>2025-09-06T20:11:59-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-09-06T20:11:59-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/homelab/</loc>
     <lastmod>2025-07-17T21:23:12-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/projects/</loc>
     <lastmod>2025-07-17T21:23:12-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2025-07-17T21:23:12-04:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/posts/2025-07-17-music-server/</loc>
-    <lastmod>2025-07-17T21:23:12-04:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2025-07-17T21:23:12-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/2025-07-02-2025frontenac/</loc>
@@ -51,9 +60,6 @@
     <lastmod>2025-05-28T00:06:26-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/internet/</loc>
-    <lastmod>2025-05-26T00:07:02-04:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/rambles/</loc>
     <lastmod>2025-05-26T00:07:02-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/2025-05-26-volunteerism-internet/</loc>

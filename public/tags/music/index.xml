@@ -1,26 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Rambles on Raveen.ca</title>
-    <link>http://localhost:1313/categories/rambles/</link>
-    <description>Recent content in Rambles on Raveen.ca</description>
+    <title>Music on Raveen.ca</title>
+    <link>http://localhost:1313/tags/music/</link>
+    <description>Recent content in Music on Raveen.ca</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 06 Sep 2025 20:11:59 -0400</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/rambles/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/music/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Starting my digital music collection over</title>
       <link>http://localhost:1313/posts/2025-09-06-deleting-music-collection/</link>
       <pubDate>Sat, 06 Sep 2025 20:11:59 -0400</pubDate>
       <guid>http://localhost:1313/posts/2025-09-06-deleting-music-collection/</guid>
       <description>Over the last few months, I’ve been grossly aware of the how algorithms have been shaping my life. Content being directly streamed to my brain with no friction whatsoever. It’s been taking away from my attention span, my focus, my enjoyment and my well being. When I got into homelabbing and self-hosting, I thought it was going to be my solution to this. No more corporations, no more algorithms, I can collect the content I want to watch and listen to.</description>
-    </item>
-    <item>
-      <title>Volunteerism &amp; Internet</title>
-      <link>http://localhost:1313/posts/2025-05-26-volunteerism-internet/</link>
-      <pubDate>Mon, 26 May 2025 00:07:02 -0400</pubDate>
-      <guid>http://localhost:1313/posts/2025-05-26-volunteerism-internet/</guid>
-      <description>I was at dinner with my girlfriend and she picked the restaurant based on a TikTok video. We couldn&amp;rsquo;t decide what we wanted from the menu, so we looked at the reviews on Google to see what dishes other people recommended. After we picked our food, I started to think about how much volunteerism there is on the internet. A lot of the participation on the internet is thankless and without reward.</description>
     </item>
   </channel>
 </rss>

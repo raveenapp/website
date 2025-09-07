@@ -5,7 +5,7 @@ slug: 2025-07-17-music-server
 type: posts
 draft: false
 categories:
-  - projects]
+  - projects
 tags:
   - homelab
 ---

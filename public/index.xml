@@ -6,8 +6,15 @@
     <description>Recent content on Raveen.ca</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 17 Jul 2025 21:23:12 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 06 Sep 2025 20:11:59 -0400</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Starting my digital music collection over</title>
+      <link>http://localhost:1313/posts/2025-09-06-deleting-music-collection/</link>
+      <pubDate>Sat, 06 Sep 2025 20:11:59 -0400</pubDate>
+      <guid>http://localhost:1313/posts/2025-09-06-deleting-music-collection/</guid>
+      <description>Over the last few months, I’ve been grossly aware of the how algorithms have been shaping my life. Content being directly streamed to my brain with no friction whatsoever. It’s been taking away from my attention span, my focus, my enjoyment and my well being. When I got into homelabbing and self-hosting, I thought it was going to be my solution to this. No more corporations, no more algorithms, I can collect the content I want to watch and listen to.</description>
+    </item>
     <item>
       <title>Setting up your own music server</title>
       <link>http://localhost:1313/posts/2025-07-17-music-server/</link>
@@ -76,7 +83,7 @@
       <link>http://localhost:1313/stuff/</link>
       <pubDate>Wed, 21 May 2025 17:49:42 -0400</pubDate>
       <guid>http://localhost:1313/stuff/</guid>
-      <description>Here is my go to EDC rn!&#xA;Phone: iPhone 13 Pro Laptop: Lenovo Thinkpad T470s Tablet: iPad Air (10th Gen) Enzo Aramid Case Magic Keyboard Apple Pencil Earbuds: Airpod Pro (Gen 2) Backpack: Fjällräven Skule 28 Notebook: Dingbats A6 Other things: 3DS Pokemon Go Plus+ </description>
+      <description>Here is my go to EDC rn!&#xA;Phone: iPhone 13 Pro Laptop: Lenovo Thinkpad T470s Tablet: iPad Air (5th Gen) Enzo Aramid Case Magic Keyboard Apple Pencil Earbuds: Airpod Pro (Gen 2) Backpack: Fjällräven Skule 28 Notebook: Dingbats A6 Other things: 3DS Pokemon Go Plus+ </description>
     </item>
     <item>
       <title>About</title>

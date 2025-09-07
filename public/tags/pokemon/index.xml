@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pokemon on Raveen.ca</title>
+    <link>http://localhost:1313/tags/pokemon/</link>
+    <description>Recent content in Pokemon on Raveen.ca</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 07 Sep 2025 11:02:57 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/pokemon/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Platinum Nuzlocke 1 - The Journey Begins</title>
+      <link>http://localhost:1313/posts/2025-09-07-platinum-1/</link>
+      <pubDate>Sun, 07 Sep 2025 11:02:57 -0400</pubDate>
+      <guid>http://localhost:1313/posts/2025-09-07-platinum-1/</guid>
+      <description>Introduction to Nuzlockes This is new project documenting my blind Pokemon Platinum Nuzlocke run. It would have been cool to track my progress but I know I wouldn&amp;rsquo;t record enough clips to make a cohesive video. I decided that blogging it and taking pictures as I go would be a fun way to record the story&amp;hellip; except I thought of blogging it after I started the save so the pictures will begin starting from the next one!</description>
+    </item>
+  </channel>
+</rss>

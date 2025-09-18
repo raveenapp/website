@@ -33,7 +33,7 @@ Enough of the preamble, lets get going!
 ## The Journey Begins!
 
 {{< figure
-  src="/images/platinum/IMG_3311.JPG"
+  src="/images/platinum/1.JPG"
   alt="The home screen of Pokemon Platinum"
   caption="Giratina looks so cool here!"
   class="ma0 w-75"
@@ -53,7 +53,7 @@ Travelling through Route 201, we had a few encounters with wild pokemon but they
 With that the rest of the adventure begins now!
 
 {{< figure
-  src="/images/platinum/IMG_3297.JPG"
+  src="/images/platinum/2.JPG"
   alt="The main character sprite infront of his home"
   caption="Saying goodbye to home for now!"
   class="ma0 w-75"

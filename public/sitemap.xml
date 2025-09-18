@@ -3,27 +3,30 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2025-09-07T11:02:57-04:00</lastmod>
+    <lastmod>2025-09-18T17:24:58-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/2025-09-07-platinum-1/</loc>
-    <lastmod>2025-09-07T11:02:57-04:00</lastmod>
+    <loc>http://localhost:1313/posts/2025-09-18-platinum-2/</loc>
+    <lastmod>2025-09-18T17:24:58-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/pokemon/</loc>
-    <lastmod>2025-09-07T11:02:57-04:00</lastmod>
+    <lastmod>2025-09-18T17:24:58-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2025-09-07T11:02:57-04:00</lastmod>
+    <lastmod>2025-09-18T17:24:58-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2025-09-07T11:02:57-04:00</lastmod>
+    <lastmod>2025-09-18T17:24:58-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/retrospective/</loc>
-    <lastmod>2025-09-07T11:02:57-04:00</lastmod>
+    <lastmod>2025-09-18T17:24:58-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2025-09-07T11:02:57-04:00</lastmod>
+    <lastmod>2025-09-18T17:24:58-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/video-games/</loc>
+    <lastmod>2025-09-18T17:24:58-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/2025-09-07-platinum-1/</loc>
     <lastmod>2025-09-07T11:02:57-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/music/</loc>

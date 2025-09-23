@@ -1,0 +1,156 @@
+---
+title: "Platinum Nuzlocke 3 - Oreburgh to Eterna"
+date: 2025-09-22T06:49:34-04:00
+slug: 2025-09-22-platinum-3
+type: posts
+draft: false
+categories:
+   - retrospective
+   - video games
+tags:
+  - pokemon
+---
+
+{{< figure
+  src="/images/platinum/13.jpg"
+  caption="Can't go up the hill"
+  class="ma0 w-75"
+  width=50%
+>}} 
+
+With Gym 1 defeated I continued to explore the town. There's a museum with a scientist that mentions something about fossil research, probably something to note for later! I travel north to find a slippery hill that a biker said I need a bike to climb! They said I can get one at the bike shop in Eterna so I guess that's where I'm heading next. Checking the map, its north of Jubilife, so before backtracking I decide to get my Route 207 encounter and train my team to the Gym 1 level cap. I catch a Machamp which I named Mike Tyson and proceeded to bring everyone up to level 14. 
+
+{{< figure
+  src="/images/platinum/12.jpg"
+  caption="Here's Mike Tyson!"
+  class="ma0 w-75"
+  width=50%
+>}} 
+
+This is where my first major mistake happens. I got Jeff to level 13 where he learns Roll Out. Excited to test it out, I decide a level 6 Krikitot is a good target, it uses Bide, and the first one Roll out lands doing 3/4 of its health. Since Roll out is a multiturn move, Krikitot should be done by the next one... except Jeff misses the second Roll out. Krikitot releases the Bide and like my Mozart against Barry's Starly, Jeff is KO'd in one hit. That was an unfortunate play by me.
+
+{{< figure
+  src="/images/platinum/14.jpg"
+  caption="Rest in Peace Jeff!"
+  class="ma0 w-75"
+  width=50%
+>}} 
+
+On the way back to Jubilife City, I took a detour and explored the rock smashable areas in Oreburgh Gate. After teaching Mozart the HM, we went down to the lower level to see what it had. Unfortunately not much, cause we needed a bike to get over the ramp. 
+
+Once we entered Jubilife, we ran into Looker and made a pit stop at the Poketch Company to get the memo-pad addon. 
+
+After healing, I started to head north to Eterna City where I saw Professor Rowan and Dawn with some weird looking people. As I got closer, I could hear the Professor lecturing them. They got angry enough to want to battle so Dawn and I made light work of the pair. And time to continue north!
+
+{{< figure
+  src="/images/platinum/15.jpg"
+  caption="Heading to Eterna City!"
+  class="ma0 w-75"
+  width=50%
+>}} 
+
+On Route 204, I caught a shinx named Carl and then picked up a Psyduck in the Ravaged Path who I called Misty. 
+
+{{< figure
+  src="/images/platinum/16.jpg"
+  caption="Here's Shinx!"
+  class="ma0 w-75"
+  width=50%
+>}} 
+
+{{< figure
+  src="/images/platinum/17.jpg"
+  caption="and Misty!"
+  class="ma0 w-75"
+  width=50%
+>}} 
+
+Eventually, I see a over arching sign telling me I made it to a little town called Floroma.
+
+{{< figure
+  src="/images/platinum/18.jpg"
+  caption="Floroma has a cool sign!"
+  class="ma0 w-75"
+  width=50%
+>}} 
+
+Walking around there's many townsfolk admiring the flowers but also those weird looking folk from Team Galactic.
+
+{{< figure
+  src="/images/platinum/19.jpg"
+  caption="Team Galactics up to no good"
+  class="ma0 w-75"
+  width=50%
+>}} 
+
+A run into a little girl who says her dad is trapped in the Valley Wind Works cause of Team Galactic and she needs our help. The Valley Wind Works is locked but after defeating some grunts in the field outside of town, one of them dropped a key! Carl also evolved after beating one of the grunts!
+
+{{< figure
+  src="/images/platinum/20.jpg"
+  caption="Inside Valley Wind Works"
+  class="ma0 w-75"
+  width=50%
+>}} 
+
+{{< figure
+  src="/images/platinum/21.jpg"
+  caption="Starting the Commander Mars Fight"
+  class="ma0 w-75"
+  width=50%
+>}} 
+
+Making my way through the building, I run into one of the Commanders, Mars, who had a very tanky Purugly. Thankfully, Mike Tyson was able to make light work of it. 
+
+{{< figure
+  src="/images/platinum/22.jpg"
+  caption="Starting the Commander Mars Fight"
+  class="ma0 w-75"
+  width=50%
+>}} 
+
+
+Team Galactic retreats, the father is reunited with his daughter and as we are leaving we run into Looker again. He's a couple minutes late! We explained what happened and he lets us go on our way. We continue north to Eterna city where we entered Eterna forest. We bumped into Cheryl, a lady who was too afraid to travel through the forest alone so we team up and get through it without a hitch.
+
+{{< figure
+  src="/images/platinum/27.jpg"
+  caption="See ya later Cheryl!"
+  class="ma0 w-75"
+  width=50%
+>}} 
+
+In Eterna City, I stopped at the Bike Store but the owner is stuck in the Team Galactic Building. I go down to the gym where I see a lady waiting at the door. Turns out Gardenia is waiting there for me. Barry had just beat her and told her to wait for me cause I wasn't too far behind. She said if I can get through the other trainers inside, then she'll be there.
+
+Looking at my team, the main Pokemon I have that do well against a grass type are Cindy Lou and Mozart. So I decide to train them both up in preparation. We happened to take on a Beautifly, a very uncommon spawn, but Mozart should have no problem... except when it uses a critical gust. Mozart had no chance... 
+
+{{< figure
+  src="/images/platinum/29.jpg"
+  caption="Rip Mozart"
+  class="ma0 w-75"
+  width=50%
+>}} 
+
+
+Still a Staravia is very strong, I should be fine! So I get Cindy Lou to the level cap of 22 and make my way through the trainers of the gym. Her wing attack makes light work of the entire gym. 
+
+{{< figure
+  src="/images/platinum/30.jpg"
+  caption="Gardenia's got no chance"
+  class="ma0 w-75"
+  width=50%
+>}} 
+
+
+We stand in front of Gradenia, and her first Pokemon is a Turtwig. I think to myself, this is a good time to set up Double Team on Cindy Lou. So I take the first 6 turn to max my evasiveness. Then am able to get through her first 2 pokemon with no problems. She sends out her ace, a level 22 Roserade. I go with my usual strategy of starting with a Wing attack. Except, she attacks first this time, with a Magical Leaf. This hurt a lot and brought Cindy Lou down to 1/4 of her health. I panic a little cause Roserade is faster than Cindy Lou and it was my fastest pokemon. I think no problem, it can't hit Cindy twice in a row with its max evasiveness, except it hits again and Cindy is down. The rest of the battle was a massacare. None of my other pokemon where leveled up enough to withstand more than 2 attacks and the next thing I knew I had blacked out, and ending my first run. In reviewing what happened, I learned Magical Leaf has a bonus effect of not being effected by status moves which would have been helpful to know before hand, but that is a lesson learned! Rest in peace team.
+
+{{< figure
+  src="/images/platinum/31.jpg"
+  caption="Spoke too soon"
+  class="ma0 w-75"
+  width=50%
+>}} 
+
+
+Welp, I didn't think run 1 would end so quickly. But even in this short project I learned a couple things. First, its hard to remember to take photos while I play the game. It's a constant effort to log the events in both notes and pictures. Granted, I probably didn't need to take photos as often, but I found it was a nice way to break up the text. I would like to document the story still but for the next run I want to do it differently. I saw this video about a Gen 3 Nuzlocke called [The Nuzlocke Comic That was TOO Realistic by arikendo](https://youtu.be/KZZTMjf57Xw?si=ab8Oqvmp6PIzPRnt), I enjoyed the story telling where they used the gameplay as the plot points, taking creative liberties for the sake of the story. As this website and blog is one way to improve my writing, I think it would be fun to make my next run into a story, where I write the adventure as a novel. Then, I don't have to worry about taking as many photos and I just have to take some jot notes to remember what happened. 
+
+I like the story format cause it goes in line with what I am trying to achieve with my nuzlock runs. For me, the nuzlocke isn't just a puzzle to make the game more challenging, I want it to be a narrative to tell a story.
+

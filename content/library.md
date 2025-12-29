@@ -7,18 +7,35 @@ title = 'Library'
 This is a personal collection of things I've watched and read since I started tracking it.
 
 ## 2025
-### Novels
+### Books
 - A Court of Wings and Ruin
 - Bakuman
 - Claymore
 - Altered Carbon
+- No Country For Old Men
+- Eye Shield 21
+- Project Hail Mary
+- The Last Wish
+- Babel
+- The Travelling Cat Chronicles
+- Kings of the Wyld
 ### TV Shows
 - Succession
+- Adolescence
 - Delicious in Dungeon
 - Invincible Season 3
 - Lazarus
-- Sakamoto Days
 - Solo Leveling Season 2
+- Love on the Spectrum Season 1-3
+- Ted Lasso Season 1
+- Ted Lasso Season 2
+- Ted Lasso Season 3
+- Ted Lasso Season 4
+- Hunters Season 1
+- My Hero Academia Season 8
+- The Beast In Me
+- The Pitt Season 1
+- ER Seasons 1 and 2
 ### Movies
 - The Heat
 - The Brutalist
@@ -26,10 +43,39 @@ This is a personal collection of things I've watched and read since I started tr
 - She's the Man
 - Only the Brave
 - Green Book
+- Mad Max Furiosa
 - Mickey 17
 - Deadpool and Wolverine
 - Minecraft Movie
 - Howl's Moving Castle
+- Lilo and Stitch (2002)
+- How To Train Your Dragon (2025)
+- Sinners
+- Devil Wears Prada
+- The Phoenician Scheme
+- 28 Days Later
+- 28 Weeks Later
+- Eddington
+- Freaky Friday
+- Freakier Friday
+- 28 Days Later
+- 28 Years Later
+- Eternal Sunshine of a Spotless Mind
+- School of Rock
+- Practical Magic
+- Everything Everywhere all at Once
+- Perfect Blue
+- Superbad
+- The First Slam Dunk
+- Treasure Planet
+- Identity Thief
+- Love Actually
+- Superman
+- This is 40
+- Klaus
+- Everest
+- Chainsawman - The Movie: Reze Arc
+- Weapons
 
 ## 2024
 ### Novels

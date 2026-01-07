@@ -2,32 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Rambles on Raveen.ca</title>
-    <link>http://localhost:1313/categories/rambles/</link>
+    <link>https://www.raveen.ca/categories/rambles/</link>
     <description>Recent content in Rambles on Raveen.ca</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 09 Oct 2025 10:47:07 -0400</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/rambles/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 06 Jan 2026 21:35:03 -0500</lastBuildDate>
+    <atom:link href="https://www.raveen.ca/categories/rambles/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>52 Movies In 52 Weeks &#43; Bugonia</title>
+      <link>https://www.raveen.ca/posts/2026-01-06-52moviesin52weeks/</link>
+      <pubDate>Tue, 06 Jan 2026 21:35:03 -0500</pubDate>
+      <guid>https://www.raveen.ca/posts/2026-01-06-52moviesin52weeks/</guid>
+      <description>&lt;p&gt;I like a combination of New Years Resolutions that a) remove negative habits but also b) add postive goals. One of the positive goals I want to do this year is watch more movies. I mean the movies that are the &amp;ldquo;Oh you haven&amp;rsquo;t seen that yet?&amp;rdquo; tier of movie. There&amp;rsquo;s so many movies on my list so this year I&amp;rsquo;m going to make a commitment to watch them. The list is as follows:&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Internet Used to Be a Place</title>
-      <link>http://localhost:1313/posts/2025-10-09-internet-used-to-be-a-place/</link>
+      <link>https://www.raveen.ca/posts/2025-10-09-internet-used-to-be-a-place/</link>
       <pubDate>Thu, 09 Oct 2025 10:47:07 -0400</pubDate>
-      <guid>http://localhost:1313/posts/2025-10-09-internet-used-to-be-a-place/</guid>
-      <description>About half a year ago, I saw a youtube video by Savah Davis Baker called The Internet Used to be a Place. It was a phenomenal video about how the internet was treated. Growing up I had a computer room, my dad&amp;rsquo;s office dedicated to the computer. If I wanted to access the internet we had to do it on that computer. When I was done with computer, I left the room and disconnected.</description>
+      <guid>https://www.raveen.ca/posts/2025-10-09-internet-used-to-be-a-place/</guid>
+      <description>&lt;p&gt;About half a year ago, I saw a youtube video by Savah Davis Baker called &lt;a href=&#34;https://www.youtube.com/watch?v=oYlcUbLAFmw&#34;&gt;The Internet Used to be a Place&lt;/a&gt;. It was a phenomenal video about how the internet was treated. Growing up I had a computer room, my dad&amp;rsquo;s office dedicated to the computer. If I wanted to access the internet we had to do it on that computer. When I was done with computer, I left the room and disconnected.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Starting my digital music collection over</title>
-      <link>http://localhost:1313/posts/2025-09-06-deleting-music-collection/</link>
+      <link>https://www.raveen.ca/posts/2025-09-06-deleting-music-collection/</link>
       <pubDate>Sat, 06 Sep 2025 20:11:59 -0400</pubDate>
-      <guid>http://localhost:1313/posts/2025-09-06-deleting-music-collection/</guid>
-      <description>Over the last few months, I’ve been grossly aware of the how algorithms have been shaping my life. Content being directly streamed to my brain with no friction whatsoever. It’s been taking away from my attention span, my focus, my enjoyment and my well being. When I got into homelabbing and self-hosting, I thought it was going to be my solution to this. No more corporations, no more algorithms, I can collect the content I want to watch and listen to.</description>
+      <guid>https://www.raveen.ca/posts/2025-09-06-deleting-music-collection/</guid>
+      <description>&lt;p&gt;Over the last few months, I’ve been grossly aware of the how algorithms have been shaping my life. Content being directly streamed to my brain with no friction whatsoever. It’s been taking away from my attention span, my focus, my enjoyment and my well being. When I got into homelabbing and self-hosting, I thought it was going to be my solution to this. No more corporations, no more algorithms, I can collect the content I want to watch and listen to. But something felt missing, I think I was missing the core of the issue. Yes part of the issue is algorithms made to keep me consuming, but another piece of the puzzle is the over abundance of content available. Since there is no end to the content stream, there is no time to reflect on the content consumed. There’s always something else to watch. This is where I went wrong, instead developing a curated collection, I pirated  all the music I’d ever want. Yes, the access was nice but it left me with the same decision paralysis from before.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Volunteerism &amp; Internet</title>
-      <link>http://localhost:1313/posts/2025-05-26-volunteerism-internet/</link>
+      <link>https://www.raveen.ca/posts/2025-05-26-volunteerism-internet/</link>
       <pubDate>Mon, 26 May 2025 00:07:02 -0400</pubDate>
-      <guid>http://localhost:1313/posts/2025-05-26-volunteerism-internet/</guid>
-      <description>I was at dinner with my girlfriend and she picked the restaurant based on a TikTok video. We couldn&amp;rsquo;t decide what we wanted from the menu, so we looked at the reviews on Google to see what dishes other people recommended. After we picked our food, I started to think about how much volunteerism there is on the internet. A lot of the participation on the internet is thankless and without reward.</description>
+      <guid>https://www.raveen.ca/posts/2025-05-26-volunteerism-internet/</guid>
+      <description>&lt;p&gt;I was at dinner with my girlfriend and she picked the restaurant based on a TikTok video. We couldn&amp;rsquo;t decide what we wanted from the menu, so we looked at the reviews on Google to see what dishes other people recommended. After we picked our food, I started to think about how much volunteerism there is on the internet. A lot of the participation on the internet is thankless and without reward. This participation can take the form of a rating, review, reddit post or a comment. Of course, some people are paid to promote, or make content, but that participation by us the viewers isn&amp;rsquo;t necessary. In the grand scheme, there is no benefit to this additional involvement, one&amp;rsquo;s life may not improve at all for leaving that message or comment. However, if I hadn&amp;rsquo;t seen all the reviews raving about chicken wings at that restaurant, I wouldn&amp;rsquo;t have skipped out on some of the best chicken wings I&amp;rsquo;ve had. There have been many times I found the comments as entertaining as the videos themselves or learned something cool from a random Reddit post someone made. I think that aspect of the internet is super cool.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

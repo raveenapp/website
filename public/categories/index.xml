@@ -2,52 +2,52 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Raveen.ca</title>
-    <link>http://localhost:1313/categories/</link>
+    <link>https://www.raveen.ca/categories/</link>
     <description>Recent content in Categories on Raveen.ca</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 09 Oct 2025 10:47:07 -0400</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 06 Jan 2026 21:35:03 -0500</lastBuildDate>
+    <atom:link href="https://www.raveen.ca/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Rambles</title>
-      <link>http://localhost:1313/categories/rambles/</link>
-      <pubDate>Thu, 09 Oct 2025 10:47:07 -0400</pubDate>
-      <guid>http://localhost:1313/categories/rambles/</guid>
+      <link>https://www.raveen.ca/categories/rambles/</link>
+      <pubDate>Tue, 06 Jan 2026 21:35:03 -0500</pubDate>
+      <guid>https://www.raveen.ca/categories/rambles/</guid>
       <description></description>
     </item>
     <item>
       <title>Retrospective</title>
-      <link>http://localhost:1313/categories/retrospective/</link>
+      <link>https://www.raveen.ca/categories/retrospective/</link>
       <pubDate>Mon, 22 Sep 2025 06:49:34 -0400</pubDate>
-      <guid>http://localhost:1313/categories/retrospective/</guid>
+      <guid>https://www.raveen.ca/categories/retrospective/</guid>
       <description></description>
     </item>
     <item>
       <title>Video Games</title>
-      <link>http://localhost:1313/categories/video-games/</link>
+      <link>https://www.raveen.ca/categories/video-games/</link>
       <pubDate>Mon, 22 Sep 2025 06:49:34 -0400</pubDate>
-      <guid>http://localhost:1313/categories/video-games/</guid>
+      <guid>https://www.raveen.ca/categories/video-games/</guid>
       <description></description>
     </item>
     <item>
       <title>Projects</title>
-      <link>http://localhost:1313/categories/projects/</link>
+      <link>https://www.raveen.ca/categories/projects/</link>
       <pubDate>Thu, 17 Jul 2025 21:23:12 -0400</pubDate>
-      <guid>http://localhost:1313/categories/projects/</guid>
+      <guid>https://www.raveen.ca/categories/projects/</guid>
       <description></description>
     </item>
     <item>
       <title>Trips</title>
-      <link>http://localhost:1313/categories/trips/</link>
+      <link>https://www.raveen.ca/categories/trips/</link>
       <pubDate>Wed, 02 Jul 2025 21:33:42 -0400</pubDate>
-      <guid>http://localhost:1313/categories/trips/</guid>
+      <guid>https://www.raveen.ca/categories/trips/</guid>
       <description></description>
     </item>
     <item>
       <title>How-To</title>
-      <link>http://localhost:1313/categories/how-to/</link>
+      <link>https://www.raveen.ca/categories/how-to/</link>
       <pubDate>Thu, 29 May 2025 07:51:59 -0400</pubDate>
-      <guid>http://localhost:1313/categories/how-to/</guid>
+      <guid>https://www.raveen.ca/categories/how-to/</guid>
       <description></description>
     </item>
   </channel>

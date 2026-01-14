@@ -1,8 +1,8 @@
-+++
-date = '2025-05-21T17:49:42-04:00'
-draft = false
-title = 'Stuff'
-+++
+---
+date: '2025-05-21T17:49:42-04:00'
+draft: false
+title: 'Stuff'
+---
 
 Here is my go to EDC rn!
 

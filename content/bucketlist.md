@@ -1,8 +1,8 @@
-+++
-date = '2025-05-21T17:49:57-04:00'
-draft = false
-title = 'Bucketlist'
-+++
+---
+date: '2025-05-21T17:49:57-04:00'
+draft: false
+title: 'Bucketlist'
+---
 
 I saw this on another website years ago and I like the idea of keeping a list bucket list of goals I want to do in life. Then, as time goes on I can track my progress towards them. This keeps my goals concrete and tangible.
 

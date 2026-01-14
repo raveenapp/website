@@ -1,8 +1,8 @@
-+++
-date = '2025-05-21T17:45:06-04:00'
-draft = false
-title = 'About'
-+++
+---
+date: '2025-05-21T17:45:06-04:00'
+draft: false
+title: 'About'
+---
 
 {{< figure
   src="/images/avatar.png"

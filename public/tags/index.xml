@@ -2,66 +2,66 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Raveen.ca</title>
-    <link>https://www.raveen.ca/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on Raveen.ca</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 06 Jan 2026 21:35:03 -0500</lastBuildDate>
-    <atom:link href="https://www.raveen.ca/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 13 Jan 2026 23:11:32 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Life</title>
-      <link>https://www.raveen.ca/tags/life/</link>
-      <pubDate>Tue, 06 Jan 2026 21:35:03 -0500</pubDate>
-      <guid>https://www.raveen.ca/tags/life/</guid>
+      <title>Movies</title>
+      <link>http://localhost:1313/tags/movies/</link>
+      <pubDate>Tue, 13 Jan 2026 23:11:32 -0500</pubDate>
+      <guid>http://localhost:1313/tags/movies/</guid>
       <description></description>
     </item>
     <item>
-      <title>Movies</title>
-      <link>https://www.raveen.ca/tags/movies/</link>
+      <title>Life</title>
+      <link>http://localhost:1313/tags/life/</link>
       <pubDate>Tue, 06 Jan 2026 21:35:03 -0500</pubDate>
-      <guid>https://www.raveen.ca/tags/movies/</guid>
+      <guid>http://localhost:1313/tags/life/</guid>
       <description></description>
     </item>
     <item>
       <title>Internet</title>
-      <link>https://www.raveen.ca/tags/internet/</link>
+      <link>http://localhost:1313/tags/internet/</link>
       <pubDate>Thu, 09 Oct 2025 10:47:07 -0400</pubDate>
-      <guid>https://www.raveen.ca/tags/internet/</guid>
+      <guid>http://localhost:1313/tags/internet/</guid>
       <description></description>
     </item>
     <item>
       <title>Pokemon</title>
-      <link>https://www.raveen.ca/tags/pokemon/</link>
+      <link>http://localhost:1313/tags/pokemon/</link>
       <pubDate>Mon, 22 Sep 2025 06:49:34 -0400</pubDate>
-      <guid>https://www.raveen.ca/tags/pokemon/</guid>
+      <guid>http://localhost:1313/tags/pokemon/</guid>
       <description></description>
     </item>
     <item>
       <title>Music</title>
-      <link>https://www.raveen.ca/tags/music/</link>
+      <link>http://localhost:1313/tags/music/</link>
       <pubDate>Sat, 06 Sep 2025 20:11:59 -0400</pubDate>
-      <guid>https://www.raveen.ca/tags/music/</guid>
+      <guid>http://localhost:1313/tags/music/</guid>
       <description></description>
     </item>
     <item>
       <title>Homelab</title>
-      <link>https://www.raveen.ca/tags/homelab/</link>
+      <link>http://localhost:1313/tags/homelab/</link>
       <pubDate>Thu, 17 Jul 2025 21:23:12 -0400</pubDate>
-      <guid>https://www.raveen.ca/tags/homelab/</guid>
+      <guid>http://localhost:1313/tags/homelab/</guid>
       <description></description>
     </item>
     <item>
       <title>Backpacking</title>
-      <link>https://www.raveen.ca/tags/backpacking/</link>
+      <link>http://localhost:1313/tags/backpacking/</link>
       <pubDate>Wed, 02 Jul 2025 21:33:42 -0400</pubDate>
-      <guid>https://www.raveen.ca/tags/backpacking/</guid>
+      <guid>http://localhost:1313/tags/backpacking/</guid>
       <description></description>
     </item>
     <item>
       <title>Books</title>
-      <link>https://www.raveen.ca/tags/books/</link>
+      <link>http://localhost:1313/tags/books/</link>
       <pubDate>Wed, 28 May 2025 00:06:26 -0400</pubDate>
-      <guid>https://www.raveen.ca/tags/books/</guid>
+      <guid>http://localhost:1313/tags/books/</guid>
       <description></description>
     </item>
   </channel>

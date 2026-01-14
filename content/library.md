@@ -1,8 +1,8 @@
-+++
-date = '2025-05-21T17:49:51-04:00'
-draft = false
-title = 'Library'
-+++
+---
+date: '2025-05-21T17:49:51-04:00'
+draft: false
+title: 'Library'
+---
 
 This is a personal collection of things I've watched and read since I started tracking it.
 

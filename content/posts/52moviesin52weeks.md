@@ -71,7 +71,6 @@ I will be spinning a wheel to decide which movie to watch each week and then I w
 # Bugonia
 
 {{< 
-
 figure
   src="https://artworks.thetvdb.com/banners/v4/movie/354097/posters/68af323aaf03c.jpg"
   alt="A movie poster with a Emma stone on the cover and the words Bugonia at the top"

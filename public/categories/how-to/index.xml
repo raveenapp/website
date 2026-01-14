@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>How-To on Raveen.ca</title>
-    <link>https://www.raveen.ca/categories/how-to/</link>
+    <link>http://localhost:1313/categories/how-to/</link>
     <description>Recent content in How-To on Raveen.ca</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 29 May 2025 07:51:59 -0400</lastBuildDate>
-    <atom:link href="https://www.raveen.ca/categories/how-to/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/how-to/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How I set up qBittorrent with Gluetun on TrueNAS Scale</title>
-      <link>https://www.raveen.ca/posts/2025-05-29-qbit-gluetun/</link>
+      <link>http://localhost:1313/posts/2025-05-29-qbit-gluetun/</link>
       <pubDate>Thu, 29 May 2025 07:51:59 -0400</pubDate>
-      <guid>https://www.raveen.ca/posts/2025-05-29-qbit-gluetun/</guid>
+      <guid>http://localhost:1313/posts/2025-05-29-qbit-gluetun/</guid>
       <description>&lt;p&gt;One thing took me a while to get running was qBittorent with a VPN on TrueNAS Scale. The community application of qBittorrent doesn&amp;rsquo;t have that functionality, so the solution is to  manually install it instead. This is how I did that!&lt;/p&gt;&#xA;&lt;h1 id=&#34;overview&#34;&gt;Overview&lt;/h1&gt;&#xA;&lt;p&gt;Regardless of what you want to torrent, its probably a good idea to run it through a VPN. It masks your IP address so that way it shouldn&amp;rsquo;t be linked back to your usage. Typically, if you were torrenting on your computer, you can turn on your VPN app and start the torrent. But with servers that may run in the background, it is a little more complicated. Especially on something like TrueNAS which doesn&amp;rsquo;t do the typical &amp;ldquo;installing applications&amp;rdquo; like on a computer.&lt;/p&gt;</description>
     </item>
   </channel>

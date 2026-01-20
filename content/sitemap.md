@@ -15,8 +15,6 @@ title: 'Sitemap & Changelog'
 - [sitemap & changelog]({{< relref "sitemap.md" >}})
 
 ## Todo
-- [ ] organize gallery photos and add year tags
-- [ ] create script to simplify processing photos
 - [ ] insert picture of EDC
 - [ ] picture of homelab for homelab post
 

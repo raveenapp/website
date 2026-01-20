@@ -5,6 +5,12 @@ title: 'Library'
 ---
 
 This is a personal collection of things I've watched and read since I started tracking it.
+## 2026
+### Books
+- Kings of the Wyld
+### TV Shows
+
+### Movies
 
 ## 2025
 ### Books
@@ -18,7 +24,6 @@ This is a personal collection of things I've watched and read since I started tr
 - The Last Wish
 - Babel
 - The Travelling Cat Chronicles
-- Kings of the Wyld
 ### TV Shows
 - Succession
 - Adolescence

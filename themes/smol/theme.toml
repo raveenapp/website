@@ -7,7 +7,6 @@ tags = ["blog", "minimal", "monospace", "dark mode", "simple", "clean", "light",
 features = ["blog", "privacy", "responsive", "fast"]
 min_version = "0.20"
 
-test 
 [author]
   name = "morph"
   homepage = "morph.sh"

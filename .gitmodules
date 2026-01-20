@@ -1,3 +1,7 @@
 [submodule "themes/smol"]
 	path = themes/smol
 	url = https://github.com/raveenapp/smol-fork.git
+
+[submodule "themes/hugo-shortcode-gallery"]
+	path = themes/hugo-shortcode-gallery
+	url = https://github.com/mfg92/hugo-shortcode-gallery.git

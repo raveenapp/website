@@ -1,7 +1,7 @@
 baseURL = 'https://www.raveen.ca/'
 languageCode = 'en-us'
 title = 'Raveen.ca'
-theme = ['smol']
+theme = ['smol', 'hugo-shortcode-gallery']
 
 # Parameters
 [params]
@@ -33,7 +33,19 @@ theme = ['smol']
         name = "About"
         url = "/about/"
         weight = 1
-        
+
+  [[menu.main]]
+        identifier = "sitemap"
+        name = "Sitemap & Changelog"
+        url = "/sitemap/"
+        weight = 6
+
+  [[menu.main]]
+        identifier = "gallery"
+        name = "Gallery"
+        url = "/gallery/"
+        weight = 3
+      
 # Footer
 
 

@@ -44,6 +44,13 @@
       <description></description>
     </item>
     <item>
+      <title>Default</title>
+      <link>http://localhost:1313/categories/default/</link>
+      <pubDate>Tue, 03 Jun 2025 09:52:21 -0400</pubDate>
+      <guid>http://localhost:1313/categories/default/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>How-To</title>
       <link>http://localhost:1313/categories/how-to/</link>
       <pubDate>Thu, 29 May 2025 07:51:59 -0400</pubDate>

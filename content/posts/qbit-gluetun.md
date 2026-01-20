@@ -5,7 +5,6 @@ slug: 2025-05-29-qbit-gluetun
 type: posts
 draft: false
 categories:
-  - projects
   - how-to
 tags:
   - homelab

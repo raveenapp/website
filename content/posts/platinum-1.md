@@ -5,10 +5,10 @@ slug: 2025-09-07-platinum-1
 type: posts
 draft: false
 categories:
-  - retrospective
   - video games
 tags:
   - pokemon
+  - retrospective
 ---
 ## Introduction to Nuzlockes
 

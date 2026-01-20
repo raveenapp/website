@@ -5,9 +5,9 @@ slug: 2025-05-28-altered-carbon
 type: posts
 draft: false
 categories:
-  - retrospective
+  - Books
 tags:
-  - books
+  - reviews
 ---
 
 The guys in the lab and I started a book club together and the first book we read was Altered Carbon by Richard K. Morgan. 

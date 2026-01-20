@@ -5,10 +5,10 @@ slug: 2025-09-22-platinum-3
 type: posts
 draft: false
 categories:
-   - retrospective
    - video games
 tags:
   - pokemon
+  - retrospective
 ---
 
 {{< figure

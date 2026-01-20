@@ -14,19 +14,22 @@
     <loc>http://localhost:1313/sitemap/</loc>
     <lastmod>2026-01-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2026-01-13T23:11:32-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/movies/</loc>
+    <loc>http://localhost:1313/tags/52in52/</loc>
     <lastmod>2026-01-13T23:11:32-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/2026-01-13-philadelphia/</loc>
     <lastmod>2026-01-13T23:11:32-05:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2026-01-13T23:11:32-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/movies/</loc>
+    <lastmod>2026-01-13T23:11:32-05:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/posts/</loc>
     <lastmod>2026-01-13T23:11:32-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/rambles/</loc>
+    <loc>http://localhost:1313/tags/reviews/</loc>
     <lastmod>2026-01-13T23:11:32-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
@@ -35,13 +38,13 @@
     <loc>http://localhost:1313/posts/2026-01-06-52moviesin52weeks/</loc>
     <lastmod>2026-01-06T21:35:03-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/life/</loc>
-    <lastmod>2026-01-06T21:35:03-05:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/internet/</loc>
     <lastmod>2025-10-09T10:47:07-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/2025-10-09-internet-used-to-be-a-place/</loc>
+    <lastmod>2025-10-09T10:47:07-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/rambles/</loc>
     <lastmod>2025-10-09T10:47:07-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/2025-09-22-platinum-3/</loc>
@@ -50,7 +53,7 @@
     <loc>http://localhost:1313/tags/pokemon/</loc>
     <lastmod>2025-09-22T06:49:34-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/retrospective/</loc>
+    <loc>http://localhost:1313/tags/retrospective/</loc>
     <lastmod>2025-09-22T06:49:34-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/video-games/</loc>
@@ -74,9 +77,6 @@
     <loc>http://localhost:1313/categories/how-to/</loc>
     <lastmod>2025-07-17T21:23:12-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/projects/</loc>
-    <lastmod>2025-07-17T21:23:12-04:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/posts/2025-07-17-music-server/</loc>
     <lastmod>2025-07-17T21:23:12-04:00</lastmod>
   </url><url>
@@ -95,7 +95,7 @@
     <loc>http://localhost:1313/posts/2025-05-28-altered-carbon/</loc>
     <lastmod>2025-05-28T00:06:26-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/books/</loc>
+    <loc>http://localhost:1313/categories/books/</loc>
     <lastmod>2025-05-28T00:06:26-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/2025-05-26-volunteerism-internet/</loc>
@@ -103,6 +103,12 @@
   </url><url>
     <loc>http://localhost:1313/posts/2025-05-24-2024presidential-traverse/</loc>
     <lastmod>2025-05-24T23:12:09-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/2025-05-23-2025homelab/</loc>
+    <lastmod>2025-05-23T17:36:09-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/projects/</loc>
+    <lastmod>2025-05-23T17:36:09-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/2025-05-21-2024western-uplands/</loc>
     <lastmod>2025-05-21T20:22:50-04:00</lastmod>

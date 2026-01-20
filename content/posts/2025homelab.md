@@ -3,7 +3,7 @@ title: "2025 Homelab"
 date: 2025-05-23T17:36:09-04:00
 slug: 2025-05-23-2025homelab
 type: posts
-draft: true
+draft: false
 categories:
   - projects
 tags:
@@ -47,9 +47,7 @@ tags:
 # The Background
 I first learned about homelabs during covid when youtube recommended a video about home servers to me. At that point, it was just about media servers but instantly I was hooked. I've always been a privacy focused guy when it comes to the internet and its always been a struggle to balance the conviniences of internet and keep my data private. Using a home server for media and file storage seemed like natural progression of that. So when my friend was upgrading his computer, I was able to snag some cheap components off him to start the build. I had to buy the case, storage and cooler! I started with 4 4Tb drives for the setup.
 
-I had no idea where to actually start so went down a major youtube university rabbit hole and found this walkthrough that I liked by Hardware Haven.
-
-{{< youtube kbbnAQ0AQw2FUjAl >}}
+I had no idea where to actually start so went down a major youtube university rabbit hole and following a guide by Hardware Haven.
 
 Following the video, I build my first server using Proxmox and TrueNAS Core. I ran a vm of Windows 10 that ran my services like Jellyfin and I used PhotoSync to backup my photos on to the server. 
 

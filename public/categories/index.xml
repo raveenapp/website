@@ -9,17 +9,17 @@
     <lastBuildDate>Tue, 13 Jan 2026 23:11:32 -0500</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Rambles</title>
-      <link>http://localhost:1313/categories/rambles/</link>
+      <title>Movies</title>
+      <link>http://localhost:1313/categories/movies/</link>
       <pubDate>Tue, 13 Jan 2026 23:11:32 -0500</pubDate>
-      <guid>http://localhost:1313/categories/rambles/</guid>
+      <guid>http://localhost:1313/categories/movies/</guid>
       <description></description>
     </item>
     <item>
-      <title>Retrospective</title>
-      <link>http://localhost:1313/categories/retrospective/</link>
-      <pubDate>Mon, 22 Sep 2025 06:49:34 -0400</pubDate>
-      <guid>http://localhost:1313/categories/retrospective/</guid>
+      <title>Rambles</title>
+      <link>http://localhost:1313/categories/rambles/</link>
+      <pubDate>Thu, 09 Oct 2025 10:47:07 -0400</pubDate>
+      <guid>http://localhost:1313/categories/rambles/</guid>
       <description></description>
     </item>
     <item>
@@ -37,17 +37,24 @@
       <description></description>
     </item>
     <item>
-      <title>Projects</title>
-      <link>http://localhost:1313/categories/projects/</link>
-      <pubDate>Thu, 17 Jul 2025 21:23:12 -0400</pubDate>
-      <guid>http://localhost:1313/categories/projects/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Trips</title>
       <link>http://localhost:1313/categories/trips/</link>
       <pubDate>Wed, 02 Jul 2025 21:33:42 -0400</pubDate>
       <guid>http://localhost:1313/categories/trips/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Books</title>
+      <link>http://localhost:1313/categories/books/</link>
+      <pubDate>Wed, 28 May 2025 00:06:26 -0400</pubDate>
+      <guid>http://localhost:1313/categories/books/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Projects</title>
+      <link>http://localhost:1313/categories/projects/</link>
+      <pubDate>Fri, 23 May 2025 17:36:09 -0400</pubDate>
+      <guid>http://localhost:1313/categories/projects/</guid>
       <description></description>
     </item>
   </channel>

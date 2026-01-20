@@ -5,10 +5,10 @@ slug: 2026-01-06-52moviesin52weeks
 type: posts
 draft: false
 categories:
-  - rambles
-tags:
-  - life
   - movies
+tags:
+  - 52in52
+  - reviews
 ---
 
 I like a combination of New Years Resolutions that a) remove negative habits but also b) add postive goals. One of the positive goals I want to do this year is watch more movies. I mean the movies that are the "Oh you haven't seen that yet?" tier of movie. There's so many movies on my list so this year I'm going to make a commitment to watch them. The list is as follows:
@@ -17,7 +17,7 @@ I like a combination of New Years Resolutions that a) remove negative habits but
 2. The Departed
 3. A Few Good Men
 4. Apollo 13
-5. Philedelphia
+5. [Philadelphia]({{< relref "philadelphia.md" >}})
 6. Ghost in the Shell
 7. Paprika
 8. Millenium Actress
@@ -48,7 +48,7 @@ I like a combination of New Years Resolutions that a) remove negative habits but
 33. Sound of Music
 34. Nightcrawler
 35. Bridge on the River Kwai
-36. Bugonia
+36. [Bugonia]({{< relref "52moviesin52weeks.md" >}})
 37. V for Vendetta
 38. Drunken Master
 39. Tokyo Grandfathers

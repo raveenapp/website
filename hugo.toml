@@ -47,5 +47,5 @@ theme = ['smol', 'hugo-shortcode-gallery']
         weight = 3
       
 # Footer
-
+timeout = 60000
 

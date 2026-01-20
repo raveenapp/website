@@ -39,6 +39,7 @@ tags:
 	- Sonarr - Show indexer/PVR
 	- Radarr - movie indexer/PVR
 	- Prowler - indexer
+	- Dockge - docker manager
 
 - Stats: 
 	- Average Power: 94 W

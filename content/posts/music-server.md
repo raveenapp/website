@@ -6,6 +6,7 @@ type: posts
 draft: false
 categories:
   - projects
+  - how-to
 tags:
   - homelab
 ---

@@ -17,6 +17,8 @@ title: 'Sitemap & Changelog'
 ## Todo
 - [ ] organize gallery photos and add year tags
 - [ ] create script to simplify processing photos
+- [ ] insert picture of EDC
+- [ ] picture of homelab for homelab post
 
 ## Changelog
 - 2026-01-20: added [gallery]({{< relref "gallery.md" >}}) and [sitemap & changelog]({{< relref "sitemap.md" >}}) pages

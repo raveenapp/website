@@ -14,5 +14,9 @@ title: 'Sitemap & Changelog'
 - [tags]({{< relref "tags.md" >}})
 - [sitemap & changelog]({{< relref "sitemap.md" >}})
 
+## Todo
+- [ ] organize gallery photos and add year tags
+- [ ] create script to simplify processing photos
+
 ## Changelog
 - 2026-01-20: added [gallery]({{< relref "gallery.md" >}}) and [sitemap & changelog]({{< relref "sitemap.md" >}}) pages

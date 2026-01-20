@@ -1,6 +1,6 @@
 ---
 date: '2026-01-20'
-draft: true
+draft: false
 title: 'Sitemap & Changelog'
 ---
 ## Sitemap

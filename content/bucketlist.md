@@ -10,14 +10,9 @@ I saw this on another website years ago and I like the idea of keeping a list bu
 - [ ] run a half marathon
 - [ ] do 20 consective pushups
 - [ ] do a muscle up
-
-## professional
-- [ ] complete my masters
-- [ ] get a job
 ## fun
 - [ ] go sky diving
 - [ ] get a full sleeve tattoo
-
 ## travel
 - [ ] hike the Swiss Alps
 - [ ] backpack through Japan

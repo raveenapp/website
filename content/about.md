@@ -28,7 +28,7 @@ Favourites - check out more in my [library]({{< relref "library.md" >}})
 Heres what I'm currently on:
 - Reading: Kings of the Wyld
 - Watching: JJK Season 3, Hell's Paradise Season 2, Frieren: Beyond Journey's End Season 2, His & Her
-- Playing: Advance Wars, Castlevania: Aria of Sorrows, Sonic Advance, Pokemon Legends: Z-A
+- Playing: Advance Wars, Castlevania: Aria of Sorrow, Sonic Advance, Pokemon Legends: Z-A
 
 Check out my friends:
 - [pkosierb.com](https://pkosierb.com)

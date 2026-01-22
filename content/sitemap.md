@@ -19,4 +19,5 @@ title: 'Sitemap & Changelog'
 - [ ] picture of homelab for homelab post
 
 ## Changelog
+- 2026-01-21: added post about the movie [Look Back]({{< relref "posts/lookback.md" >}})
 - 2026-01-20: added [gallery]({{< relref "gallery.md" >}}) and [sitemap & changelog]({{< relref "sitemap.md" >}}) pages

@@ -13,7 +13,7 @@ tags:
 The guys in the lab and I started a book club together and the first book we read was Altered Carbon by Richard K. Morgan. 
 
 {{< figure
-  src="/images/altered-carbon-post/cover.jpg"
+  src="https://upload.wikimedia.org/wikipedia/en/7/79/Altered_Carbon_cover_1_%28Amazon%29.jpg"
   alt="Cover of book"
   caption="Here's the cover from [Wikipedia](https://en.wikipedia.org/wiki/Altered_Carbon)"
   class="ma0 w-75"

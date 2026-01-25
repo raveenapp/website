@@ -1,5 +1,5 @@
 ---
-date: '2025-05-21T17:49:51-04:00'
+date: '2025-01-25'
 draft: false
 title: 'Library'
 ---
@@ -7,10 +7,16 @@ title: 'Library'
 This is a personal collection of things I've watched and read since I started tracking it.
 ## 2026
 ### Books
-- Kings of the Wyld
+- Kings of the Wyld by Nicholas Eames
 ### TV Shows
 
 ### Movies
+- Evil Influencer: The Jodi Hildebrandt Story
+- Crazy Rich Asians
+- Bugonia
+- Philadelphia
+- Look Back
+- Just Go With It
 
 ## 2025
 ### Books

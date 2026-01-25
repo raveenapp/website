@@ -1,5 +1,5 @@
 ---
-date: '2025-05-21T17:49:42-04:00'
+date: '2026-01-25'
 draft: false
 title: 'Stuff'
 ---
@@ -8,6 +8,7 @@ Here is my go to EDC rn!
 
 - Phone: iPhone 13 Pro
 - Laptop: Lenovo Thinkpad T470s (EndeavourOS), XPS 13 9370 (Windows)
+- Camera: Canon Powershot G7 X Mark ii
 - Tablet: iPad Air (5th Gen)
     - Enzo Aramid Case
     - Magic Keyboard

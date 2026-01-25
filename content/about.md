@@ -1,5 +1,5 @@
 ---
-date: '2026-01-20'
+date: '2026-01-25'
 draft: false
 title: 'About'
 ---
@@ -26,9 +26,15 @@ Favourites - check out more in my [library]({{< relref "library.md" >}})
 - Movies: Spiderman: Across the Spiderverse, 500 Days of Summer, Everything Everywhere all at Once
 
 Heres what I'm currently on:
-- Reading: Kings of the Wyld
+- Reading: Old Man and The Sea by Ernest Hemingway
 - Watching: JJK Season 3, Hell's Paradise Season 2, Frieren: Beyond Journey's End Season 2, His & Her
 - Playing: Advance Wars, Castlevania: Aria of Sorrow, Sonic Advance, Pokemon Legends: Z-A
+
+Resources I've used to build my site:
+- This site was built using the static site generator [Hugo](https://gohugo.io/)
+- The gallery shortcode: [hugo-shortcode-gallery by mfg92](https://github.com/mfg92/hugo-shortcode-gallery)
+- The guestbook: [htmlcommentbox](https://www.htmlcommentbox.com)
+- The site was built with AI assistance
 
 Check out my friends:
 - [pkosierb.com](https://pkosierb.com)

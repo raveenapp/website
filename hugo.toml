@@ -45,7 +45,14 @@ theme = ['smol', 'hugo-shortcode-gallery']
         name = "Gallery"
         url = "/gallery/"
         weight = 3
-      
+
+  [[menu.main]]
+        identifier = "guestbook"
+        name = "Guestbook"
+        url = "/guestbook/"
+        weight = 7
+
+
 # Footer
 timeout = 60000
 

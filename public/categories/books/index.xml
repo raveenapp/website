@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Books on Raveen.ca</title>
-    <link>https://www.raveen.ca/categories/books/</link>
+    <link>http://localhost:1313/categories/books/</link>
     <description>Recent content in Books on Raveen.ca</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 28 May 2025 00:06:26 -0400</lastBuildDate>
-    <atom:link href="https://www.raveen.ca/categories/books/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/books/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Altered Carbon Retrospective</title>
-      <link>https://www.raveen.ca/posts/2025-05-28-altered-carbon/</link>
+      <link>http://localhost:1313/posts/2025-05-28-altered-carbon/</link>
       <pubDate>Wed, 28 May 2025 00:06:26 -0400</pubDate>
-      <guid>https://www.raveen.ca/posts/2025-05-28-altered-carbon/</guid>
+      <guid>http://localhost:1313/posts/2025-05-28-altered-carbon/</guid>
       <description>&lt;p&gt;The guys in the lab and I started a book club together and the first book we read was Altered Carbon by Richard K. Morgan.&lt;/p&gt;&#xA;&lt;figure class=&#34;ma0 w-75&#34;&gt;&lt;img src=&#34;https://upload.wikimedia.org/wikipedia/en/7/79/Altered_Carbon_cover_1_%28Amazon%29.jpg&#34;&#xA;    alt=&#34;Cover of book&#34; width=&#34;20%&#34;&gt;&lt;figcaption&gt;&#xA;      &lt;p&gt;Here&amp;rsquo;s the cover from &lt;a href=&#34;https://en.wikipedia.org/wiki/Altered_Carbon&#34;&gt;Wikipedia&lt;/a&gt;&lt;/p&gt;&#xA;    &lt;/figcaption&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;h1 id=&#34;summary&#34;&gt;Summary&lt;/h1&gt;&#xA;&lt;p&gt;The story follows Takeshi Kovacs, an ex-private military, now-turned-investigator hired to solve the mystery behind someone&amp;rsquo;s suicide (or murder?). It takes place in the future, where humans have the ability to upload our consciousness to chips called stacks. Since the mind can be separated from the body, bodies are referred to as sleeves. This system of switching sleeves and putting your stack in storage are key parts of this world, used in the criminal system, for fashion and as backup plans. As the story unfolds, we learn more about the world, about Takeshi and about the mysteries of the crime.&lt;/p&gt;</description>
     </item>
   </channel>

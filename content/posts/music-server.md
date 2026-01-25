@@ -6,6 +6,7 @@ type: posts
 draft: false
 categories:
   - how-to
+  - music
 tags:
   - homelab
 ---

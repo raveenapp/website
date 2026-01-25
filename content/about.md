@@ -31,11 +31,14 @@ Heres what I'm currently on:
 - Playing: Advance Wars, Castlevania: Aria of Sorrow, Sonic Advance, Pokemon Legends: Z-A
 
 Resources I've used to build my site:
-- This site was built using the static site generator [Hugo](https://gohugo.io/) using a fork of the [smol theme](https://github.com/colorchestra/smol) that I've edisted
+- This site was built using the static site generator [Hugo](https://gohugo.io/) using a fork of the [smol theme](https://github.com/colorchestra/smol) that I've edited
 - The gallery shortcode: [hugo-shortcode-gallery by mfg92](https://github.com/mfg92/hugo-shortcode-gallery)
 - The guestbook: [htmlcommentbox](https://www.htmlcommentbox.com)
-- The site was built with AI assistance
+- The site was built with AI assistance (debugging hugo mainly, not content generation)
 
 Check out my friends:
 - [pkosierb.com](https://pkosierb.com)
 - [tfren99](https://tfren99.github.io/)
+
+Webrings I'm in (or applying):
+{{< webrings >}}

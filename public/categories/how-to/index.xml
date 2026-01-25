@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>How-To on Raveen.ca</title>
-    <link>http://localhost:1313/categories/how-to/</link>
+    <link>https://www.raveen.ca/categories/how-to/</link>
     <description>Recent content in How-To on Raveen.ca</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 17 Jul 2025 21:23:12 -0400</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/how-to/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.raveen.ca/categories/how-to/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Setting up your own music server</title>
-      <link>http://localhost:1313/posts/2025-07-17-music-server/</link>
+      <link>https://www.raveen.ca/posts/2025-07-17-music-server/</link>
       <pubDate>Thu, 17 Jul 2025 21:23:12 -0400</pubDate>
-      <guid>http://localhost:1313/posts/2025-07-17-music-server/</guid>
+      <guid>https://www.raveen.ca/posts/2025-07-17-music-server/</guid>
       <description>&lt;h1 id=&#34;overview&#34;&gt;Overview&lt;/h1&gt;&#xA;&lt;p&gt;We live in an age of software as a service (SaaS). For a monthly fee, these software give their users access to the conveniences of their product. Services like Netflix and Spotify give their users access to petabytes of content without the struggle of hosting or carrying that content themselves. The convenience is undeniable, but not without their concerns. Focusing on Spotify, their revenue stream for their artists isn&amp;rsquo;t small artist friendly, mainly benefitting labels and popular artists. Nothing wrong with convenience, but if you are looking to support artist, you are better off buying the artists music directly and listening to the files off your phone. Unfortunately, given a large enough collection, it is not feasible to save thousands of songs along with photos and apps on a phone anymore. There is the option of getting a dedicated music player like an iPod or music player, but that poses its own inconveniences. The goal is to have something almost as accessible as Spotify, and with selfhosting it is now possible. This post will go over the steps to create your own music service using Navidrome as the music server. To track your listening, this will also show you how to connect Navidrome to Last.fm.&lt;/p&gt;</description>
     </item>
     <item>
       <title>How I set up qBittorrent with Gluetun on TrueNAS Scale</title>
-      <link>http://localhost:1313/posts/2025-05-29-qbit-gluetun/</link>
+      <link>https://www.raveen.ca/posts/2025-05-29-qbit-gluetun/</link>
       <pubDate>Thu, 29 May 2025 07:51:59 -0400</pubDate>
-      <guid>http://localhost:1313/posts/2025-05-29-qbit-gluetun/</guid>
+      <guid>https://www.raveen.ca/posts/2025-05-29-qbit-gluetun/</guid>
       <description>&lt;p&gt;One thing took me a while to get running was qBittorent with a VPN on TrueNAS Scale. The community application of qBittorrent doesn&amp;rsquo;t have that functionality, so the solution is to  manually install it instead. This is how I did that!&lt;/p&gt;&#xA;&lt;h1 id=&#34;overview&#34;&gt;Overview&lt;/h1&gt;&#xA;&lt;p&gt;Regardless of what you want to torrent, its probably a good idea to run it through a VPN. It masks your IP address so that way it shouldn&amp;rsquo;t be linked back to your usage. Typically, if you were torrenting on your computer, you can turn on your VPN app and start the torrent. But with servers that may run in the background, it is a little more complicated. Especially on something like TrueNAS which doesn&amp;rsquo;t do the typical &amp;ldquo;installing applications&amp;rdquo; like on a computer.&lt;/p&gt;</description>
     </item>
   </channel>

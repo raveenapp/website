@@ -31,7 +31,7 @@ Heres what I'm currently on:
 - Playing: Advance Wars, Castlevania: Aria of Sorrow, Sonic Advance, Pokemon Legends: Z-A
 
 Resources I've used to build my site:
-- This site was built using the static site generator [Hugo](https://gohugo.io/)
+- This site was built using the static site generator [Hugo](https://gohugo.io/) using a fork of the [smol theme](https://github.com/colorchestra/smol)
 - The gallery shortcode: [hugo-shortcode-gallery by mfg92](https://github.com/mfg92/hugo-shortcode-gallery)
 - The guestbook: [htmlcommentbox](https://www.htmlcommentbox.com)
 - The site was built with AI assistance

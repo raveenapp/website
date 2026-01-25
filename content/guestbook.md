@@ -4,7 +4,7 @@ draft: false
 title: 'Guestbook'
 ---
 
-Welcome to my guestbook! Feel free to sign it below.
+Welcome to my guestbook! Feel free to sign it below. I approve the comments to prevent spam so if there's a delay in showing up, thats why!
 
 ---
 

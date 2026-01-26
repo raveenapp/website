@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rambles on Raveen.ca</title>
+    <link>http://localhost:1313/tags/rambles/</link>
+    <description>Recent content in Rambles on Raveen.ca</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 26 Jan 2026 09:12:06 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/rambles/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>We Should Bring Back Game Cartridges</title>
+      <link>http://localhost:1313/posts/2026-01-26-gamecartridges/</link>
+      <pubDate>Mon, 26 Jan 2026 09:12:06 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2026-01-26-gamecartridges/</guid>
+      <description>&lt;p&gt;A lot of my video game playing lately has been on portable consoles, mainly the 3DS, DS and Gameboy Advance SP. In playing these games, I&amp;rsquo;ve grown a greater appreciation for game cartridges. It&amp;rsquo;s beautiful when you think about it, the entire game and save in a removable and highly portable form factor. I&amp;rsquo;m also amazed by the amount of content they fit in some of these games. The tricks game developers used to show depth and detail in such &amp;ldquo;weak&amp;rdquo; systems, especially the GBA, are so cool.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

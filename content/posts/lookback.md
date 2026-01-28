@@ -64,7 +64,7 @@ I would give it a 4/5. Next week's movie is Drunken Master. I will do the spoile
 35. Bridge on the River Kwai
 36. [Bugonia]({{< relref "52moviesin52weeks.md" >}})
 37. V for Vendetta
-38. Drunken Master
+38. [Drunken Master]({{< relref "drunkenmaster.md" >}})
 39. Tokyo Grandfathers
 40. [Look Back]({{< relref "lookback.md" >}})
 41. Call me by your name
@@ -79,7 +79,6 @@ I would give it a 4/5. Next week's movie is Drunken Master. I will do the spoile
 50. The Tale of the Princess Kaguya
 51. When Marnie was There
 52. From Up on Poppy Hill
-
 
 
 I really thought the story did a great job of representing jealousy at the start of the movie. I remember experiencing the same emotions as Fujino, being faced with someone who is more skilled and deciding what to do next. I loved watching their relationship flourish. I was so locked in that I almost felt the betrayal that Fujino felt when Kyomoto said she was going to art school instead. It was a cute touch to make the covers of Sharkman parodies of the Chainsaw Man covers. 

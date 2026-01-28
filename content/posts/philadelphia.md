@@ -65,7 +65,7 @@ Here is the rest of the list!
 35. Bridge on the River Kwai
 36. [Bugonia]({{< relref "52moviesin52weeks.md" >}})
 37. V for Vendetta
-38. Drunken Master
+38. [Drunken Master]({{< relref "drunkenmaster.md" >}})
 39. Tokyo Grandfathers
 40. [Look Back]({{< relref "lookback.md" >}})
 41. Call me by your name

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Review on Raveen.ca</title>
+    <link>http://localhost:1313/tags/review/</link>
+    <description>Recent content in Review on Raveen.ca</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Feb 2026 15:39:14 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/review/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Castlevania: Aria of Sorrow</title>
+      <link>http://localhost:1313/posts/2026-02-01-ariaofsorrow/</link>
+      <pubDate>Sun, 01 Feb 2026 15:39:14 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2026-02-01-ariaofsorrow/</guid>
+      <description>&lt;figure class=&#34;ma0 w-75&#34;&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Castlevania:_Aria_of_Sorrow&#34;&gt;&lt;img src=&#34;https://upload.wikimedia.org/wikipedia/en/a/ab/AriaofSorrowCover.jpg&#34;&#xA;    alt=&#34;The game cover&#34; width=&#34;30%&#34;&gt;&lt;/a&gt;&lt;figcaption&gt;&#xA;      &lt;p&gt;The game cover&lt;/p&gt;&#xA;    &lt;/figcaption&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;p&gt;Last week I finished Castlevania: Aria of Sorrow. It was the third installment of the Castlevania series on the Game Boy Advance, but it was widely considered the definitive game for the system (Source: Wikipedia). I decided I&amp;rsquo;d start with this one. I haven&amp;rsquo;t played a Castlevania game before, and my only other Metroidvania experience was Metroid Fusion, which I didn&amp;rsquo;t beat and will have to return to at some point.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

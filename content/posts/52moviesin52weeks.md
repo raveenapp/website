@@ -13,58 +13,7 @@ tags:
 
 I like a combination of New Years Resolutions that a) remove negative habits but also b) add postive goals. One of the positive goals I want to do this year is watch more movies. I mean the movies that are the "Oh you haven't seen that yet?" tier of movie. There's so many movies on my list so this year I'm going to make a commitment to watch them. The list is as follows:
 
-1. Requiem for a Dream
-2. The Departed
-3. A Few Good Men
-4. Apollo 13
-5. [Philadelphia]({{< relref "philadelphia.md" >}})
-6. Ghost in the Shell
-7. Paprika
-8. Millenium Actress
-9. Donnie Darko
-10. Memories and Murder
-11. Momento
-12. 2001: Space Odyssey
-13. Schindler's List
-14. Jojo Rabbit
-15. Clue
-16. The Thing
-17. American History X
-18. When Harry Met Sally
-19. Black swan
-20. La Haine
-21. Seven Samurai
-22. Alien
-23. The Shining
-24. Cast Away
-25. Hateful eight
-26. La La Land
-27. Dead Poets Society
-28. Contact
-29. The Sixth Sense
-30. Training DAy
-31. The Green Room
-32. Wild Robot
-33. Sound of Music
-34. Nightcrawler
-35. Bridge on the River Kwai
-36. [Bugonia]({{< relref "52moviesin52weeks.md" >}})
-37. V for Vendetta
-38. [Drunken Master]({{< relref "drunkenmaster.md" >}})
-39. Tokyo Grandfathers
-40. [Look Back]({{< relref "lookback.md" >}})
-41. Call me by your name
-42. Fantastic Mr Fox
-43. Grand Budapest Hotel
-44. Trainspotting
-45. Hyakuemu.
-46. In the Mood for Love
-47. Hard Boiled
-48. Only Yesterday
-49. The Cat Returns
-50. The Tale of the Princess Kaguya
-51. When Marnie was There
-52. From Up on Poppy Hill
+{{< movielist >}}
 
 I will be spinning a wheel to decide which movie to watch each week and then I will write a post about the movie. This also goes with my goal of consuming consciously and creating more. By writing a post about the movie, I hope to reflect on the movie in any way I want to. Now for the first movie:
 

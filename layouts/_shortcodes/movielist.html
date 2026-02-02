@@ -1,0 +1,9 @@
+{{ range .Site.Data.movielist }}
+<div>
+    {{ if .url }}
+        <li><a href="{{ .url }}">{{.title}}</a> - {{.rating}}</li>
+    {{ else }}
+        <li>{{.title}}</li>
+    {{ end }}
+</div>
+{{end}}

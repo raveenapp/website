@@ -21,6 +21,7 @@ figure
   width=30%
 >}}
 
+I've seen a few Studio
 - ive seen alot of the main/popular ghibli films but not this one
 - the first thing that sticks out to me is the art style, different from the usual style/pastal colours
 - thematically theres a lot of things to talk about: the beauty of nature and peaceful living, the cage that is traditional lifestyles, the expectations of others, the pursuit of love as well as trickery, and of loss

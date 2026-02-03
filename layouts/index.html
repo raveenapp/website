@@ -1,9 +1,11 @@
 {{ define "main" }}
 Welcome to my website! You can start with my about page or see my most recent blog posts below!
 <div>
-    <script type="text/javascript" src="https://counter.websiteout.com/js/17/0/1/0"></script>
+Number of visits:
+<!-- FC2 Counter  Starts here -->
+<script language="javascript" type="text/javascript" src="//counter1.fc2.com/counter.php?id=40716800&main=1"></script><noscript><img src="//counter1.fc2.com/counter_img.php?id=40716800&main=1" /></noscript>
+<!-- FC2 Counter  Ends here -->
 </div>
-
 	<main>
 		{{ $paginator := .Paginate (where .Site.RegularPages "Type" "in" .Site.Params.mainSections) }}
 		{{ range $paginator.Pages }}

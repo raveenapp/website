@@ -1,0 +1,14 @@
+{{ define "main" }}
+Welcome to my website! You can start with my about page or see my most recent blog posts below!
+<div>
+    <script type="text/javascript" src="https://counter.websiteout.com/js/17/0/1/0"></script>
+</div>
+
+	<main>
+		{{ $paginator := .Paginate (where .Site.RegularPages "Type" "in" .Site.Params.mainSections) }}
+		{{ range $paginator.Pages }}
+			{{ .Render "summary" }}
+		{{ end }}
+		{{ partial "pagination.html" . }}
+	</main>
+{{ end }}

@@ -20,6 +20,7 @@ title: 'Sitemap & Changelog'
 - [ ] picture of homelab for homelab post
 
 ## Changelog
+- 2026-02-03: added post about [The Tale of The Princess Kaguya]({{< relref "posts/kaguya.md" >}}) and visitor counter
 - 2026-02-01: added post about [Castlevania: Aria of Sorrow]({{< relref "posts/ariaofsorrow.md" >}})
 - 2026-01-28: added post about the movie [Drunken Master]({{< relref "posts/drunkenmaster.md" >}})
 - 2026-01-26: blog post about [game cartridges]({{< relref "posts/gamecartridges.md" >}})

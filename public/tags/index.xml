@@ -2,73 +2,73 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Raveen.ca</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>https://www.raveen.ca/tags/</link>
     <description>Recent content in Tags on Raveen.ca</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 01 Feb 2026 15:39:14 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 02 Feb 2026 22:45:32 -0500</lastBuildDate>
+    <atom:link href="https://www.raveen.ca/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Review</title>
-      <link>http://localhost:1313/tags/review/</link>
-      <pubDate>Sun, 01 Feb 2026 15:39:14 -0500</pubDate>
-      <guid>http://localhost:1313/tags/review/</guid>
+      <title>52in52</title>
+      <link>https://www.raveen.ca/tags/52in52/</link>
+      <pubDate>Mon, 02 Feb 2026 22:45:32 -0500</pubDate>
+      <guid>https://www.raveen.ca/tags/52in52/</guid>
       <description></description>
     </item>
     <item>
-      <title>52in52</title>
-      <link>http://localhost:1313/tags/52in52/</link>
-      <pubDate>Tue, 27 Jan 2026 23:41:35 -0500</pubDate>
-      <guid>http://localhost:1313/tags/52in52/</guid>
+      <title>Review</title>
+      <link>https://www.raveen.ca/tags/review/</link>
+      <pubDate>Mon, 02 Feb 2026 22:45:32 -0500</pubDate>
+      <guid>https://www.raveen.ca/tags/review/</guid>
       <description></description>
     </item>
     <item>
       <title>Reviews</title>
-      <link>http://localhost:1313/tags/reviews/</link>
+      <link>https://www.raveen.ca/tags/reviews/</link>
       <pubDate>Tue, 27 Jan 2026 23:41:35 -0500</pubDate>
-      <guid>http://localhost:1313/tags/reviews/</guid>
+      <guid>https://www.raveen.ca/tags/reviews/</guid>
       <description></description>
     </item>
     <item>
       <title>Rambles</title>
-      <link>http://localhost:1313/tags/rambles/</link>
+      <link>https://www.raveen.ca/tags/rambles/</link>
       <pubDate>Mon, 26 Jan 2026 09:12:06 -0500</pubDate>
-      <guid>http://localhost:1313/tags/rambles/</guid>
+      <guid>https://www.raveen.ca/tags/rambles/</guid>
       <description></description>
     </item>
     <item>
       <title>Pokemon</title>
-      <link>http://localhost:1313/tags/pokemon/</link>
+      <link>https://www.raveen.ca/tags/pokemon/</link>
       <pubDate>Mon, 22 Sep 2025 06:49:34 -0400</pubDate>
-      <guid>http://localhost:1313/tags/pokemon/</guid>
+      <guid>https://www.raveen.ca/tags/pokemon/</guid>
       <description></description>
     </item>
     <item>
       <title>Retrospective</title>
-      <link>http://localhost:1313/tags/retrospective/</link>
+      <link>https://www.raveen.ca/tags/retrospective/</link>
       <pubDate>Mon, 22 Sep 2025 06:49:34 -0400</pubDate>
-      <guid>http://localhost:1313/tags/retrospective/</guid>
+      <guid>https://www.raveen.ca/tags/retrospective/</guid>
       <description></description>
     </item>
     <item>
       <title>Life</title>
-      <link>http://localhost:1313/tags/life/</link>
+      <link>https://www.raveen.ca/tags/life/</link>
       <pubDate>Sat, 06 Sep 2025 20:11:59 -0400</pubDate>
-      <guid>http://localhost:1313/tags/life/</guid>
+      <guid>https://www.raveen.ca/tags/life/</guid>
       <description></description>
     </item>
     <item>
       <title>Homelab</title>
-      <link>http://localhost:1313/tags/homelab/</link>
+      <link>https://www.raveen.ca/tags/homelab/</link>
       <pubDate>Thu, 17 Jul 2025 21:23:12 -0400</pubDate>
-      <guid>http://localhost:1313/tags/homelab/</guid>
+      <guid>https://www.raveen.ca/tags/homelab/</guid>
       <description></description>
     </item>
     <item>
       <title>Backpacking</title>
-      <link>http://localhost:1313/tags/backpacking/</link>
+      <link>https://www.raveen.ca/tags/backpacking/</link>
       <pubDate>Wed, 02 Jul 2025 21:33:42 -0400</pubDate>
-      <guid>http://localhost:1313/tags/backpacking/</guid>
+      <guid>https://www.raveen.ca/tags/backpacking/</guid>
       <description></description>
     </item>
   </channel>

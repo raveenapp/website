@@ -35,24 +35,22 @@ theme = ['smol', 'hugo-shortcode-gallery']
         weight = 1
 
   [[menu.main]]
-        identifier = "sitemap"
-        name = "Sitemap & Changelog"
-        url = "/sitemap/"
-        weight = 6
-
-  [[menu.main]]
         identifier = "gallery"
         name = "Gallery"
         url = "/gallery/"
         weight = 3
 
-  [[menu.main]]
+# Footer
+  [[menu.footer]]
+        identifier = "sitemap"
+        name = "Sitemap & Changelog"
+        url = "/sitemap/"
+        weight = 1
+  [[menu.footer]]
         identifier = "guestbook"
         name = "Guestbook"
         url = "/guestbook/"
-        weight = 7
+        weight = 2
 
-
-# Footer
 timeout = 60000
 

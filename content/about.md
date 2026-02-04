@@ -39,7 +39,7 @@ Hey! I'm Raveen.
 
 ### Check out my friends:
 - [pkosierb.com](https://pkosierb.com)
-- [tfren99](https://tfren99.github.io/)
+- [tfren99](https://thomasfrench.ca/)
 
 ### Webrings I'm in (or applying):
 {{< webrings >}}

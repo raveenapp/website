@@ -1,11 +1,11 @@
 {{ define "main" }}
 Welcome to my website! You can start with my about page or see my most recent blog posts below!
 <div class="visitors">
-	<p>Number of visitors!</p>
+	<p class="centered">Number of visitors!</p>
 	<script type="text/javascript" src="https://counter.websiteout.com/js/7/4/0/0"></script>
 </div>
 	<main>
-		{{ $paginator := .Paginate (where .Site.RegularPages "Type" "in" .Site.Params.mainSections) }}
+		{{ $paginator := .Paginate (where .Site.RegularPages "Type" "in" .Site.Params.mainSections) 3 }}
 		{{ range $paginator.Pages }}
 			{{ .Render "summary" }}
 		{{ end }}

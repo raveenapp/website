@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://www.raveen.ca/'
 languageCode = 'en-us'
 title = 'Raveen.ca'
 theme = ["hugo-shortcode-gallery"]

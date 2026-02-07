@@ -1,0 +1,248 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+        
+    <title>Raveen.ca</title>
+
+    
+    <meta content="My personal website!" name="description" />
+
+    
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    
+    <link href="favicon.ico" rel="icon" type="image/x-icon" />
+
+    
+    
+    <link rel="stylesheet" href="/css/style.css"  />
+    
+
+    <script>
+      
+      
+      console.log("%cTemplate generated with petrapixel's layout generator: https://petrapixel.neocities.org/coding/layout-generator", "font-size: 14pt; color: #922a45; background: #ffd3ef");
+    </script>
+
+    
+  </head>
+  <body>
+    
+    
+    <a href="#content" id="skip-to-content-link">Skip to content</a>
+
+    <div class="layout">
+  
+      
+      
+      
+        <header>
+  <div class="header-content">
+	    <div class="header-title">Raveen.ca</div>
+        <nav>
+			    <a href="/"><b>Home</b></a>
+			      
+			      
+			      <a href="/about/"><b>About</b></a>
+			      
+			      <a href="/projects/"><b>Projects</b></a>
+			      
+			      <a href="/gallery/"><b>Gallery</b></a>
+			      
+			      <a href="/posts/"><b>Posts</b></a>
+			      
+			      <a href="/tags/"><b>Tags</b></a>
+			      
+	    </nav>
+	    
+	        
+          
+        </div>
+</header>
+        
+      
+      
+      
+	
+              <aside class="left-sidebar">
+        <div class="sidebar-section">
+          <div class="sidebar-title">Currently:</div>
+          <ul>
+            <li>Watching:</li>
+              <ul class="sublist">
+                <li>JJK S3</li>
+                <li>Hell's Paradise S2</li>
+                <li>Frieren S2</li>
+                <li>The Pitt S2</li>
+              </ul>
+            <li>Reading:</li>
+              <ul class="sublist">
+                <li>Old Man and The Sea by Ernest Hemingway</li>
+              </ul>
+            <li>Playing:</li>
+              <ul class="sublist">
+                <li>Advance Wars</li>
+                <li>Pokemon Unbound</li>
+                <li>Drill Dozer</li>
+                <li>Pokemon Legends: Z-A</li>
+              </ul>            
+          </ul>  
+        </div>
+
+        <div>
+	        <p>Number of Clicks!
+	        <script type="text/javascript" src="https://counter.websiteout.com/js/11/6/0/1"></script>
+          </p>  
+        </div>
+
+        <div class="sidebar-section">
+          <div class="sidebar-title">Site links</div>
+          <ul>
+            <li><a href="/sitemap/ ">Sitemap</a></li>
+            <li><a href="/changelog/ ">Changelog</a></li>
+            <li><a href="/guestbook/ ">Guestbook</a></li>
+            <li><a href="/resources/ ">Resources</a></li>
+          </ul>
+        </div>
+      
+        
+      </aside>
+  
+      <main id="content"> 
+
+        
+
+        
+        
+        
+          
+	<main>
+		<article>
+			<h1>Setting up your own music server</h1>
+			<b><time>2025-07-17</time></b>
+		       
+		           <a href="/tags/homelab">homelab</a>
+        	       
+		           <a href="/tags/guides">guides</a>
+        	       
+		           <a href="/tags/music">music</a>
+        	       
+
+			<div>
+				<h1 id="overview">Overview</h1>
+<p>We live in an age of software as a service (SaaS). For a monthly fee, these software give their users access to the conveniences of their product. Services like Netflix and Spotify give their users access to petabytes of content without the struggle of hosting or carrying that content themselves. The convenience is undeniable, but not without their concerns. Focusing on Spotify, their revenue stream for their artists isn&rsquo;t small artist friendly, mainly benefitting labels and popular artists. Nothing wrong with convenience, but if you are looking to support artist, you are better off buying the artists music directly and listening to the files off your phone. Unfortunately, given a large enough collection, it is not feasible to save thousands of songs along with photos and apps on a phone anymore. There is the option of getting a dedicated music player like an iPod or music player, but that poses its own inconveniences. The goal is to have something almost as accessible as Spotify, and with selfhosting it is now possible. This post will go over the steps to create your own music service using Navidrome as the music server. To track your listening, this will also show you how to connect Navidrome to Last.fm.</p>
+<p>With this tutorial, the service will only be accesible on your home network. To access it on the go, you will either have to set up a VPN to you home network, using a mesh network like TailScale or Twingate, or forward the port to the internet. This tutorial does not go into those steps.</p>
+<h1 id="prerequisites">Prerequisites</h1>
+<p>To create your own music service you will need the following:</p>
+<ul>
+<li>Server or a pc that is on all the time
+<ul>
+<li>I personally run everything on my NAS via TrueNAS Scale</li>
+</ul>
+</li>
+<li><a href="https://www.navidrome.org/">Navidrome</a> - the music server</li>
+<li>Optional: For listening statistics, Navidrome can send scrobble stats to other services:
+<ul>
+<li><a href="https://www.last.fm/home">Last.fm</a> - with an account</li>
+</ul>
+</li>
+</ul>
+<h1 id="disclaimer">Disclaimer:</h1>
+<ul>
+<li>This is not a tutorial for piracy. Make sure to acquire your music through legal means, either through purchasing the digital files or ripping a CD.</li>
+</ul>
+<p>Steps:</p>
+<ol>
+<li>Install Navidrome on your setup. There is a couple methods to do this:
+<ul>
+<li>Docker - whether on Windows, Linux or a Homelab, docker is probably the easiest set up method. I installed the program using the TrueNAS Scale community app on my server</li>
+<li>There is also the option of installing via YAML. As of this this tutorial, the yaml is found below (check the source for the up to date one. The community app on TrueNAS only requires you to set your volumes, so along with that make sure your user permissions are set properly as per your docker install.</li>
+<li>There is a windows install for Navidrome but I haven&rsquo;t used it so I can&rsquo;t speak to its install process</li>
+</ul>
+</li>
+</ol>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-yaml" data-lang="yaml"><span style="display:flex;"><span><span style="color:#f92672">services</span>:
+</span></span><span style="display:flex;"><span>  <span style="color:#f92672">navidrome</span>:
+</span></span><span style="display:flex;"><span>    <span style="color:#f92672">image</span>: <span style="color:#ae81ff">deluan/navidrome:latest</span>
+</span></span><span style="display:flex;"><span>    <span style="color:#f92672">user</span>: <span style="color:#ae81ff">1000</span>:<span style="color:#ae81ff">1000</span> <span style="color:#75715e"># should be owner of volumes</span>
+</span></span><span style="display:flex;"><span>    <span style="color:#f92672">ports</span>:
+</span></span><span style="display:flex;"><span>      - <span style="color:#e6db74">&#34;4533:4533&#34;</span>
+</span></span><span style="display:flex;"><span>    <span style="color:#f92672">restart</span>: <span style="color:#ae81ff">unless-stopped</span>
+</span></span><span style="display:flex;"><span>    <span style="color:#f92672">environment</span>:
+</span></span><span style="display:flex;"><span>      <span style="color:#75715e"># Optional: put your config options customization here. Examples:</span>
+</span></span><span style="display:flex;"><span>      <span style="color:#75715e"># ND_LOGLEVEL: debug</span>
+</span></span><span style="display:flex;"><span>    <span style="color:#f92672">volumes</span>:
+</span></span><span style="display:flex;"><span>      - <span style="color:#e6db74">&#34;/path/to/data:/data&#34;</span>
+</span></span><span style="display:flex;"><span>      - <span style="color:#e6db74">&#34;/path/to/your/music/folder:/music:ro&#34;</span>
+</span></span></code></pre></div><ol start="2">
+<li>Once Navidrome is installed, access the webapp using http://yourip:4533 (replace the port if you changed it for your install) create your admin accounts as well as any users needed</li>
+<li>If you pointed the music folder in the install to your music folder, then it should starting scanning automatically and you should see it shortly. Otherwise. move your music files over to the navidrome music folder.</li>
+</ol>
+<p>And thats it! The main steps are done. The following is optional steps to add scrobbling for music tracking:</p>
+<p>To add Last.fm (following this <a href="https://www.last.fm/api/account/create">Source Documentation</a>:</p>
+<ol>
+<li>Create a Last.fm account/Login to your account</li>
+<li>Create an API key for your navidrome instance. You only need to fill in the application name and the rest can be blank</li>
+<li>In your navidrome data folder (the folder you made for your docker install), create a file called &ldquo;navidrome.toml&rdquo;, this is where you will put any configuration/api information</li>
+<li>Open the toml file in a text editor and add your parameters below using your API and secret key (don&rsquo;t forget the quotations, those are needed):</li>
+</ol>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-yaml" data-lang="yaml"><span style="display:flex;"><span><span style="color:#ae81ff">LastFM.ApiKey = &#34;your api key&#34;</span>
+</span></span><span style="display:flex;"><span><span style="color:#ae81ff">LastFM.Secret = &#34;your secret key&#34;</span>
+</span></span></code></pre></div><ol start="5">
+<li>Login into the user you want to scrobble, then click on your profile icon on the top right, select Personal, and then on that page select Scrobble to Last.fm</li>
+</ol>
+<figure class="ma0 w-75"><img src="/images/navidrome-post/personal.png"
+    alt="A menu screen" width="125%"><figcaption>
+      <p>This is what the menu looks like with the enable scrobble button at the bottom</p>
+    </figcaption>
+</figure>
+
+
+			</div>
+		</article>
+	</main>
+	<br>
+<aside>
+	<div>
+		<div>
+			<h3>LATEST POSTS</h3>
+		</div>
+		<div>
+			<ul>
+				
+				<li><a href="/posts/2026-02-02-kaguya/">52in52: The Tale of The Princess Kaguya</a></li>
+				
+				<li><a href="/posts/2026-02-01-ariaofsorrow/">Castlevania: Aria of Sorrow</a></li>
+				
+				<li><a href="/posts/2026-01-27-drunkenmaster/">52in52: Drunken Master</a></li>
+				
+				<li><a href="/posts/2026-01-26-gamecartridges/">We Should Bring Back Game Cartridges</a></li>
+				
+				<li><a href="/posts/2026-01-21-lookback/">52in52: Look Back</a></li>
+				
+			</ul>
+		</div>
+	</div>
+</aside>
+
+
+        
+      </main>
+
+
+      
+      
+      
+
+      <footer>
+   Website made by Raveen in 2026 
+</footer>
+  
+    
+    </div>
+
+
+    
+  </body>
+</html>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projectslists on Raveen.ca</title>
+    <link>http://localhost:1313/projectslist/</link>
+    <description>Recent content in Projectslists on Raveen.ca</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <managingEditor>raveen@test.ca (Raveen)</managingEditor>
+    <webMaster>raveen@test.ca (Raveen)</webMaster>
+    <lastBuildDate>Sat, 07 Feb 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/projectslist/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>This Website</title>
+      <link>http://localhost:1313/projectslist/website/</link>
+      <pubDate>Sat, 07 Feb 2026 00:00:00 +0000</pubDate><author>raveen@test.ca (Raveen)</author>
+      <guid>http://localhost:1313/projectslist/website/</guid>
+      <description>&lt;p&gt;As corny as it sounds, I want this website to be my piece of the internet. I gave up some of my internet anonymity years ago, and that&amp;rsquo;s okay. I preserve what I can, but I&amp;rsquo;m also okay sharing parts of me. This site is my way of doing that without having to give my data to one of the big tech giants. I recognize there&amp;rsquo;s irony in hosting the site through GitHub and Cloudflare, but I have to pick my battles. I will try to move away from those eventually. I want this to be the place I feel comfortable posting what I want, what I&amp;rsquo;ve been watching or making, or whats on my mind!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Home Server</title>
+      <link>http://localhost:1313/projectslist/server/</link>
+      <pubDate>Tue, 27 Dec 2022 22:29:18 -0500</pubDate><author>raveen@test.ca (Raveen)</author>
+      <guid>http://localhost:1313/projectslist/server/</guid>
+      <description>&lt;p&gt;Completed: January 2022&lt;/p&gt;&#xA;&lt;p&gt;Since I&amp;rsquo;ve been into computers the idea of making a NAS was on my radar, but never saw the use of it until I got around to starting a media server using my laptop. Space started filling up quickly and the idea of a home lab server came up again. At the same time, one of my friends upgraded a bunch of his computer and he wanted to sell parts for cheap. Everything lined up so I decided I would build my own server.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>3D Scanning Turbine Blade</title>
+      <link>http://localhost:1313/projectslist/3dscanningtrophy/</link>
+      <pubDate>Thu, 15 Dec 2022 09:31:46 -0500</pubDate><author>raveen@test.ca (Raveen)</author>
+      <guid>http://localhost:1313/projectslist/3dscanningtrophy/</guid>
+      <description>&lt;p&gt;Completed: December 2022&lt;/p&gt;&#xA;&lt;p&gt;While working at the Mechanical Undergraduate Laboratory at my university, two of my tasks were to develop a workflow for reverse engineering objects using 3d scanning and also to create a series of trophies using a turbine blade, as seen below:&lt;/p&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;p&gt;&lt;figure class=&#34;ma0 w-75&#34;&gt;&lt;img src=&#34;http://localhost:1313/images/projects/3dscanning/blade.jpg&#34;&#xA;    alt=&#34;One of the turbine blades&#34; width=&#34;50%&#34;&gt;&lt;figcaption&gt;&#xA;      &lt;p&gt;One of the turbine blades&lt;/p&gt;&#xA;    &lt;/figcaption&gt;&#xA;&lt;/figure&gt;&#xA;  &lt;/p&gt;&#xA;&lt;p&gt;A test of the trophy was made by clamping a blade to a plate on the mill. This was inefficient for many reasons.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>TA Allocation Optimization Script</title>
+      <link>http://localhost:1313/projectslist/taoptimization/</link>
+      <pubDate>Thu, 15 Dec 2022 09:31:25 -0500</pubDate><author>raveen@test.ca (Raveen)</author>
+      <guid>http://localhost:1313/projectslist/taoptimization/</guid>
+      <description>&lt;p&gt;Completed: November 2022&lt;/p&gt;&#xA;&lt;p&gt;My school&amp;rsquo;s graduate program administration allocates graduate students as teaching assistants (TAs) for their undergraduate courses. There are over 100 graduate students who could be TAs for around 50 courses, with each course requiring a different number of TAs. Graduate students have preferences for their courses, and instructors have preferences for graduate students. TAship for courses can be divided into a half or full term, depending on the workload. Grad students can either take on two half terms or one full term. Allocating the graduate students to courses while taking all of this into account would be a cumbersome and manual task. I was tasked with developing an optimization script to allocate the TAs to their courses instead.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>XYZ Gripper Robot</title>
+      <link>http://localhost:1313/projectslist/gripper/</link>
+      <pubDate>Mon, 17 Oct 2022 23:57:37 -0400</pubDate><author>raveen@test.ca (Raveen)</author>
+      <guid>http://localhost:1313/projectslist/gripper/</guid>
+      <description>&lt;p&gt;Completed: April 2022&#xA;&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;&#xA;      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/V6Dm7wGGrKQ?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;&#xA;    &lt;/div&gt;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;This was my final year capstone project. The client for this project was a material sciences professor. For his research, his group completes many compression tests of 3D printed components, so our project revolved around removing tedious parts of his project. There were different aspects of the testing process that we could have focused on, but we decided to make a robot that automates the queueing, loading and removal of test samples.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Gear Train Hand Design Project</title>
+      <link>http://localhost:1313/projectslist/gearhand/</link>
+      <pubDate>Sun, 16 Oct 2022 21:01:20 -0400</pubDate><author>raveen@test.ca (Raveen)</author>
+      <guid>http://localhost:1313/projectslist/gearhand/</guid>
+      <description>&lt;p&gt;Completed: April 2017&lt;/p&gt;&#xA;&lt;figure class=&#34;ma0 w-75&#34;&gt;&lt;img src=&#34;http://localhost:1313/images/projects/hand.png&#34;&#xA;    alt=&#34;CAD of hand gear train&#34; width=&#34;100%&#34;&gt;&lt;figcaption&gt;&#xA;      &lt;p&gt;CAD of hand gear train&lt;/p&gt;&#xA;    &lt;/figcaption&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;p&gt;This was my first year group design project. The goal of the project was to design a gear train that would move two fingers open and close. We were constrained to a given area, and the gear train had to have a specific gear ratio.&lt;/p&gt;&#xA;&lt;p&gt;There was a lot to learn from this project. This was my first design project, so I expected to have hiccups, those hiccups turned out to bite the group in the butt later. First, when it comes to design, we made the mistake of thinking our physical model would be constrained the same way as the CAD model. Things were haphazardly put together using superglue, which could have been avoided if the model had been designed better. The same applies to the gears, set screws could have been used to better locate them on an axle.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Walking Robot Design Project</title>
+      <link>http://localhost:1313/projectslist/walkingrobot/</link>
+      <pubDate>Sun, 16 Oct 2022 21:01:12 -0400</pubDate><author>raveen@test.ca (Raveen)</author>
+      <guid>http://localhost:1313/projectslist/walkingrobot/</guid>
+      <description>&lt;p&gt;Completed: April 2018&lt;/p&gt;&#xA;&lt;figure class=&#34;ma0 w-75&#34;&gt;&lt;img src=&#34;http://localhost:1313/images/projects/walkingrobot.png&#34;&#xA;    alt=&#34;CAD of walking robot&#34; width=&#34;100%&#34;&gt;&lt;figcaption&gt;&#xA;      &lt;p&gt;CAD of walking robot&lt;/p&gt;&#xA;    &lt;/figcaption&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;p&gt;This was my second-year design course project. The goal of the project was to design a moving robot that didn&amp;rsquo;t use wheels. The movement would be driven by motors, but we had to create an alternative mechanism for the robot to move. The robot have to walk a course that had obstacles of an unknown height.&lt;/p&gt;&#xA;&lt;p&gt;My group decided to try rotating legs using a gear train to allow the robot to move. The robot was created using acrylic, 3d printer parts, and a wooden dowel for the axles.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Dropper Seat Post Design Project</title>
+      <link>http://localhost:1313/projectslist/dropperseat/</link>
+      <pubDate>Sun, 16 Oct 2022 21:01:06 -0400</pubDate><author>raveen@test.ca (Raveen)</author>
+      <guid>http://localhost:1313/projectslist/dropperseat/</guid>
+      <description>&lt;p&gt;Completed: April 2020&lt;/p&gt;&#xA;&lt;figure class=&#34;ma0 w-75&#34;&gt;&lt;img src=&#34;http://localhost:1313/images/projects/dropperseat.png&#34;&#xA;    alt=&#34;CAD of dropper seat&#34; width=&#34;75%&#34;&gt;&lt;figcaption&gt;&#xA;      &lt;p&gt;CAD of dropper seat&lt;/p&gt;&#xA;    &lt;/figcaption&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;p&gt;This project was for my third-year design course. The goal of the project was to design a product. The groups were given free rein on what to design, but we had to make sure the design was justified using engineering calculations. The project was evaluated based on how well the calculations account for issues like buckling and bolt calculations.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Self Balancing Robot</title>
+      <link>http://localhost:1313/projectslist/balancingrobot/</link>
+      <pubDate>Sun, 16 Oct 2022 21:00:59 -0400</pubDate><author>raveen@test.ca (Raveen)</author>
+      <guid>http://localhost:1313/projectslist/balancingrobot/</guid>
+      <description>&lt;p&gt;Completed: July 2021&lt;/p&gt;&#xA;&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;&#xA;      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/XcUn-Pud0q4?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;&#xA;    &lt;/div&gt;&#xA;&#xA;&lt;figure class=&#34;ma0 w-75&#34;&gt;&lt;img src=&#34;http://localhost:1313/images/projects/balancingrobot.png&#34;&#xA;    alt=&#34;CAD of self-balancing robot&#34; width=&#34;100%&#34;&gt;&lt;figcaption&gt;&#xA;      &lt;p&gt;CAD of self-balancing robot&lt;/p&gt;&#xA;    &lt;/figcaption&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;p&gt;This was my first personal project. During the summer, I decided I wanted to try making a self-balancing robot. I thought it would be a good introductory project to apply what I learned from my control systems course from the previous semester, as well as learn a little more about Arduino and using motors.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Assembly Lab</title>
+      <link>http://localhost:1313/projectslist/assemblylab/</link>
+      <pubDate>Sun, 16 Oct 2022 21:00:49 -0400</pubDate><author>raveen@test.ca (Raveen)</author>
+      <guid>http://localhost:1313/projectslist/assemblylab/</guid>
+      <description>&lt;p&gt;Completed: August 2021&lt;/p&gt;&#xA;&lt;figure class=&#34;ma0 w-75&#34;&gt;&lt;img src=&#34;http://localhost:1313/images/projects/labset.png&#34;&#xA;    alt=&#34;The set of labs lined up&#34; width=&#34;100%&#34;&gt;&lt;figcaption&gt;&#xA;      &lt;p&gt;The set of labs lined up&lt;/p&gt;&#xA;    &lt;/figcaption&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;figure class=&#34;ma0 w-75&#34;&gt;&lt;img src=&#34;http://localhost:1313/images/projects/labsideview.png&#34;&#xA;    alt=&#34;The side of a lab&#34; width=&#34;100%&#34;&gt;&lt;figcaption&gt;&#xA;      &lt;p&gt;The side of a lab&lt;/p&gt;&#xA;    &lt;/figcaption&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;p&gt;This project was completed while working as an Educational Assistant for a professor. The purpose of this lab was to teach students about design techniques when 3D printing and laser cutting. I was tasked with designing a car which utilized different kinds of parts or fasteners. Some parts were purposefully designed to be cumbersome to highlight the importance of design for assembly. The students then would assemble the kit and comment on what designed components worked well and didn&amp;rsquo;t work well.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

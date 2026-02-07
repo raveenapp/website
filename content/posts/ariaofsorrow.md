@@ -4,9 +4,8 @@ date: 2026-02-01T15:39:14-05:00
 slug: 2026-02-01-ariaofsorrow
 type: posts
 draft: false
-categories:
-  - Video Games
 tags:
+  - video games
   - review
 ---
 

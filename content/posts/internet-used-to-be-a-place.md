@@ -4,8 +4,6 @@ date: 2025-10-09T10:47:07-04:00
 slug: 2025-10-09-internet-used-to-be-a-place
 type: posts
 draft: false
-categories:
-  - internet
 tags:
   - rambles
 ---

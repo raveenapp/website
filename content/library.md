@@ -9,7 +9,9 @@ This is a personal collection of things I've watched and read since I started tr
 ### Books
 - Kings of the Wyld by Nicholas Eames
 ### TV Shows
-
+- His & Her
+### Games
+- Castlevania: Aria of Sorrow (GBA)
 ### Movies
 - Evil Influencer: The Jodi Hildebrandt Story
 - Crazy Rich Asians
@@ -17,6 +19,11 @@ This is a personal collection of things I've watched and read since I started tr
 - Philadelphia
 - Look Back
 - Just Go With It
+- Drunken Master
+- The Tale of the Princess Kaguya
+- Hairspray
+- The Investigation of Lucy Letby
+- The Long Walk
 
 ## 2025
 ### Books

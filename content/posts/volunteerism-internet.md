@@ -4,8 +4,6 @@ date: 2025-05-26T00:07:02-04:00
 slug: 2025-05-26-volunteerism-internet
 type: posts
 draft: false
-categories:
-  - internet
 tags:
   - rambles
 ---

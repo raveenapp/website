@@ -4,10 +4,9 @@ date: 2025-05-29T07:51:59-04:00
 slug: 2025-05-29-qbit-gluetun
 type: posts
 draft: false
-categories:
-  - how-to
 tags:
   - homelab
+  - guides
 ---
 
 One thing took me a while to get running was qBittorent with a VPN on TrueNAS Scale. The community application of qBittorrent doesn't have that functionality, so the solution is to  manually install it instead. This is how I did that!

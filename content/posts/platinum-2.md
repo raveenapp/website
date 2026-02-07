@@ -4,11 +4,9 @@ date: 2025-09-18T17:24:58-04:00
 slug: 2025-09-18-platinum-2
 type: posts
 draft: false
-categories:
-  - video games
 tags:
   - pokemon
-  - retrospective
+  - video games
 ---
 
 {{< figure

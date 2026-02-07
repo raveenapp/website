@@ -1,12 +1,16 @@
-baseURL = 'https://www.raveen.ca/'
+baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'Raveen.ca'
-theme = ['smol', 'hugo-shortcode-gallery']
+theme = ["hugo-shortcode-gallery"]
 
-# Parameters
 [params]
-    subtitle = "My piece of the internet!"
-    dateFmt = "02.01.2006 15:04"
+      name = "Raveen"
+      DateForm = "2006-12-01"
+  [params.author]
+    email = 'raveen@test.ca'
+    name = 'Raveen'
+
+copyright = '© 2026 Raveen'
 
 # Header
 [menu]
@@ -14,13 +18,7 @@ theme = ['smol', 'hugo-shortcode-gallery']
         identifier = "posts"
         name = "Posts"
         url = "/posts/"
-        weight = 2 
-
-  [[menu.main]]
-        identifier = "categories"
-        name = "Categories"
-        url = "/categories/"
-        weight = 4
+        weight = 4 
 
   [[menu.main]]
         identifier = "tags"
@@ -39,18 +37,15 @@ theme = ['smol', 'hugo-shortcode-gallery']
         name = "Gallery"
         url = "/gallery/"
         weight = 3
+  [[menu.main]]
+        identifier = "projects"
+        name = "Projects"
+        url = "/projects/"
+        weight = 2     
 
-# Footer
-  [[menu.footer]]
-        identifier = "sitemap"
-        name = "Sitemap & Changelog"
-        url = "/sitemap/"
-        weight = 1
-  [[menu.footer]]
-        identifier = "guestbook"
-        name = "Guestbook"
-        url = "/guestbook/"
-        weight = 2
-
-timeout = 60000
+[outputs]
+      home = ['html']
+      section = ['html', 'rss']
+      taxonomy = ['html']
+      term = ['html']
 

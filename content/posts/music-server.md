@@ -4,11 +4,10 @@ date: 2025-07-17T21:23:12-04:00
 slug: 2025-07-17-music-server
 type: posts
 draft: false
-categories:
-  - how-to
-  - music
 tags:
   - homelab
+  - guides
+  - music
 ---
 
 # Overview

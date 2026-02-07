@@ -1,5 +1,5 @@
 ---
-date: '2025-05-21T17:49:57-04:00'
+date: '2025-05-21'
 draft: false
 title: 'Bucketlist'
 ---

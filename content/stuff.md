@@ -14,9 +14,9 @@ Here is my go to EDC rn!
     - Magic Keyboard
     - Apple Pencil
 - Earbuds: Airpod Pro (Gen 2)
-- Music Player: Hiby M300 & Linsoul Tripowin ZoniexCrinacle Zero:2 IEM
+- Music Player: Innioasis Y1 (Rockbox) & Linsoul Tripowin ZoniexCrinacle Zero:2 IEM
 - Backpack: Fjällräven Skule 28
 - Sidebag: Fjällräven High Coast Crossbody
 - Notebook: Dingbats A6 & Midori Passport Traveller's Notebook
-- Gaming: Gameboy Advance SP (AGS-001) & Everdrive GBA Mini
+- Gaming: Miyoo Mini+ w/OnionOS
 

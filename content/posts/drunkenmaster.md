@@ -4,11 +4,10 @@ date: 2026-01-27T23:41:35-05:00
 slug: 2026-01-27-drunkenmaster
 type: posts
 draft: false
-categories:
-  - movies
 tags:
   - 52in52
   - reviews
+  - movies
 ---
 
 {{< 

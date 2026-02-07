@@ -4,10 +4,8 @@ date: 2025-05-24T23:12:09-04:00
 slug: 2025-05-24-2024presidential-traverse
 type: posts
 draft: false
-categories:
-  - trips
 tags:
-  - backpacking
+  - camping
 ---
 
 In May of 2024, 3 friends and I hiked the Presidential Traverse in New Hampshire!

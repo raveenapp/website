@@ -4,10 +4,9 @@ date: 2026-01-06T21:35:03-05:00
 slug: 2026-01-06-52moviesin52weeks
 type: posts
 draft: false
-categories:
-  - movies
 tags:
   - 52in52
+  - movies
   - reviews
 ---
 

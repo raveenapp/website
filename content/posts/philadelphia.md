@@ -4,11 +4,10 @@ date: 2026-01-13T23:11:32-05:00
 slug: 2026-01-13-philadelphia
 type: posts
 draft: false
-categories:
-  - movies
 tags:
   - 52in52
   - reviews
+  - movies
 ---
 
 {{< 

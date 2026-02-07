@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    {{ partial "meta.html" . }}
+  </head>
+  <body>
+    
+    <!-- The next line is a skip-to-content link for keyboard users. Do not remove it! -->
+    <a href="#content" id="skip-to-content-link">Skip to content</a>
+
+    <div class="layout">
+  
+      <!-- =============================================== -->
+      <!-- HEADER -->
+      <!-- =============================================== -->
+        {{ partial "header.html" . }}
+        
+      <!-- =============================================== -->
+      <!-- LEFT SIDEBAR -->
+      <!-- =============================================== -->
+	
+        {{ partial "sidebar.html" }}
+  
+      <main id="content"> <!-- Do NOT remove the ID here -->
+
+        
+
+        <!-- =============================================== -->
+        <!-- MAIN CONTENT -->
+        <!-- =============================================== -->
+          {{ block "main" . }}
+            {{ print "default value if 'main' template is empty" }}
+          {{ end }}
+
+        
+      </main>
+
+
+      <!-- =============================================== -->
+      <!-- FOOTER -->
+      <!-- =============================================== -->
+
+      {{ partial "footer.html" . }}
+  
+    <!-- Closing .layout: -->
+    </div>
+
+
+    <!-- Add any additional Javascript code (<script></script>) here. -->
+  </body>
+</html>

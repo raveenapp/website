@@ -1,10 +1,6 @@
-{{ define "main" }}
-Welcome to my website! You can start with my about page or see my most recent blog posts below!
-<div class="visitors">
-	<p class="centered">Number of visitors!</p>
-	<script type="text/javascript" src="https://counter.websiteout.com/js/7/4/0/0"></script>
-</div>
-	<main>
+{{ define "main"}}
+    Welcome to my Site! Have fun exploring, if you need some places to start you can check out my about page to get to know me or check out my recent blog posts below! My website is mobile friendly, but is best viewed on PC!
+	<main class="indexsummary">
 		{{ $paginator := .Paginate (where .Site.RegularPages "Type" "in" .Site.Params.mainSections) 3 }}
 		{{ range $paginator.Pages }}
 			{{ .Render "summary" }}

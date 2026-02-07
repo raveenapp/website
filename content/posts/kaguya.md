@@ -4,11 +4,10 @@ date: 2026-02-02T22:45:32-05:00
 slug: 2026-02-02-kaguya
 type: posts
 draft: false
-categories:
-  - movies
 tags:
   - 52in52
-  - review
+  - reviews
+  - movies
 ---
 
 {{< 
@@ -16,7 +15,7 @@ figure
   src="https://artworks.thetvdb.com/banners/movies/4922/posters/4922.jpg"
   alt="A movie poster with a Tom Hanks and Denzel Washington"
   link="https://letterboxd.com/film/the-tale-of-the-princess-kaguya/"
-  caption="Philadelphia Poster"
+  caption="Movie Poster"
   class="ma0 w-75"
   width=30%
 >}}

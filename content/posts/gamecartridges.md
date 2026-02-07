@@ -4,10 +4,9 @@ date: 2026-01-26T09:12:06-05:00
 slug: 2026-01-26-gamecartridges
 type: posts
 draft: false
-categories:
-  - Video Games
 tags:
   - rambles
+  - video games
 ---
 
 A lot of my video game playing lately has been on portable consoles, mainly the 3DS, DS and Gameboy Advance SP. In playing these games, I've grown a greater appreciation for game cartridges. It's beautiful when you think about it, the entire game and save in a removable and highly portable form factor. I'm also amazed by the amount of content they fit in some of these games. The tricks game developers used to show depth and detail in such "weak" systems, especially the GBA, are so cool. 

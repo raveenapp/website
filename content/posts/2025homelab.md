@@ -4,9 +4,8 @@ date: 2025-05-23T17:36:09-04:00
 slug: 2025-05-23-2025homelab
 type: posts
 draft: false
-categories:
-  - projects
 tags:
+  - projects
   - homelab
 ---
 

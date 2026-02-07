@@ -4,11 +4,10 @@ date: 2026-01-21T20:17:14-05:00
 slug: 2026-01-21-lookback
 type: posts
 draft: false
-categories:
-  - movies
 tags:
   - 52in52
   - reviews
+  - movies
 ---
 
 {{< 

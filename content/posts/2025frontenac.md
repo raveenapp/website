@@ -4,10 +4,8 @@ date: 2025-07-02T21:33:42-04:00
 slug: 2025-07-02-2025frontenac
 type: posts
 draft: false
-categories:
-  - trips
 tags:
-  - backpacking
+  - camping
 ---
 This year the guys and I decided to hike the perimeter of Frontenac Provincial Park! This was our trip.
 

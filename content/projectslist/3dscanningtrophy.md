@@ -16,7 +16,7 @@ While working at the Mechanical Undergraduate Laboratory at my university, two o
  alt="One of the turbine blades"
  caption="One of the turbine blades"
  class="ma0 w-75"
- width=50%
+ width=75%
 >}}  
 
 A test of the trophy was made by clamping a blade to a plate on the mill. This was inefficient for many reasons.
@@ -50,16 +50,15 @@ With the model made, we made a mould that would be used as a jig for the blades.
  alt=""
  caption="Half of the mould."
  class="ma0 w-75"
- width=75%
+ width=100%
 >}}  
-
 
 {{< figure
  src="/images/projects/3dscanning/mold-2.jpg"
  alt=""
  caption="Other half of the mould."
  class="ma0 w-75"
- width=75%
+ width=100%
 >}}  
 
 {{< figure
@@ -67,7 +66,7 @@ With the model made, we made a mould that would be used as a jig for the blades.
  alt=""
  caption="The assembled mould."
  class="ma0 w-75"
- width=75%
+ width=100%
 >}}  
 
 {{< figure

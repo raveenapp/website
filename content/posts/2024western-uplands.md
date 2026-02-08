@@ -16,7 +16,7 @@ Last Updated: 2025-05-23
   alt="Map of western uplands route with colours for each leg"
   caption="This was the route we followed. Each colour is a different day"
   class="ma0 w-75"
-  width=50%
+  width=75%
 >}}  
 
 We stayed at the following campsites:
@@ -83,7 +83,7 @@ Someone else in our group had the Garmin inReach Mini 2 so we had a satalite GPS
   alt="Camping gear placed on bed"
   caption="The gear I packed for the trip"
   class="ma0 w-75"
-  width=50%
+  width=75%
 >}}  
 
 
@@ -110,7 +110,7 @@ Food meal plan:
   alt="tortillas, cans and other food on a kitchen counter"
   caption="The food I packed for the trip, x2 for a friend as well!"
   class="ma0 w-75"
-  width=50%
+  width=75%
 >}}  
 
 This is basically my staples for camping trips. I don't have a dehydrater nor do I like buying those freeze dried meals so these are my budget camping options! I think future trips will have a similar plan.
@@ -123,7 +123,7 @@ This is basically my staples for camping trips. I don't have a dehydrater nor do
   alt="Group of 5 guys in front of a sign that says Algonquin Rain Lake at the start of the hike"
   caption="Us at the start of the trip!"
   class="ma0 w-75"
-  width=50%
+  width=75%
 >}}  
 
 We got to the parking lot around *insert time*. We decided to eat our lunches early, so after eating and using the bathroom we were off! Nothing unsual or just standard (and awesome) Algonquin park.
@@ -136,7 +136,7 @@ Day 2 was good. Algonquin is mostly flat with one or two steep hills. Not a prob
   alt="A lake with a mirror like reflection"
   caption="I love walking by lakes like these"
   class="ma0 w-75"
-  width=50%
+  width=75%
   >}}  
 
   {{< figure
@@ -144,7 +144,7 @@ Day 2 was good. Algonquin is mostly flat with one or two steep hills. Not a prob
   alt="A man standing next to an fallen over tree"
   caption="Me next to a giant fallen tree"
   class="ma0 w-75"
-  width=50%
+  width=75%
   >}}
 
   {{< figure
@@ -152,7 +152,7 @@ Day 2 was good. Algonquin is mostly flat with one or two steep hills. Not a prob
   alt="A trailmaker with a little hiker drawn on it"
   caption="Cute little trailmarker!"
   class="ma0 w-75"
-  width=50%
+  width=75%
   >}}  
 
   {{< figure
@@ -160,7 +160,7 @@ Day 2 was good. Algonquin is mostly flat with one or two steep hills. Not a prob
   alt="SA lake with the sun setting in the background"
   caption="Sunset at campsite 2"
   class="ma0 w-75"
-  width=50%
+  width=75%
   >}}  
 
 ## Day 3
@@ -172,7 +172,7 @@ Day 3 was interesting! A lot mixed terrain from forests to lakes and marshes. We
   alt="Still lake in the morning"
   caption="Quiet mornings at the campsite"
   class="ma0 w-75"
-  width=50%
+  width=75%
   >}}  
 
   {{< figure
@@ -180,7 +180,7 @@ Day 3 was interesting! A lot mixed terrain from forests to lakes and marshes. We
   alt="Man walking on wooden bridge through a marshy woodland area"
   caption="Shoutout to the trail maintainers at Algonquin!"
   class="ma0 w-75"
-  width=50%
+  width=75%
   >}}  
 
   {{< figure
@@ -188,7 +188,7 @@ Day 3 was interesting! A lot mixed terrain from forests to lakes and marshes. We
   alt="Another lake with a mirror like reflection"
   caption="I can't get enough of lakes like these"
   class="ma0 w-75"
-  width=50%
+  width=75%
   >}}
 
   {{< figure
@@ -196,7 +196,7 @@ Day 3 was interesting! A lot mixed terrain from forests to lakes and marshes. We
   alt="A tent in the forest at a campsite"
   caption="Made it to campsite 3!"
   class="ma0 w-75"
-  width=50%
+  width=75%
   >}}  
 	
 ## Day 4
@@ -207,7 +207,7 @@ Final day! This was basically the reverse of day 1 so a lot of familiar sights! 
   alt="Group of guys walking on the trails through a forest"
   caption="Homestretch back to the cars!"
   class="ma0 w-75"
-  width=50%
+  width=75%
   >}}  
 
   {{< figure
@@ -215,6 +215,6 @@ Final day! This was basically the reverse of day 1 so a lot of familiar sights! 
   alt="Group of 5 guys in front of a sign that says Algonquin Rain Lake at the end of the hike"
   caption="All of us survived at the end!"
   class="ma0 w-75"
-  width=50%
+  width=75%
   >}}  
 

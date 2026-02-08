@@ -13,11 +13,11 @@ tags:
 {{< 
 figure
   src="https://artworks.thetvdb.com/banners/movies/4922/posters/4922.jpg"
-  alt="A movie poster with a Tom Hanks and Denzel Washington"
+  alt=""
   link="https://letterboxd.com/film/the-tale-of-the-princess-kaguya/"
   caption="Movie Poster"
   class="ma0 w-75"
-  width=30%
+  width=60%
 >}}
 
 This week's movie was The Tale of the Princess Kaguya. I've heard a lot of good things about the movie, but it's usually mentioned as a second-round draft pick from the Studio Ghibli catalogue. It's one that I kept telling myself to watch for a couple of years, but I found myself picking Howl's Moving Castle or Princess Mononoke instead. The first thing that stuck out to me is the art style. It follows a watercolour style and is reminiscent of the depiction of the original material. They used soft, consistent strokes at times of calm. Then, during times of distress, the lines were harsh, rushed and jagged. There was a great attention to detail, from the babies' pigeon-toeing when they walk to the vibrations of the Koto strings after they are played. It is evident that they put a lot of care into the details, even though the style is "simpler".

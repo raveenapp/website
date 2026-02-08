@@ -17,7 +17,7 @@ figure
   link="https://letterboxd.com/film/philadelphia/"
   caption="Philadelphia Poster"
   class="ma0 w-75"
-  width=30%
+  width=60%
 >}}
 
 Philadelphia is a court drama starring Tom Hanks and Denzel Washington. The court case is about an illegal termination lawsuit where Tom Hank's law firm purposely hid his brief to pretend like they could fire him for negligence when, in reality, they fired him because they found out he had AIDS. There wasn't much actual law in the movie; there weren't many precedents set or other cases mentioned. It was more a commentary on how people with AIDs and more generally gay people were treated and still are treated, and the relationship between Denzel and Tom.

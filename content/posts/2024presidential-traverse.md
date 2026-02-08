@@ -16,7 +16,7 @@ In May of 2024, 3 friends and I hiked the Presidential Traverse in New Hampshire
   alt="A map of the trail taken during the hike"
   caption="Our route!"
   class="ma0 w-75"
-  width=50%
+  width=75%
   >}}
 
 This route is slightly off. We started at the Mount Webster Trailhead and added Mount Jackson to our hike! We hiked somewhere between 7-15kms a day! 
@@ -71,7 +71,7 @@ One of the guys on the trip is a big fan of the Mountain House freeze dried food
   alt="Wooden sign that says Websters Cliff Trail"
   caption="The starting marker of our trek!"
   class="ma0 w-75"
-  width=50%
+  width=75%
   >}}
 
   {{< figure
@@ -79,7 +79,7 @@ One of the guys on the trip is a big fan of the Mountain House freeze dried food
   alt="A foggy and cloudy picture of mountains"
   caption="I love mountains!"
   class="ma0 w-75"
-  width=50%
+  width=75%
   >}}
 
   {{< figure
@@ -87,7 +87,7 @@ One of the guys on the trip is a big fan of the Mountain House freeze dried food
   alt="Group of 4 taking a selfie"
   caption="Our first break!"
   class="ma0 w-75"
-  width=50%
+  width=75%
   >}}
 
 
@@ -96,7 +96,7 @@ One of the guys on the trip is a big fan of the Mountain House freeze dried food
   alt="Picture of a man holding two thumbs up"
   caption="Me on one of the peaks (I forget which one)"
   class="ma0 w-75"
-  width=50%
+  width=75%
   >}}
 
 ## Day 2
@@ -105,7 +105,7 @@ One of the guys on the trip is a big fan of the Mountain House freeze dried food
   alt="A foggy hike up a mountain"
   caption="Day 2 was a foggy as day 1"
   class="ma0 w-75"
-  width=50%
+  width=75%
   >}}
 
   {{< figure
@@ -113,7 +113,7 @@ One of the guys on the trip is a big fan of the Mountain House freeze dried food
   alt="A man walking along an ice lake"
   caption="We explored a bit of the Lake of the Clouds!"
   class="ma0 w-75"
-  width=50%
+  width=75%
   >}}
 
   {{< figure
@@ -121,7 +121,7 @@ One of the guys on the trip is a big fan of the Mountain House freeze dried food
   alt="A clear sunset"
   caption="By the time the sunset, the fog finally cleared!"
   class="ma0 w-75"
-  width=50%
+  width=75%
   >}}
 
 ## Day 3
@@ -130,7 +130,7 @@ One of the guys on the trip is a big fan of the Mountain House freeze dried food
   alt="A picture of mountains in the morning"
   caption="We can finally see the views clearly"
   class="ma0 w-75"
-  width=50%
+  width=75%
   >}}
 
   {{< figure
@@ -138,7 +138,7 @@ One of the guys on the trip is a big fan of the Mountain House freeze dried food
   alt="A side of a mountin"
   caption="This was the route to Mt Washington, you can see the structures at the peak!"
   class="ma0 w-75"
-  width=50%
+  width=75%
   >}}
 
   {{< figure
@@ -146,7 +146,7 @@ One of the guys on the trip is a big fan of the Mountain House freeze dried food
   alt="Picture of a mountain range"
   caption="This is the upcoming range we had to hike along"
   class="ma0 w-75"
-  width=50%
+  width=75%
   >}}
 
   {{< figure
@@ -154,7 +154,7 @@ One of the guys on the trip is a big fan of the Mountain House freeze dried food
   alt="A picture of a train"
   caption="A train that takes people up to the top of Mt. Washington!"
   class="ma0 w-75"
-  width=50%
+  width=75%
   >}}
 
   {{< figure
@@ -162,7 +162,7 @@ One of the guys on the trip is a big fan of the Mountain House freeze dried food
   alt="A sunset"
   caption="The final sunset of the trip!"
   class="ma0 w-75"
-  width=50%
+  width=75%
   >}}
 
 ## Day 4
@@ -171,7 +171,7 @@ One of the guys on the trip is a big fan of the Mountain House freeze dried food
   alt="A picture of a mountain"
   caption="Mt. Adams! The final peak"
   class="ma0 w-75"
-  width=50%
+  width=75%
   >}}
 
   {{< figure
@@ -179,7 +179,7 @@ One of the guys on the trip is a big fan of the Mountain House freeze dried food
   alt="A mountain range"
   caption="My last picture of mountains! I promise"
   class="ma0 w-75"
-  width=50%
+  width=75%
   >}}
 
   {{< figure
@@ -187,6 +187,6 @@ One of the guys on the trip is a big fan of the Mountain House freeze dried food
   alt="A trail sign"
   caption="This trail sign marks the end of our trek!"
   class="ma0 w-75"
-  width=50%
+  width=75%
   >}}
   

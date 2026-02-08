@@ -124,32 +124,42 @@
 		       
 
 			<div>
-				<p>Completed: January 2022</p>
-<p>Since I&rsquo;ve been into computers the idea of making a NAS was on my radar, but never saw the use of it until I got around to starting a media server using my laptop. Space started filling up quickly and the idea of a home lab server came up again. At the same time, one of my friends upgraded a bunch of his computer and he wanted to sell parts for cheap. Everything lined up so I decided I would build my own server.</p>
-<p>Here are the components I&rsquo;m working with:</p>
+				<h1 id="technical-specifications">Technical Specifications</h1>
+<ul>
+<li>Specs:
 <ul>
 <li>CPU: INTEL i7-6700K</li>
 <li>COOLER: Cooler Master Hyper 212 Black Edition</li>
-<li>RAM: Vengenance LPX DDR4 2400 MHz [8 GB x 2]</li>
+<li>RAM: Vengenance LPX DDR4 2400 MHz (8 GB x 2)</li>
 <li>MOBO: ASUS Z170-A</li>
 <li>PSU: Corsair RM 550x</li>
 <li>CASE: Cooler Master N400</li>
-<li>STORAGE: WD Black NVMe SSD [1 TB] + 4 x WD Red [4 TB]</li>
+<li>STORAGE: WD Black NVMe SSD (1 TB) + 5x4TB  WD Red  HDD+ 2x10TB WD Red HDD</li>
+<li>GPU: Intel ARC A310</li>
 </ul>
-<p>I am using Proxmox as my virtualization management system. Within Proxmox, I&rsquo;m running 2 virtual machines:</p>
-<ol>
-<li>TrueNAS - my NAS</li>
-<li>Windows - to run some services
-<ol>
-<li>Jellyfin - media server</li>
-<li>qBittorrent - torrent client</li>
-<li>Sonarr - internet PVR</li>
-<li>Prowlarr - indexer</li>
-<li>PhotoSync - backup for photos on phone</li>
-</ol>
 </li>
-</ol>
-<p>With this, I tried to passthrough a GTX 1070 to the Windows VM, but I could not get past the error 43. I may come back to this in the future. Eventually, I would also like to set up a VPN to allow me to remote into my services outside of my home network. I&rsquo;ve been using the server for about a week now, it&rsquo;s been  awesome. It&rsquo;s nice having all of this storage avaiable to all of my devices and Jellyfin has made media consumption effortless.</p>
+<li>OS:
+<ul>
+<li>TrueNas Scale - Electric Eel</li>
+</ul>
+</li>
+</ul>
+<p>Through TrueNAS I run various services:
+- Calibre - Ebook management
+- Kavita - Webbased ereader
+- Immich - Photo backup
+- Jellyfin - Media server
+- TailScale - VPN
+- qBittorrent - Torrent client with Gluetun vpn client
+- Paperless-ngx - Document manager
+- Nginx Proxy Manager - Reverse proxy manager
+- Homepage - Dashboard
+- Dockge - Docker container manager
+- TugTainer - Docker container updater
+- Audiobookshelf - audiobook client
+- Sonarr - Show indexer/PVR
+- Radarr - movie indexer/PVR
+- Prowlarr - indexer</p>
 
 			</div>
 		</article>

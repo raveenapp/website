@@ -9,7 +9,7 @@ title: 'About'
   alt="Photo of me"
   caption="me!"
   class="ma0 w-75"
-  width=30%
+  width=75%
 >}}
 
 Hey! I'm Raveen. If you want to reach out to me feel free at raveen.ca@proton.me
@@ -31,4 +31,4 @@ Hey! I'm Raveen. If you want to reach out to me feel free at raveen.ca@proton.me
 - [tfren99](https://thomasfrench.ca/)
 
 ### Webrings I'm in (or applying):
-{{< webrings >}}
+{{< webrings >}}/

@@ -25,7 +25,7 @@ figure
   link="https://letterboxd.com/film/bugonia/"
   caption="Bugonia Poster"
   class="ma0 w-75"
-  width=30%
+  width=60%
 >}}
 
 Bugonia is a reality-questioning thriller like Shutter Island and 10 Cloverfield Lane. It has the audience questioning what is the truth and which character's perspective of reality is correct. The story has 3 main characters, Michelle Fuller (Emma Stone), a CEO of a pharmaceutical company, Teddy Gatz (Jessie Plemons), an employee of Fuller's pharmaceutical company working in shipping, and Don (Aidan Delbis), Teddy's cousin. Teddy is convinced that Michelle is an alien, here to destroy the earth. He and his cousin kidnap her and try to force her to take them to her mothership to fight against this. The movie starts as what you think is a psychological thriller about a lady trying to escape a lunatic man, and evolves into something more. 

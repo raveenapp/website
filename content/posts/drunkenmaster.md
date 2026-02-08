@@ -13,11 +13,11 @@ tags:
 {{< 
 figure
   src="https://artworks.thetvdb.com/banners/v4/movie/1631/posters/684a68920c802.jpg"
-  alt="A movie poster with a Tom Hanks and Denzel Washington"
+  alt=""
   link="https://letterboxd.com/film/drunken-master/"
-  caption="Philadelphia Poster"
+  caption="Movie Poster"
   class="ma0 w-75"
-  width=30%
+  width=60%
 >}}
 
 Drunken Master was one of Jackie Chan's breakout roles from 1978. It is acclaimed as one of the original and best martial arts comedies created. It was directed by Yuen Woo-ping, who would eventually be the choreographer for the Matrix and Kill Bill series. Basically, I'm trying to say I had a lot of expectations going into the movie. 

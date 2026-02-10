@@ -11,12 +11,12 @@ tags:
 
 {{< 
 figure
-  src="https://upload.wikimedia.org/wikipedia/en/a/ab/AriaofSorrowCover.jpg"
+  src="/images/aria-of-sorrow/cover.jpg"
   alt=""
-  link="https://en.wikipedia.org/wiki/Castlevania:_Aria_of_Sorrow"
-  caption="The game cover"
+  link="https://backloggd.com/games/castlevania-aria-of-sorrow/"
+  caption="The game cover (From Backloggd)"
   class="ma0 w-75"
-  width=30%
+  width=50%
 >}}
 
 Last week I finished Castlevania: Aria of Sorrow. It was the third installment of the Castlevania series on the Game Boy Advance, but it was widely considered the definitive game for the system (Source: Wikipedia). I decided I'd start with this one. I haven't played a Castlevania game before, and my only other Metroidvania experience was Metroid Fusion, which I didn't beat and will have to return to at some point. 

@@ -12,10 +12,10 @@ tags:
 
 {{< 
 figure
-  src="https://artworks.thetvdb.com/banners/movies/2868/posters/2868.jpg"
+  src="/images/philadelphia/cover.jpg"
   alt="A movie poster with a Tom Hanks and Denzel Washington"
   link="https://letterboxd.com/film/philadelphia/"
-  caption="Philadelphia Poster"
+  caption="Philadelphia Poster (from TVDB)"
   class="ma0 w-75"
   width=60%
 >}}

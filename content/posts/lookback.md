@@ -12,12 +12,12 @@ tags:
 
 {{< 
 figure
-  src="https://artworks.thetvdb.com/banners/v4/movie/353943/posters/667b9ba9a3d65.jpg"
+  src="/images/look-back/poster.jpg"
   alt="poster of a child in their room working at their desk, with the words look back across the image"
   link="https://letterboxd.com/film/look-back-2024/"
-  caption="Look Back Poster"
+  caption="Look Back Poster (from TVDB)"
   class="ma0 w-75"
-  width=30%
+  width=50%
 >}}
 
 Look Back is a movie based on the one-shot by  Tatsuki Fujimoto, also the creator of Chainsaw Man. The story follows Fujino, a child who loves to draw comics for the school newspaper. She is told by everyone how talented she is and loves the attention. She is told that for the following week, another student, Kyomoto will also be drawing a strip for the newspaper, and Fujino is blown away by how great Kyomoto's art is for someone her age. Not willing to lose to Kyomoto, Fujino decides to improve her art skills through practice, and the story develops from there. 

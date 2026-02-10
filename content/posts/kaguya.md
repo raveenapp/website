@@ -12,10 +12,10 @@ tags:
 
 {{< 
 figure
-  src="https://artworks.thetvdb.com/banners/movies/4922/posters/4922.jpg"
+  src="/images/kaguya/poster.jpg"
   alt=""
   link="https://letterboxd.com/film/the-tale-of-the-princess-kaguya/"
-  caption="Movie Poster"
+  caption="Movie Poster (TVDB)"
   class="ma0 w-75"
   width=60%
 >}}

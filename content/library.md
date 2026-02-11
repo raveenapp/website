@@ -24,6 +24,8 @@ This is a personal collection of things I've watched and read since I started tr
 - Hairspray
 - The Investigation of Lucy Letby
 - The Long Walk
+- There Will Be Blood
+- When Harry Met Sally
 
 ## 2025
 ### Books

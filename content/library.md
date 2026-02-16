@@ -1,5 +1,5 @@
 ---
-date: '2025-01-25'
+date: '2025-02-16'
 draft: false
 title: 'Library'
 ---
@@ -26,6 +26,10 @@ This is a personal collection of things I've watched and read since I started tr
 - The Long Walk
 - There Will Be Blood
 - When Harry Met Sally
+- Princess Diaries
+- Ocean's 8
+- How to Lose a Guy in 10 Days
+
 
 ## 2025
 ### Books

@@ -1,5 +1,5 @@
 ---
-date: '2026-02-01'
+date: '2026-02-16'
 draft: false
 title: 'Changelog'
 ---

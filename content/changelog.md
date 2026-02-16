@@ -3,6 +3,7 @@ date: '2026-02-01'
 draft: false
 title: 'Changelog'
 ---
+- 2026-02-16: [Valentines Weekend food log blog post]({{< relref "posts/valentines-food.md" >}})
 - 2026-02-07: changed website layout and sitemap
 - 2026-02-03: added post about [The Tale of The Princess Kaguya]({{< relref "posts/kaguya.md" >}}) and visitor counter
 - 2026-02-01: added post about [Castlevania: Aria of Sorrow]({{< relref "posts/ariaofsorrow.md" >}})

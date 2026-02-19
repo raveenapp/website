@@ -1,5 +1,5 @@
 ---
-date: '2025-02-16'
+date: '2025-02-19'
 draft: false
 title: 'Library'
 ---
@@ -10,6 +10,7 @@ This is a personal collection of things I've watched and read since I started tr
 - Kings of the Wyld by Nicholas Eames
 ### TV Shows
 - His & Her
+- ER Season 3
 ### Games
 - Castlevania: Aria of Sorrow (GBA)
 ### Movies

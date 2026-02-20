@@ -1,5 +1,5 @@
 ---
-date: '2025-02-19'
+date: '2025-02-20'
 draft: false
 title: 'Library'
 ---
@@ -8,6 +8,7 @@ This is a personal collection of things I've watched and read since I started tr
 ## 2026
 ### Books
 - Kings of the Wyld by Nicholas Eames
+- The Old Man and The Sea by Ernest Hemingway
 ### TV Shows
 - His & Her
 - ER Season 3

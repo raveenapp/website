@@ -1,8 +1,9 @@
 ---
-date: '2026-02-16'
+date: '2026-02-25'
 draft: false
 title: 'Changelog'
 ---
+- 2026-02-25: added post about [The Departed]({{< relref "posts/thedeparted.md" >}})
 - 2026-02-17: added post about [The Grand Budapest Hotel]({{< relref "posts/grand-budapest-hotel" >}})
 - 2026-02-16: [Valentines Weekend food log blog post]({{< relref "posts/valentines-food.md" >}})
 - 2026-02-10: added post about [When Harry Met Sally]({{< relref "posts/harry-sally.md" >}})

@@ -3,7 +3,7 @@ title: "52in52: The Departed"
 date: 2026-02-25
 slug: 2026-02-25-thedeparted
 type: posts
-draft: true
+draft: false
 tags:
   - 52in52
   - movies
@@ -20,26 +20,11 @@ figure
   width=60%
 >}}
 
-This is a movie that needs a spoiler free section and a spoiler section:
-Spoiler free points:
-- amazing movie
-- hooked the entire time
-- the movie is a cops and robbers version of when harry met sally
-- every character did a great job, especially jack nicholson
-- i think mark whalburg is a funny actor
-- the movie kept me on my toes and guessing the entire time
-- was a bit confused at the start with all of the names cause the sounded similar
-- 5/5 movie, next week is la la land. The spoilered points will be below the movie list
+This is a movie that needs a spoiler-free section and a spoiler section. The spoiler section will be below the movie list!
+
+This is an amazing movie, there I say "Goddamn Cinema". I was hooked the entire time, although I was confused at the beginning with people's names and how they were connected. The actors were great, Jack Nicholson plays crazy so well. Leonardo's fear and desperation to stop being undercover for his own safety felt so real. Mark Whalburg was good comedic relief in the scenes he was in. The score was phenomenal, and added to the suspense. If I had to summarize the movie, it would be the cops and robbers version of How to Lose a Guy in 10 Days. I did not see the ending coming at all. It was based on an HK movie called Internal Affairs, and I will have to add that to my list. This was a 5/5 movie, next week is La La Land!
 
 {{< movielist >}}
 
-Spoiler points:
-- oh my god was this a crazy a movie
-- by the end I felt like Charlie Day from always sunny piecing together the conspiracy
-- the shit hits the fan after Queenan is killed and i honestly had no idea what each character was gonna do. Everytime Frank told colin to do something, I wondered what spin colin would throw to take the trail of him and then I would wonder what how will would react
-- the cheating therapist subplot felt weird to me, i get it adds to the confusion of the movie and at the end colin is suspicious about her relationship with will (seeing her reaction at the funeral), and then theres some hints about the baby not even being colin. Something about the therapist becoming friends with an almost client felt icky
-- when will is shot in the elevator, i genuinely wondered what the hell was going on and how many rats there were
-- thought that would be the end since there were two rats on the same time as cops, but then colin kills the other cop
-- it really showed the desperation these characters had in understanding who they could trust
-- even wills claim he had loads of evidence from franks lawyer?! was that true?!
-- this movie was amazing and i feel like every rewatch would reveal somehting else
+SPOILER SECTION:
+I can't reiterate enough how crazy the movie felt after Queenan was killed. After that, the stakes went through the roof, and I was at the edge of my seat. I tried to predict how Sullivan or Costigan was going to be caught, but each time, both managed to lose their suspicion. I felt like that scene from Always Sunny in Philadelphia, where Charlie is piecing together the conspiracy. One thing that irked me about the movie was the therapist subplot. I get it's supposed to add confusion at the end of the movie, Sullivan is suspicious about her relationship with Costigan, and if the baby is his, the mystery of the envelope that Costigan gives her. But there was no reason for Costigan and Madolyn to become friends. After she transferred him to a different counsellor, it should have been the end of the relationship. Especially when she only knows that Costigan is a criminal and not an undercover agent. She is deceived by him the same way she is by Sullivan. Maybe that's the point? I was shocked when Barrigan shot Costigan in the elevator. I legitimately didn't expect there to be another rat working for Costello. Then, when Sullivan shot him, too?! The movie really showed that when in that position, you really can't trust anyone or what they say. The movie was amazing and highly recommended.

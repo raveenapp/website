@@ -1,9 +1,23 @@
+<div>
+The rating scale is as followed:
+<ul>
+    <li>1/5 - I don't like it and I don't recommend it</li>
+    <li>2/5 - I liked it but I don't recommend it</li>
+    <li>3/5 - I liked it and I recommend it</li>
+    <li>4/5 - I liked it and I would keep a copy in my collection</li>
+    <li>5/5 - A masterpiece</li>
+</ul>
+</div>
+
+The list:
 {{ range .Site.Data.movielist }}
 <div>
+    <ul>
     {{ if .url }}
         <li><a href="{{ .url }}">{{.title}}</a> - {{.rating}}</li>
     {{ else }}
         <li>{{.title}}</li>
     {{ end }}
+    </ul>
 </div>
 {{end}}

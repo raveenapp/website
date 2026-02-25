@@ -1,13 +1,60 @@
 [
+  {
+    "title": "Bugonia",
+    "url": "/posts/2026-01-06-52moviesin52weeks",
+    "rating": "4/5"
+  },
 
   {
-    "title": "Requiem for a Dream",
+    "title": "Philadelphia",
+    "url": "/posts/2026-01-13-philadelphia/",
+    "rating": "3/5"
+  },
+
+  {
+    "title": "Look Back",
+    "url": "/posts/2026-01-21-lookback",
+    "rating": "5/5"
+  },
+
+  {
+    "title": "Drunken Master",
+    "url": "/posts/2026-01-27-drunkenmaster",
+    "rating": "3/5"
+  },
+
+  {
+    "title": "The Tale of the Princess Kaguya",
+    "url": "/posts/2026-02-02-kaguya",
+    "rating": "3/5"
+  },
+
+  {
+    "title": "When Harry Met Sally",
+    "url": "2026-02-10-harry-sally",
+    "rating": "4/5"
+  },
+
+  {
+    "title": "The Grand Budapest Hotel",
+    "url": "/posts/2026-02-16-grand-budapest-hotel",
+    "rating": "4/5"
+  },
+
+  {
+    "title": "The Departed",
+    "url": "2026-02-25-thedeparted",
+    "rating": "5/5"
+  },
+
+  {
+    "title": "La La Land",
     "url": "",
     "rating": ""
   },
 
   {
-    "title": "The Departed",
+    "title": "Requiem for a Dream",
     "url": "",
     "rating": ""
   },
@@ -24,22 +71,13 @@
     "rating": ""
   },
 
-  {
-    "title": "Philadelphia",
-    "url": "/posts/2026-01-13-philadelphia/",
-    "rating": "3.8/5"
-  },
 
   {
     "title": "Ghost in the Shell",
     "url": "",
     "rating": ""
   },
-  {
-    "title": "When Harry Met Sally",
-    "url": "2026-02-10-harry-sally",
-    "rating": "4/5"
-  },
+
   {
     "title": "American History X",
     "url": "",
@@ -130,11 +168,7 @@
     "url": "",
     "rating": ""
   },
-  {
-    "title": "La La Land",
-    "url": "",
-    "rating": ""
-  },
+
   {
     "title": "Dead Poets Society",
     "url": "",
@@ -180,31 +214,19 @@
     "url": "",
     "rating": ""
   },
-  {
-    "title": "Bugonia",
-    "url": "/posts/2026-01-06-52moviesin52weeks",
-    "rating": "4.6/5"
-  },
+
   {
     "title": "V for Vendetta",
     "url": "",
     "rating": ""
   },
-  {
-    "title": "Drunken Master",
-    "url": "/posts/2026-01-27-drunkenmaster",
-    "rating": "3.6/5"
-  },
+
   {
     "title": "Tokyo Grandfathers",
     "url": "",
     "rating": ""
   },
-  {
-    "title": "Look Back",
-    "url": "/posts/2026-01-21-lookback",
-    "rating": "4.4/5"
-  },
+
   {
     "title": "Call me by your name",
     "url": "",
@@ -215,11 +237,7 @@
     "url": "",
     "rating": ""
   },
-  {
-    "title": "The Grand Budapest Hotel",
-    "url": "/posts/2026-02-16-grand-budapest-hotel",
-    "rating": "4.3/5"
-  },
+
   {
     "title": "Trainspotting",
     "url": "",
@@ -250,11 +268,7 @@
     "url": "",
     "rating": ""
   },
-  {
-    "title": "The Tale of the Princess Kaguya",
-    "url": "/posts/2026-02-02-kaguya",
-    "rating": "3.6/5"
-  },
+
   {
     "title": "When Marnie was There",
     "url": "",

@@ -42,4 +42,4 @@ Spoiler points:
 - thought that would be the end since there were two rats on the same time as cops, but then colin kills the other cop
 - it really showed the desperation these characters had in understanding who they could trust
 - even wills claim he had loads of evidence from franks lawyer?! was that true?!
-- this movie was amazing and i feel like every rewatch would reveal somehting else 
+- this movie was amazing and i feel like every rewatch would reveal somehting else

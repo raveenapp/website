@@ -7,6 +7,7 @@ title: 'Sitemap'
     - [bucket list]({{< relref "bucketlist.md" >}})
     - [library]({{< relref "library.md" >}})
     - [stuff]({{< relref "stuff.md" >}})
+    - [backlog]({{< relref "backlog.md" >}})
 - [posts]({{< relref "posts.md" >}})
 - [gallery]({{< relref "gallery.md" >}})
 - [tags]({{< relref "tags.md" >}})

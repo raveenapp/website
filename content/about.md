@@ -1,5 +1,5 @@
 ---
-date: '2026-01-25'
+date: '2026-02-26'
 draft: false
 title: 'About'
 ---
@@ -24,7 +24,7 @@ Hey! I'm Raveen. If you want to reach out to me feel free at raveen.ca@proton.me
 - Shows: Full Metal Alchemist Brotherhood, Frieren: Beyond Journey's End, Tengen Toppa Gurren Lagann, Bojack Horseman, Brooklyn 99
 - Books: Ender's Game, A man called Ove, Berserk
 - Movies: Spiderman: Across the Spiderverse, 500 Days of Summer, Everything Everywhere all at Once
-- check out more in my [library]({{< relref "library.md" >}})
+- Check out more in my [library]({{< relref "library.md" >}}) or my [backlog]({{< relref "backlog.md" >}})
 
 ### Check out my friends:
 - [pkosierb.com](https://pkosierb.com)

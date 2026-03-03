@@ -31,7 +31,7 @@
 
   {
     "title": "When Harry Met Sally",
-    "url": "2026-02-10-harry-sally",
+    "url": "/posts/2026-02-10-harry-sally",
     "rating": "4/5"
   },
 
@@ -43,12 +43,18 @@
 
   {
     "title": "The Departed",
-    "url": "2026-02-25-thedeparted",
+    "url": "/posts/2026-02-25-thedeparted",
     "rating": "5/5"
   },
 
   {
     "title": "La La Land",
+    "url": "/posts/2026-03-02-lalaland",
+    "rating": "4/5"
+  },
+
+  {
+    "title": "La Haine",
     "url": "",
     "rating": ""
   },
@@ -138,11 +144,7 @@
     "url": "",
     "rating": ""
   },
-  {
-    "title": "La Haine",
-    "url": "",
-    "rating": ""
-  },
+
   {
     "title": "Seven Samurai",
     "url": "",

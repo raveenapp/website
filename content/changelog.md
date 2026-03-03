@@ -1,8 +1,9 @@
 ---
-date: '2026-02-25'
+date: '2026-03-02'
 draft: false
 title: 'Changelog'
 ---
+- 2026-03-02: added [La La Land]({{< relref "lalaland.md" >}}) post
 - 2026-02-26: added [backlog]({{< relref "backlog.md" >}})
 - 2026-02-25: added post about [The Departed]({{< relref "posts/thedeparted.md" >}})
 - 2026-02-17: added post about [The Grand Budapest Hotel]({{< relref "posts/grand-budapest-hotel" >}})

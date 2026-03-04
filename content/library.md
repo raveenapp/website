@@ -33,7 +33,8 @@ This is a personal collection of things I've watched and read since I started tr
 - How to Lose a Guy in 10 Days
 - The Grand Budapest Hotel
 - The Departed
-
+- La La Land 
+- Dear John
 ## 2025
 ### Books
 - A Court of Wings and Ruin

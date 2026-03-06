@@ -14,6 +14,7 @@ This is a personal collection of things I've watched and read since I started tr
 - ER Season 3
 ### Games
 - Castlevania: Aria of Sorrow (GBA)
+- Drill Dozer (GBA)
 ### Movies
 - Evil Influencer: The Jodi Hildebrandt Story
 - Crazy Rich Asians

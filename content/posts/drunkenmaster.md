@@ -12,7 +12,7 @@ tags:
 
 {{< 
 figure
-  src="/images/drunken-master/poster.jpg"
+  src="/images/52in52/drunken-master.jpg"
   alt=""
   link="https://letterboxd.com/film/drunken-master/"
   caption="Movie Poster (From TVDB)"

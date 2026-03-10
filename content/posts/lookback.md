@@ -12,7 +12,7 @@ tags:
 
 {{< 
 figure
-  src="/images/look-back/poster.jpg"
+  src="/images/52in52/look-back.jpg"
   alt="poster of a child in their room working at their desk, with the words look back across the image"
   link="https://letterboxd.com/film/look-back-2024/"
   caption="Look Back Poster (from TVDB)"

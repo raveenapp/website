@@ -12,7 +12,7 @@ tags:
 
 {{< 
 figure
-  src="/images/harry-sally/poster.jpg"
+  src="/images/52in52/harry-sally.jpg"
   alt=""
   link="https://letterboxd.com/film/when-harry-met-sally/"
   caption="Movie Poster (From TVDB)"

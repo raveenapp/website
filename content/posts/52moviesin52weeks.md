@@ -20,7 +20,7 @@ I will be spinning a wheel to decide which movie to watch each week and then I w
 
 {{< 
 figure
-  src="/images/bugonia/poster.jpg"
+  src="/images/52in52/bugonia.jpg"
   alt="A movie poster with a Emma stone on the cover and the words Bugonia at the top"
   link="https://letterboxd.com/film/bugonia/"
   caption="Bugonia Poster (From TVDB)"

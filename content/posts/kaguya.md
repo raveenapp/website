@@ -12,7 +12,7 @@ tags:
 
 {{< 
 figure
-  src="/images/kaguya/poster.jpg"
+  src="/images/52in52/princess-kaguya.jpg"
   alt=""
   link="https://letterboxd.com/film/the-tale-of-the-princess-kaguya/"
   caption="Movie Poster (TVDB)"

@@ -12,7 +12,7 @@ tags:
 
 {{< 
 figure
-  src="/images/philadelphia/cover.jpg"
+  src="/images/52in52/philadelphia.jpg"
   alt="A movie poster with a Tom Hanks and Denzel Washington"
   link="https://letterboxd.com/film/philadelphia/"
   caption="Philadelphia Poster (from TVDB)"

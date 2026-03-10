@@ -7,7 +7,7 @@ draft: false
 tags:
   - 52in52
   - movies
-  - review
+  - reviews
 ---
 
 {{< 

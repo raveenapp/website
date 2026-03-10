@@ -6,7 +6,7 @@ type: posts
 draft: false
 tags:
   - video games
-  - review
+  - reviews
 ---
 
 {{< 

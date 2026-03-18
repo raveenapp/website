@@ -28,7 +28,7 @@ Hey! I'm Raveen. If you want to reach out to me feel free at raveen.ca@proton.me
 
 ### Check out my friends:
 - [pkosierb.com](https://pkosierb.com)
-- [tfren99](https://thomasfrench.ca/)
+- [thomas](https://thomasfrench.ca/)
 
 ### Webrings I'm in (or applying):
 {{< webrings >}}

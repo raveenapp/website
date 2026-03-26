@@ -36,6 +36,9 @@ This is a personal collection of things I've watched and read since I started tr
 - The Departed
 - La La Land 
 - Dear John
+- Dead Poets Society
+- Code 3
+- Project Hail Mary
 ## 2025
 ### Books
 - A Court of Wings and Ruin

@@ -73,10 +73,16 @@
 
   {
     "title": "Alien",
+    "url": "/posts/2026-04-01-alien",
+    "rating": "5/5"
+  },
+
+  {
+    "title": "Jojo Rabbit",
     "url": "",
     "rating": ""
   },
-
+  
   {
     "title": "Requiem for a Dream",
     "url": "",
@@ -117,11 +123,7 @@
     "url": "",
     "rating": ""
   },
-  {
-    "title": "Jojo Rabbit",
-    "url": "",
-    "rating": ""
-  },
+
   {
     "title": "Schindler’s List",
     "url": "",

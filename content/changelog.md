@@ -3,6 +3,7 @@ date: '2026-03-02'
 draft: false
 title: 'Changelog'
 ---
+- 2026-04-08: added [Jojo Rabbit]({{< relref "jojo-rabbit.md" >}}) post
 - 2026-04-01: added [Alien]({{< relref "alien.md" >}}) post
 - 2026-03-29: added [Call Me By Your Name]({{< relref "callmebyyourname.md" >}}) post
 - 2026-03-17: added [Dead Poets Society]({{< relref "dead-poets-society.md" >}}) post

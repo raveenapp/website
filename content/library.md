@@ -14,6 +14,7 @@ This is a personal collection of things I've watched and read since I started tr
 - ER Season 3
 - Jujutsu Kaisen Season 3
 - Hell's Paradise Season 2
+- Frieren: Beyond Journey’s End Season 2
 ### Games
 - Castlevania: Aria of Sorrow (GBA)
 - Drill Dozer (GBA)
@@ -42,6 +43,7 @@ This is a personal collection of things I've watched and read since I started tr
 - Code 3
 - Project Hail Mary
 - Alien
+- Pacific Rim (Rewatch)
 ## 2025
 ### Books
 - A Court of Wings and Ruin

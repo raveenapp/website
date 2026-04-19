@@ -15,6 +15,7 @@ This is a personal collection of things I've watched and read since I started tr
 - Jujutsu Kaisen Season 3
 - Hell's Paradise Season 2
 - Frieren: Beyond Journey’s End Season 2
+- The Pitt Season 2
 ### Games
 - Castlevania: Aria of Sorrow (GBA)
 - Drill Dozer (GBA)

@@ -3,12 +3,12 @@ date: '2026-03-02'
 draft: false
 title: 'Changelog'
 ---
-
-- 2026-04-08: added [Jojo Rabbit]({{< relref "jojo-rabbit.md" >}}) post
-- 2026-04-01: added [Alien]({{< relref "alien.md" >}}) post
-- 2026-03-29: added [Call Me By Your Name]({{< relref "callmebyyourname.md" >}}) post
-- 2026-03-17: added [Dead Poets Society]({{< relref "dead-poets-society.md" >}}) post
-- 2026-03-02: added [La La Land]({{< relref "lalaland.md" >}}) post
+- 2026-05-08: added [The Sixth Sense]({{< relref "posts/sixth-sense.md" >}}) and [Memento]({{< relref "posts/memento.md" >}}) posts
+- 2026-04-08: added [Jojo Rabbit]({{< relref "posts/jojo-rabbit.md" >}}) post
+- 2026-04-01: added [Alien]({{< relref "posts/alien.md" >}}) post
+- 2026-03-29: added [Call Me By Your Name]({{< relref "posts/callmebyyourname.md" >}}) post
+- 2026-03-17: added [Dead Poets Society]({{< relref "posts/dead-poets-society.md" >}}) post
+- 2026-03-02: added [La La Land]({{< relref "posts/lalaland.md" >}}) post
 - 2026-02-26: added [backlog]({{< relref "backlog.md" >}})
 - 2026-02-25: added post about [The Departed]({{< relref "posts/thedeparted.md" >}})
 - 2026-02-17: added post about [The Grand Budapest Hotel]({{< relref "posts/grand-budapest-hotel" >}})

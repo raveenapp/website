@@ -16,6 +16,8 @@ This is a personal collection of things I've watched and read since I started tr
 - Hell's Paradise Season 2
 - Frieren: Beyond Journey’s End Season 2
 - The Pitt Season 2
+- SpyxFamily Season 3
+- Invincible Season 4
 ### Games
 - Castlevania: Aria of Sorrow (GBA)
 - Drill Dozer (GBA)
@@ -45,6 +47,11 @@ This is a personal collection of things I've watched and read since I started tr
 - Project Hail Mary
 - Alien
 - Pacific Rim (Rewatch)
+- Jojo Rabbit
+- War Game
+- The Sixth Sense
+- Memento
+
 ## 2025
 ### Books
 - A Court of Wings and Ruin

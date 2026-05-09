@@ -84,6 +84,24 @@
   },
   
   {
+    "title": "The Sixth Sense",
+    "url": "/posts/2026-05-08-sixth-sense",
+    "rating": "5/5"
+  },
+
+  {
+    "title": "Momento",
+    "url": "/posts/2026-05-08-memento",
+    "rating": "5/5"
+  },
+
+  {
+    "title": "Ghost in the Shell",
+    "url": "",
+    "rating": ""
+  },
+
+  {
     "title": "Requiem for a Dream",
     "url": "",
     "rating": ""
@@ -97,13 +115,6 @@
 
   {
     "title": "A Few Good Men",
-    "url": "",
-    "rating": ""
-  },
-
-
-  {
-    "title": "Ghost in the Shell",
     "url": "",
     "rating": ""
   },
@@ -134,11 +145,7 @@
     "url": "",
     "rating": ""
   },
-  {
-    "title": "Momento",
-    "url": "",
-    "rating": ""
-  },
+
   {
     "title": "Memories and Murder",
     "url": "",
@@ -192,11 +199,7 @@
     "url": "",
     "rating": ""
   },
-  {
-    "title": "The Sixth Sense",
-    "url": "",
-    "rating": ""
-  },
+
   {
     "title": "Training Day",
     "url": "",

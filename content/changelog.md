@@ -3,6 +3,7 @@ date: '2026-03-02'
 draft: false
 title: 'Changelog'
 ---
+- 2026-05-31: updated library and sidebar
 - 2026-05-08: added [The Sixth Sense]({{< relref "posts/sixth-sense.md" >}}) and [Memento]({{< relref "posts/memento.md" >}}) posts
 - 2026-04-08: added [Jojo Rabbit]({{< relref "posts/jojo-rabbit.md" >}}) post
 - 2026-04-01: added [Alien]({{< relref "posts/alien.md" >}}) post

@@ -18,9 +18,14 @@ This is a personal collection of things I've watched and read since I started tr
 - The Pitt Season 2
 - SpyxFamily Season 3
 - Invincible Season 4
+- The Boys Season 5
+- Sakamoto Days
+- Running Point Season 1
 ### Games
 - Castlevania: Aria of Sorrow (GBA)
 - Drill Dozer (GBA)
+- Pokemon Mystery Dungeon: Red Rescue Team (GBA)
+- Pokemon Pokopia (Switch 2)
 ### Movies
 - Evil Influencer: The Jodi Hildebrandt Story
 - Crazy Rich Asians
@@ -51,6 +56,8 @@ This is a personal collection of things I've watched and read since I started tr
 - War Game
 - The Sixth Sense
 - Memento
+- Training Day
+- The Crash
 
 ## 2025
 ### Books

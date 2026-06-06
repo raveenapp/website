@@ -1,5 +1,5 @@
 ---
-date: '2025-02-20'
+date: '2026-06-05'
 draft: false
 title: 'Library'
 ---
@@ -21,6 +21,7 @@ This is a personal collection of things I've watched and read since I started tr
 - The Boys Season 5
 - Sakamoto Days
 - Running Point Season 1
+- Dandadan Season 2
 ### Games
 - Castlevania: Aria of Sorrow (GBA)
 - Drill Dozer (GBA)
@@ -56,9 +57,12 @@ This is a personal collection of things I've watched and read since I started tr
 - War Game
 - The Sixth Sense
 - Memento
+- The Count of Monte Cristo
+- Ghost In The Shell
+- Groundhog Day
 - Training Day
 - The Crash
-
+- The Cat Returns
 ## 2025
 ### Books
 - A Court of Wings and Ruin

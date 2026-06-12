@@ -6,6 +6,7 @@ type: posts
 draft: false
 tags:
   - rambles
+  - technology
 ---
 
 About half a year ago, I saw a youtube video by Savah Davis Baker called [The Internet Used to be a Place](https://www.youtube.com/watch?v=oYlcUbLAFmw). It was a phenomenal video about how the internet was treated. Growing up I had a computer room, my dad's office dedicated to the computer. If I wanted to access the internet we had to do it on that computer. When I was done with computer, I left the room and disconnected. 

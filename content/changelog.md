@@ -3,6 +3,7 @@ date: '2026-03-02'
 draft: false
 title: 'Changelog'
 ---
+- 2026-06-11: added new blog post: Re-evaluating my relationship with my phone
 - 2026-06-05: added post about catching up on te 52in52
 - 2026-05-31: updated library and sidebar
 - 2026-05-08: added [The Sixth Sense]({{< relref "posts/sixth-sense.md" >}}) and [Memento]({{< relref "posts/memento.md" >}}) posts

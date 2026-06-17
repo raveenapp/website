@@ -22,6 +22,7 @@ This is a personal collection of things I've watched and read since I started tr
 - Sakamoto Days
 - Running Point Season 1
 - Dandadan Season 2
+- Running Point Season 2
 ### Games
 - Castlevania: Aria of Sorrow (GBA)
 - Drill Dozer (GBA)
@@ -63,6 +64,8 @@ This is a personal collection of things I've watched and read since I started tr
 - Training Day
 - The Crash
 - The Cat Returns
+- The Wild Robot
+- Apollo 13
 ## 2025
 ### Books
 - A Court of Wings and Ruin

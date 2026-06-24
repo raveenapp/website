@@ -57,6 +57,9 @@ This is a list of media I have a yet to consume. This isn't particularly the ord
 - Tokyo Express by Seicho Matsumoto
 - Mood Machine: The Rise of Spotify and the Costs of the Perfect Playlist by Liz Pelly
 - The Last Train from Hiroshima: The Survivors Look Back by Charles Pellegrino
+- The Score by C.Thi Nguyen
+- Against The Machine by Paul Kingsnorth
+- Dungeon Crawler Carl by Matt Dinniman
 
 
 

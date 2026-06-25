@@ -9,6 +9,8 @@ This is a personal collection of things I've watched and read since I started tr
 ### Books
 - Kings of the Wyld by Nicholas Eames
 - The Old Man and The Sea by Ernest Hemingway
+- East of Eden by John Steinbeck
+- A Study in Scarlet by Sir Arthur Conan Doyle
 ### TV Shows
 - His & Her
 - ER Season 3

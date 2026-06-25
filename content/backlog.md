@@ -23,7 +23,7 @@ This is a list of media I have a yet to consume. This isn't particularly the ord
 - Internal Affairs
 - Lost in Translation
 - Heat
-- The Partent Trap
+- The Parent Trap
 - Once upon a Time in Hollywood
 - Drive
 - Frankenstein
@@ -34,8 +34,6 @@ This is a list of media I have a yet to consume. This isn't particularly the ord
 - Serverance
 
 # Books
-- A Study in Scarlet by Sir Arthur Conan Doyle
-- Home Truths: Fixing Canada's Housing Crisis by Carolyn Whitzman
 - Breakneck China: Quest to Engineer the Future by Dan Wang
 - Empire of AI by Karen Hao
 - The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma by Bessel van der Kolke 

@@ -68,6 +68,7 @@ This is a personal collection of things I've watched and read since I started tr
 - The Cat Returns
 - The Wild Robot
 - Apollo 13
+- A Few Good Men
 ## 2025
 ### Books
 - A Court of Wings and Ruin

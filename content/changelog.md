@@ -3,6 +3,7 @@ date: '2026-03-02'
 draft: false
 title: 'Changelog'
 ---
+- 2026-07-12: added post about Sound of Music and The Bridge on the River Kwai
 - 2026-06-26: added blog post about A Few Good Men
 - 2026-06-17: added post about Apollo 13 (the movie) and updated the library/sidebar
 - 2026-06-14: added blog post about The Wild Robot

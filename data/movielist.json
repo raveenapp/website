@@ -146,9 +146,17 @@
 
   {
     "title": "Sound of Music",
-    "url": "",
-    "rating": ""
+    "url": "/posts/2026-07-12-bridge-on-the-river-kwai-sound-of-music",
+    "rating": "3/5"
   },
+
+  {
+    "title": "Bridge on the River Kwai",
+    "url": "/posts/2026-07-12-bridge-on-the-river-kwai-sound-of-music",
+    "rating": "4/5"
+  },
+
+
 
   {
     "title": "Requiem for a Dream",
@@ -241,11 +249,6 @@
 
   {
     "title": "Nightcrawler",
-    "url": "",
-    "rating": ""
-  },
-  {
-    "title": "Bridge on the River Kwai",
     "url": "",
     "rating": ""
   },

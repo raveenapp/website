@@ -1,5 +1,5 @@
 ---
-title: "A Few Good Men"
+title: "52in52: A Few Good Men"
 date: 2026-06-26
 slug: 2026-06-26-a-few-good-men
 type: posts

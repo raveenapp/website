@@ -69,6 +69,16 @@ This is a personal collection of things I've watched and read since I started tr
 - The Wild Robot
 - Apollo 13
 - A Few Good Men
+- Sound of Music
+- Toy Story 1 
+- Toy Story 2
+- Toy Story 3
+- Toy Story 4
+- Finding Nemo
+- The Lion King
+- The Bridge on the River Kwai
+- Toy Story 5
+
 ## 2025
 ### Books
 - A Court of Wings and Ruin

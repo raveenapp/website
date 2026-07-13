@@ -1,5 +1,5 @@
 ---
-title: "Apollo 13"
+title: "52in52: Apollo 13"
 date: 2026-06-17
 slug: 2026-06-17-apollo-13
 type: posts

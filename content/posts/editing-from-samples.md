@@ -3,7 +3,7 @@ title: "Editing From Samples"
 date: 2026-09-04
 slug: 2026-09-04-editing-from-samples
 type: posts
-draft: true
+draft: false
 tags:
   - rambles
 ---

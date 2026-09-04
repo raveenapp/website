@@ -27,6 +27,8 @@ This is a list of media I have a yet to consume. This isn't particularly the ord
 - Once upon a Time in Hollywood
 - Drive
 - Frankenstein
+- Hateful Eight
+- Black Swan
 
 # Shows
 - Daisy Jones & The Six

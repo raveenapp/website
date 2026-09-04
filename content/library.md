@@ -11,6 +11,12 @@ This is a personal collection of things I've watched and read since I started tr
 - The Old Man and The Sea by Ernest Hemingway
 - East of Eden by John Steinbeck
 - A Study in Scarlet by Sir Arthur Conan Doyle
+- Home Truths: Fixing Canada's Housing Crisis by Carolyn Whitzman
+- The Anxious Generation by Jonathan Haidt
+- This Is How You Lose the Time War by Amal El-Mohtar and Max Gladstone
+- Katabasis by R.F. Kuang
+- Pirate Cinema by Cory Doctorow
+
 ### TV Shows
 - His & Her
 - ER Season 3
@@ -25,11 +31,14 @@ This is a personal collection of things I've watched and read since I started tr
 - Running Point Season 1
 - Dandadan Season 2
 - Running Point Season 2
+- Four Season's Season 1 and 2
 ### Games
 - Castlevania: Aria of Sorrow (GBA)
 - Drill Dozer (GBA)
 - Pokemon Mystery Dungeon: Red Rescue Team (GBA)
 - Pokemon Pokopia (Switch 2)
+- Pokemon Legends: ZA (Switch 2)
+- The Legend of Zelda: Breath of the Wild (Switch 2)
 ### Movies
 - Evil Influencer: The Jodi Hildebrandt Story
 - Crazy Rich Asians
@@ -77,8 +86,21 @@ This is a personal collection of things I've watched and read since I started tr
 - Finding Nemo
 - The Lion King
 - The Bridge on the River Kwai
+- Tokyo Grandfathers
+- Moana (2026)
 - Toy Story 5
-
+- A Bugs Life
+- The Incredibles
+- The Drama
+- The Green Room
+- Obsession
+- Inside Out
+- The Devil Wears Prada 2
+- Ice Princess
+- Only Yesterday
+- Requiem for a Deam
+- V for Vendetta
+- 100 METERS
 ## 2025
 ### Books
 - A Court of Wings and Ruin

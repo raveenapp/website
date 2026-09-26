@@ -175,6 +175,12 @@
   },
 
   {
+    "title": "The Shining",
+    "url": "/posts/2026-09-01-52in52catchup2",
+    "rating": "4/5"
+  },
+
+  {
     "title": "Requiem for a Dream",
     "url": "/posts/2026-09-01-52in52catchup2",
     "rating": "5/5"
@@ -195,6 +201,18 @@
 
   {
     "title": "Paprika",
+    "url": "/posts/2026-09-01-52in52catchup2",
+    "rating": "3/5"
+  },
+
+  {
+    "title": "Clue",
+    "url": "/posts/2026-09-01-52in52catchup2",
+    "rating": "3/5"
+  },
+
+  {
+    "title": "Nightcrawler",
     "url": "",
     "rating": ""
   },
@@ -206,11 +224,6 @@
   },
   {
     "title": "The Thing",
-    "url": "",
-    "rating": ""
-  },
-  {
-    "title": "Clue",
     "url": "",
     "rating": ""
   },
@@ -245,11 +258,6 @@
   },
 
   {
-    "title": "The Shining",
-    "url": "",
-    "rating": ""
-  },
-  {
     "title": "Cast Away",
     "url": "",
     "rating": ""
@@ -257,12 +265,6 @@
 
   {
     "title": "Contact",
-    "url": "",
-    "rating": ""
-  },
-
-  {
-    "title": "Nightcrawler",
     "url": "",
     "rating": ""
   },

@@ -16,7 +16,7 @@ This is a personal collection of things I've watched and read since I started tr
 - This Is How You Lose the Time War by Amal El-Mohtar and Max Gladstone
 - Katabasis by R.F. Kuang
 - Pirate Cinema by Cory Doctorow
-
+- The Poet Empress by Shen Tao
 ### TV Shows
 - His & Her
 - ER Season 3
@@ -32,6 +32,7 @@ This is a personal collection of things I've watched and read since I started tr
 - Dandadan Season 2
 - Running Point Season 2
 - Four Season's Season 1 and 2
+- Adults Season 1
 ### Games
 - Castlevania: Aria of Sorrow (GBA)
 - Drill Dozer (GBA)
@@ -39,6 +40,7 @@ This is a personal collection of things I've watched and read since I started tr
 - Pokemon Pokopia (Switch 2)
 - Pokemon Legends: ZA (Switch 2)
 - The Legend of Zelda: Breath of the Wild (Switch 2)
+- Orbital
 ### Movies
 - Evil Influencer: The Jodi Hildebrandt Story
 - Crazy Rich Asians
@@ -101,6 +103,10 @@ This is a personal collection of things I've watched and read since I started tr
 - Requiem for a Deam
 - V for Vendetta
 - 100 METERS
+- Paprika
+- Clue
+- Get Smart
+
 ## 2025
 ### Books
 - A Court of Wings and Ruin

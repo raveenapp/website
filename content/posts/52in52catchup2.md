@@ -70,6 +70,7 @@ figure
 >}}
 
 A movie about revolution! It was a fun watch with a great message about standing up against corruption 4/5.
+
 {{< 
 figure
   src="/images/52in52/100-meters.jpg"
@@ -104,7 +105,7 @@ figure
   width=60%
 >}}
 
-Truely a fun watch! All the characters were so enjoyable and the story was cute and the gags made me laugh out loud! I recommend 3/5.
+Truely a fun watch! All the characters were so enjoyable and the story was cute and the gags made me laugh out loud. It's worth a rewatch to see the details missed on the first pass, 4/5.
 
 The next movie will be Nightcrawler!! I'm still 2 movies behind to get back on track but I'll get back to one a week soon.
 
